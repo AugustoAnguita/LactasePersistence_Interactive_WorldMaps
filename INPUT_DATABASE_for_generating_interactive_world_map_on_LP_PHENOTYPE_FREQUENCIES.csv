@@ -1,0 +1,513 @@
+;Country;Population;longitude;latitude;N;Frequency_of_digestors;Reference
+522;AFGHANISTAN;Hazara;69,18;34,52;10;0,2;Rahimi, A. G., et al. (1976) Hum.Genet. 34, 57.
+523;AFGHANISTAN;Mixed urban;69,18;34,52;34;0,24;Rahimi, A. G., et al. (1976) Hum.Genet. 34, 57.
+524;AFGHANISTAN;Pasha-I;71;36;60;0,13;Rahimi, A. G., et al. (1976) Hum.Genet. 34, 57.
+525;AFGHANISTAN;Pashtun;69,18;34,52;71;0,21;Rahimi, A. G., et al. (1976) Hum.Genet. 34, 57.
+526;AFGHANISTAN;Tajik;69,18;34,52;79;0,18;Rahimi, A. G., et al. (1976) Hum.Genet. 34, 57.
+527;AFGHANISTAN;Uzbek;69,18;34,52;16;0;Rahimi, A. G., et al. (1976) Hum.Genet. 34, 57.
+1;Algeria;Mozabite;1,659626;28,033886;60;0,39;Bersaglieri, 04 (with adaptions in Itan 10)
+2;Angola;Kuvale;17,873887;-11,202692;54;0,12;Coelho, 09
+3;Angola;Nyaneka-Nkhumbi;17,873887;-11,202692;153;0,06;Coelho, 09
+4;Angola;Ovimbundu;17,873887;-11,202692;96;0,02;Coelho, 09
+5;Angola;San;17,873887;-11,202692;20;0,1;Breton, 2014. Lactase
+6;Angola;San (Khoe speaking) in Angola, Botswana and Namibia;17,873887;-11,202692;19;0,05;Breton, 2014. Lactase
+7;Australia;Caucasians;133,775136;-25,274398;71;0,82;Barrett, 2009. Comparison
+8;Australia;Aboriginal adults (around Derby in Western Australia);133,775136;-25,274398;45;0,16;Brand, 1983. Lactose
+9;Austria;Adolescent Austrians;14,550072;47,516231;528;0,799;Rosenkranz, 82. Distribution
+10;Austria;Not specified;14,550072;47,516231;30;0,8;Ledochowski, 98. Lactose
+11;Austria;Not specified;14,550072;47,516231;33;0,879;Finkenstedt, 86. Lactose.
+12;Austria;Caucasian men (ethnicitity not specified);14,550072;47,516231;239;0,73;Gugatschka, 2007. Calcium
+454;AUSTRIA;Austrian;14;47,75;118;0,75;Rosenkranz, W., et al. (1982) Hum.Genet 62, 158.
+455;AUSTRIA;Austrian;14;47,75;57;0,79;Rosenkranz, W., et al. (1982) Hum.Genet 62, 158.
+456;AUSTRIA;Austrian;14;47,75;88;0,8;Rosenkranz, W., et al. (1982) Hum.Genet 62, 158.
+457;AUSTRIA;Austrian;14;47,75;32;0,81;Rosenkranz, W., et al. (1982) Hum.Genet 62, 158.
+458;AUSTRIA;Karnten Austrian;14,31;46,62;46;0,8;Rosenkranz, W., et al. (1982) Hum.Genet 62, 158.
+459;AUSTRIA;Oberosterreich Austrian;14,3;48,3;45;0,84;Rosenkranz, W., et al. (1982) Hum.Genet 62, 158.
+460;AUSTRIA;Tirol Austrian;9,77;47,5;124;0,83;Rosenkranz, W., et al. (1982) Hum.Genet 62, 158.
+13;Belgium;Not specified;4,469936;50,503887;1051;0,85;Houben, 15. Additional
+14;Botswana;San (Khoe speaking);24,684866;-22,328474;20;0,15;Breton, 2014. Lactase
+314;BOTSWANA;Shua;25;-25;22;0,09;Nurse, G. T., & Jenkins, T. (1974) Br. Med. J. 2, 728.
+15;Brazil;Not specified;-51,92528;-14,235004;501;0,409;De Campos, 2016. Hypolactasia.
+16;Brazil;Individuals in Porto Alegre (European ancestry);-51,92528;-14,235004;337;0,514;Friedrich, 2012. Several
+17;Brazil;Individuals in Porto Alegre (African ancestry);-51,92528;-14,235004;182;0,319;Friedrich, 2012. Several
+18;Brazil;Individuals in Belem;-51,92528;-14,235004;200;0,31;Friedrich, 2012. Several
+19;Brazil;Induviduals in Recife;-51,92528;-14,235004;262;0,366;Friedrich, 2012. Several
+20;Brazil;4 groups of Amerindians (Guarani-Kaiowá, Guarani-Nandeva, Kaingang, Xavante);-51,92528;-14,235004;316;0,054;Friedrich, 2012. Stability
+21;Brazil;Euro-Brazilians from South Brazil;-51,92528;-14,235004;292;0,555;Boschmann, 2016. The frequency
+22;Brazil;Mennonites from South Brazil;-51,92528;-14,235004;151;0,88;Boschmann, 2016. The frequency
+23;Brazil;White people;-51,92528;-14,235004;399;0,434;Mattar, 09. Frequency
+24;Brazil;Brown people;-51,92528;-14,235004;65;0,431;Mattar, 09. Frequency
+25;Brazil;Black people;-51,92528;-14,235004;50;0,2;Mattar, 09. Frequency
+26;Brazil;Japanese-Brazilians;-51,92528;-14,235004;53;0;Mattar, 09. Frequency
+27;Cambodia;Cambodian;104,990963;12,565679;22;0;Bersaglieri, 04
+28;Cameroon;Mambila;12,354722;7,369722;122;0;Jones, 2015. Diversity (supplementary table 2)
+29;Cameroon;Mambila;12,354722;7,369722;244;0,01;Mulcare,04
+30;Cameroon;Shuwa Arab;12,354722;7,369722;102;0,151;Jones, 2015. Diversity (supplementary table 2)
+31;Cameroon;Fulbe;12,354722;7,369722;98;0,21;Mulcare, 04
+32;Cameroon;Hausa;12,354722;7,369722;36;0,26;Mulcare, 04
+33;Cameroon;Nso;12,354722;7,369722;252;0;Mulcare, 04
+34;Cameroon;Yamba;12,354722;7,369722;42;0;Mulcare, 04
+35;Cameroon;Pygmy;12,354722;7,369722;32;0;Jones, 2015. Diversity (supplementary table 2)
+36;Canada;Manitoban Indians (Sioux and Saulteux);-106,346771;56,130366;22;0,09;Ellestad Sayed, 1977. Disaccharide
+37;Canada;Czechoslovakian immigrants in Western Canada;-106,346771;56,130366;17;0,824;Leichter, 1972. Lactose
+38;Chile;Not specified;-71,542969;-35,675147;121;0,66;Latorre, 2014. Prevalence
+39;Chile;Mapuche Populations From Southern Chile;-71,542969;-35,675147;29;0,1;Fernandez, 2014. Brief
+40;Chile;Mestizo Populations From Southern Chile;-71,542969;-35,675147;115;0,3;Fernandez, 2014. Brief
+313;Chile;Chile, general;-71,54;-35,68;NA;0,2;Bayless 2017
+41;China;People from 13 different regions in China;104,195397;35,86166;330;0;Bersaglieri, 04 (with adaptions in Itan 10)
+42;China;Mongol;104,195397;35,86166;82;0,049;Sun, 07. The
+43;China;Mongol;104,195397;35,86166;20;0,19;Bersaglieri, 04 (with adaptions in Itan 10)
+44;China;Uygur;104,195397;35,86166;20;0,1;Bersaglieri, 04 (with adaptions in Itan 10)
+45;China;Kazakh in the north of China;104,195397;35,86166;195;0,236;Wang, 84. Prevalence
+46;China;Kazak;104,195397;35,86166;94;0,096;Sun, 07. The
+47;China;Man;104,195397;35,86166;75;0;Sun, 07. The
+48;China;Oroqen;104,195397;35,86166;45;0,022;Sun, 07. The
+49;China;Hezhen;104,195397;35,86166;77;0;Sun, 07. The
+50;China;People in Sichuan ;104,195397;35,86166;182;0,64;Qiao, 11. Milk
+51;China;Not specified;104,195397;35,86166;64;0,719;Luo, 13. Lactose
+52;China;Singapore-born Chinese;104,195397;35,86166;77;0,05;Yap, 89. Lactase
+53;China;Canada-born Chinese;104,195397;35,86166;49;0,02;Yap, 89. Lactase
+54;China;Han Chinese;104,195397;35,86166;100;0;Enattah, 2007. Evidence
+55;China;Han Chinese in the north of China;104,195397;35,86166;248;0,077;Wang, 84. Prevalence = Yongfa 84
+56;China;Not specified;104,195397;35,86166;32;0,09;Zhao, 10. Lactose
+57;China;People in Hangzhou, ethnicity not specified;104,195397;35,86166;64;0,25;Zhu, 2013. Bloating
+413;CHINA;Kazakh;87,58;43,8;195;0,24;Yongfa, W., et al. (1984) Hum.Genet. 67, 103.
+414;CHINA;Mongols;111,65;40,81;198;0,12;Yongfa, W., et al. (1984) Hum.Genet. 67, 103.
+415;CHINA;Northern Han;116,39;39,93;248;0,08;Yongfa, W., et al. (1984) Hum.Genet. 67, 103.
+58;Colombia;Caribbean;-74,297333;4,570868;128;0,2;Mendoza, 12. Diagnosis
+59;Congo [DRC];Bantu speakers;21,758664;-4,038333;11;0;Breton, 2014. Lactase
+60;Congo [Republic];Brazaville;15,827659;-0,228021;90;0;Jones, 2015. Diversity (supplementary table 2)
+461;CYPRUS;Greek Cypriots;33,37;35,17;50;0,34;Kanaghinis, T., et al. (1974) Am.J.Dig.Dis. 19, 1021.
+462;DENMARK;Danes;12,58;55,73;91;0,96;Busk, H. E., et al. (1975) Ugeskr Laeger 137, 2062-4.
+62;Egypt;Ethnic groups from Sinai in the Eastern Desert;30,802498;26,820553;72;0,89;Hussein, 1994. The frequency
+63;Egypt;Ethnic groups from the New Valley in the Western Desert;30,802498;26,820553;100;0,49;Hussein, 1994. The frequency
+315;EGYPT;Cairo and Giza;31,25;30,05;67;0,33;Hussein, L., et al. (1982) Hum.Hered. 32, 94.
+316;EGYPT;Nile Delta;32;31,5;291;0,27;Hussein, L., et al. (1982) Hum.Hered. 32, 94.
+317;EGYPT;Suez Canal Zone;32,5;31;16;0,31;Hussein, L., et al. (1982) Hum.Hered. 32, 94.
+318;EGYPT;Upper Egypt, North;28;31;111;0,15;Hussein, L., et al. (1982) Hum.Hered. 32, 94.
+319;EGYPT;Upper Egypt, South;28;28;85;0,4;Hussein, L., et al. (1982) Hum.Hered. 32, 94.
+64;Estonia;Estonians (at least 3 grand parents Estonians);25,013607;58,595272;314;0,752;"Lember, 06. Lactase non-persistence 
+
+"
+463;ESTONIA;Estonian;26,7;58,23;112;0,75;Lember, M., et al. (1991) Eur J Gastroenterol Hepatol 3, 479.
+464;ESTONIA;Setus;27,64;57,96;100;0,51;Lember, M., et al. (1991) Eur J Gastroenterol Hepatol 3, 479.
+65;Ethiopia;Maale;40,489673;9,145;122;0,216;Jones, 2015. Diversity (supplementary table 2)
+66;Ethiopia;Afar;40,489673;9,145;144;0,691;Jones, 2015. Diversity (supplementary table 2)
+67;Ethiopia;Amharic;40,489673;9,145;142;0,237;Jones, 2015. Diversity (supplementary table 2)
+68;Ethiopia;Anuak;40,489673;9,145;138;0;Jones, 2015. Diversity (supplementary table 2)
+69;Ethiopia;Oromo;40,489673;9,145;148;0,343;Jones, 2015. Diversity (supplementary table 2)
+70;Ethiopia;Manjo;40,489673;9,145;60;0,097;Jones, 2015. Diversity (supplementary table 2)
+71;Ethiopia;Nuer;40,489673;9,145;238;0;Mulcare, 04
+72;Ethiopia;Nuer;40,489673;9,145;66;0;Jones, 2015. Diversity (supplementary table 2)
+73;Ethiopia;Shabo;40,489673;9,145;40;0;Jones, 2015. Diversity (supplementary table 2)
+74;Ethiopia;Suri;40,489673;9,145;84;0,093;Jones, 2015. Diversity (supplementary table 2)
+320;ETHIOPIA;Somali;41,86;9,59;90;0,24;Ingram et al. (2009, submitted) J Mol Evol.
+75;Finland;Mountain Saami (Utsjoki);25,748151;61,92411;158;0,66;Kozlov, 97
+76;Finland;Saami (Inari, fisher);25,748151;61,92411;110;0,75;Kozlov, 97
+77;Finland;Not specified;25,748151;61,92411;1900;0,82;Anthoni, 2007. Molecularly
+78;Finland;Saami;25,748151;61,92411;30;0,333;Enattah, 2007. Evidence
+79;Finland;Not specified;25,748151;61,92411;2265;0,824;Lehtimaki, 06. The effects
+80;Finland;Not specified;25,748151;61,92411;234;0,829;Enattah, 2004. Molecularly
+81;Finland;Mountain Saami (Inari);25,748151;61,92411;75;0,63;Kozlov, 97
+82;Finland;Eastern Finland;25,748151;61,92411;77;0,766;Enattah, 2007. Evidence
+83;Finland;Western Finland;25,748151;61,92411;154;0,837;Enattah, 2007. Evidence
+465;FINLAND;Finnish-speaking Finns;21,43;60,6;91;0,92;Sahi, T. (1974) Scand.J.Gastroenterol. 9, 303.
+466;FINLAND;Finns;27,68;62,9;638;0,83;Jussila, J. (1969) Ann.Clin.Res. 1, 199.
+467;FINLAND;Rural Finn;21,93;60,41;159;0,83;Jussila, J., et al. (1970) Scand.J.Gastroenterol. 5, 49.
+468;FINLAND;Swedish-speaking Finns;21,43;60,6;156;0,83;Sahi, T. (1974) Scand.J.Gastroenterol. 9, 303.
+469;FORMER CZECHOSLOVAKIA;Czech;17,5;49;17;0,82;Leichter, J. (1972) Am.J.Dig.Dis. 17, 73.
+84;France;French Basque;2,213749;46,227638;48;0,89;Bersaglieri, 04 (with adaptions in Itan 10)
+85;France;French;2,213749;46,227638;58;0,68;Bersaglieri, 04 (with adaptions in Itan 10)
+86;France;Not specified;2,213749;46,227638;17;0,588;Enattah, 2007. Evidence
+470;FRANCE;French;5,82;44,93;102;0,76;Cloarec, D., et al. (1991) Gastroenterol.Clin.Biol 15, 588.
+471;FRANCE;French;6,63;49,75;85;0,71;Cuddenec, Y., et al. (1982) Gastroenterol.Clin.Biol 6, 776.
+472;FRANCE;Maghrebins (Northern African Muslims);7,25;43,7;55;0,22;O'Morain, C., et al. (1978) Acta Gastroenterol Belg 41, 56-63.
+473;FRANCE;Northern French;6,63;49,75;76;0,78;Cuddenec, Y., et al. (1982) Gastroenterol.Clin.Biol 6, 776.
+474;FRANCE;Southern French;6,63;49,75;40;0,43;Cuddenec, Y., et al. (1982) Gastroenterol.Clin.Biol 6, 776.
+475;FRANCE;Southern French;7,25;43,7;55;0,58;O'Morain, C., et al. (1978) Acta Gastroenterol Belg 41, 56-63.
+321;GABON;Bantu;9,45;0,38;20;0,4;Gendrel, D., et al. (1989) J.Pediatr.Gastroenterol.Nutr. 8, 545.
+87;Germany;Ethnic germans;10,451526;51,165691;1805;0,852;Flatz, 1982. Distribution
+476;GERMANY;Baden-Wurttemberg Germans;9,5;48,4;136;0,76;Flatz, G., et al. (1982) Hum.Genet 62, 152.
+477;GERMANY;Bayern Germans;12,53;47,8;221;0,86;Flatz, G., et al. (1982) Hum.Genet 62, 152.
+478;GERMANY;Eastern Germans;13,75;51,05;246;0,78;Flatz, G., et al. (1982) Hum.Genet 62, 152.
+479;GERMANY;Germans;8,52;53,18;60;0,87;Howell, J. N., et al. (1980) Hepatogastroenterology 27, 208.
+480;GERMANY;Northwest Germans;8,8;53,08;341;0,91;Flatz, G., et al. (1982) Hum.Genet 62, 152.
+481;GERMANY;Rheinland and Pfalz Germans;8,27;50;182;0,86;Flatz, G., et al. (1982) Hum.Genet 62, 152.
+482;GERMANY;Schleswig-Holstein Germans;9,55;54,52;100;0,94;Flatz, G., et al. (1982) Hum.Genet 62, 152.
+88;Ghana;Asante;-1,023194;7,946527;68;0;Jones, 2015. Diversity (supplementary table 2)
+89;Ghana;Builsa;-1,023194;7,946527;38;0;Jones, 2015. Diversity (supplementary table 2)
+90;Ghana;Ghanaian;-1,023194;7,946527;196;0;Torniainen, 09. Screening
+95;Greece;Greek;21,824312;39,074208;100;0,17;Anagnostou, 09. Tracing
+483;GREECE;Continental Greeks;23,73;37,98;600;0,55;Kanaghinis, T., et al. (1974) Am.J.Dig.Dis. 19, 1021.
+484;GREECE;Cretan Greek;25,13;35,33;50;0,44;Kanaghinis, T., et al. (1974) Am.J.Dig.Dis. 19, 1021.
+485;GREECE;Greek;23,73;37,98;16;0,63;Spanidou, E. P., & Petrakis, NL (1972) Lancet 2, 872.
+486;GREECE;Greeks;23,73;37,98;200;0,25;Ladas, S., et al. (1982) Gut 23, 968.
+487;GREECE;Greeks;23,73;37,98;250;0,77;Zografos et al. (1973), The Lancet, 301,367.   
+96;Hungary;Present day Hungarians;19,503304;47,162494;181;0,61;Nagy, 11. Comparison
+97;Hungary;Seklers (Eastern Transylvania);19,503304;47,162494;65;0,71;Nagy, 11. Comparison
+98;Hungary;Caucasian-Hungarian individuals;19,503304;47,162494;110;0,63;Nagy, 09. Prevalence
+99;Hungary;General population;19,503304;47,162494;535;0,63;Czeizel, 1983. Prevalence
+488;HUNGARY;Eastern Hungarian;19,08;47,5;70;0,71;Czeizel, A., et al. (1983) Hum.Genet 64, 398.
+489;HUNGARY;Hungarian;19,08;47,5;262;0,59;Czeizel, A., et al. (1983) Hum.Genet 64, 398.
+490;HUNGARY;Matyo;20,58;47,82;172;0,63;Czeizel, A., et al. (1983) Hum.Genet 64, 398.
+491;HUNGARY;Northeastern Hungarian;19,08;47,5;103;0,58;Czeizel, A., et al. (1983) Hum.Genet 64, 398.
+492;HUNGARY;Romai;21,72;47,95;113;0,44;Czeizel, A., et al. (1983) Hum.Genet 64, 398.
+493;HUNGARY;Western Hungarian;19,08;47,5;100;0,72;Czeizel, A., et al. (1983) Hum.Genet 64, 398.
+102;India;Natives from Northern India;78,96288;20,593684;252;0,39;Kumar, 2011. Frequency
+103;India;New Dehli;78,96288;20,593684;45;0,733;Gupta, 12. Evaluation
+104;India;North;78,96288;20,593684;77;0,325;Babu, 2010, Frequency
+105;India;North;78,96288;20,593684;124;0,726;Tandon, 81. Lactose
+106;India;Not specified;78,96288;20,593684;53;0,4;Gupta, 07. Lactose
+107;India;Not specified;78,96288;20,593684;81;0,415;Agarwal, 2008. Lactose
+108;India;South;78,96288;20,593684;60;0,334;Tandon, 81. Lactose
+109;India;South;78,96288;20,593684;76;0,132;Babu, 2010, Frequency
+416;INDIA;Indians;72,83;18,98;100;0,36;Desai, H. G., et al. (1970) Indian J.Med.Sci. 24, 729.
+417;INDIA;Indians;78,47;17,38;18;0,39;Reddy, V., Pershad, J. (1972) Am.J.Clin.Nutr. 25, 114.
+418;INDIA;Indians;80,28;13,08;38;0;Swaminathan et al. (1970) Clin Chim Acta 30, 707.
+419;INDIA;Northern Indians;77,2;28,6;70;0,73;Gupta, P. S., et al. (1971) J.Trop.Med.Hyg. 74, 225.
+420;INDIA;Northern Indians;77,2;28,6;66;0,36;Tandon, R. K., et al. (1981) Am.J.Clin.Nutr. 34, 943.
+110;Iran;Iranians;53,688046;32,427908;21;0,14;Sadre, 79. Lactose
+111;Iran;Iranians;53,688046;32,427908;21;0,19;Enattah, 2007. Evidence
+112;Iran;Qashqai;53,688046;32,427908;10;0,1;Enattah, 2007. Evidence
+113;Iraq;Iraqi in Israel;43,679291;33,223191;96;0,07;Raz, 13. Frequency
+494;IRELAND;Native Irish;-6,25;53,33;50;0,96;Fielding, J. F., et al. (1981) Ir.J.Med.Sci. 150, 276.
+115;Israel;Arabs;34,851612;31,046051;67;0,194;El Schallah, 73. Lactose
+116;Israel;Ashkenazi in Israel;34,851612;31,046051;96;0,17;Raz, 13. Frequency
+117;Israel;Bedouin;34,851612;31,046051;98;0,06;Bersaglieri, 04 (with adaptions in Itan 10)
+118;Israel;Bedouin-Arabs in Israel;34,851612;31,046051;151;0,03;Raz, 13. Frequency
+119;Israel;Druze;34,851612;31,046051;96;0,04;Bersaglieri, 04 (with adaptions in Itan 10)
+120;Israel;Morrocan Jews in Israel;34,851612;31,046051;96;0,18;Raz, 13. Frequency
+121;Israel;Palestinian arabs;34,851612;31,046051;102;0,08;Bersaglieri, 04 (with adaptions in Itan 10)
+529;ISRAEL;Arabs;34,95;32,23;67;0,19;Gilat, T et al. (1971) Digestive Diseases 16, 203 
+122;Italy;Apulia;12,56738;41,87194;157;0,18;Piepoli, 07. Genotyping
+123;Italy;Central;12,56738;41,87194;98;0,19;Anagnostou, 09. Tracing
+125;Italy;Central-North;12,56738;41,87194;206;0,25;Anagnostou, 09. Tracing
+126;Italy;Napolitans;12,56738;41,87194;31;0,16;Rinaldi, 84. High
+127;Italy;North-Eastern;12,56738;41,87194;219;0,43;Anagnostou, 09. Tracing
+130;Italy;Not specified;12,56738;41,87194;125;0,29;Mottes, 08. Genetic
+131;Italy;Not specified;12,56738;41,87194;69;0,3;Sciarretta, 84. Hydrogen
+133;Italy;Sardinia;12,56738;41,87194;153;0,14;Anagnostou, 09. Tracing
+134;Italy;Sardinia;12,56738;41,87194;383;0,1;Schirru, 07. Decline
+135;Italy;Sardinia;12,56738;41,87194;97;0,12;Piepoli, 07. Genotyping
+136;Italy;Sardinia ;12,56738;41,87194;120;0,217;Obinu, 10. Prevalence
+138;Italy;Sicily;12,56738;41,87194;141;0,62;Carroccio, 1998. Lactose
+140;Italy;Southern;12,56738;41,87194;189;0,15;Anagnostou, 09. Tracing
+141;Italy;Southern populations;12,56738;41,87194;51;0,588;Cavalli-Sforza, 1987. Primary
+142;Italy;Southern Italy;12,56738;41,87194;100;0,11;Enattah, 2007. Evidence
+495;ITALY;Italians;9,2;45,47;42;0,38;Bozzani, A., et al. (1986) Dig.Dis.Sci. 31, 1313.
+496;ITALY;Italians;9,2;45,47;89;0,48;Cavalli-Sforza et al. (1987) Am J Clin Nutr 45, 748
+497;ITALY;Italians;12,48;41,9;65;0,82;Cavalli-Sforza et al. (1987) Am J Clin Nutr 45, 748
+499;ITALY;Italians;14,25;40,83;44;0,23;Rossi et al., (1997), Gastroenterology. 112(5), 1506.
+500;ITALY;Italians;9,2;45,47;20;0,25;Zuccato, E., et al. (1983) Eur J Clin Invest 13, 261.
+501;ITALY;Napolitans;14,25;40,83;99;0,46;Rinaldi, E., et al. (1984) Lancet 1, 355-7.
+502;ITALY;Neapolitan;14,25;40,83;9;0;De Ritis,  F., et al. (1970) Enzymol.Biol Clin.(Basel) 11, 263.
+503;ITALY;Northern Italians;7,67;45,05;208;0,49;Burgio, G. R., et al. (1984) Am.J.Clin.Nutr. 39, 100.
+504;ITALY;Sardinians;8,56;40,73;50;0,14;Meloni, G. F., et al. (2001)Am.J.Clin.Nutr. 73, 582.
+505;ITALY;Sardinians;9;39,4;47;0,15;Meloni, T., et al., (1998) Ital J Gastroenterol Hepatol 30, 490.
+506;ITALY;Sardinians;9;40,1;53;0,11;Meloni, T., et al., (1998) Ital J Gastroenterol Hepatol 30, 490.
+507;ITALY;Sardinians;9;40,3;38;0,18;Meloni, T., et al., (1998) Ital J Gastroenterol Hepatol 30, 490.
+508;ITALY;Sicilians;13,37;38,12;100;0,29;Burgio, G. R., et al. (1984) Am.J.Clin.Nutr. 39, 100.
+421;JAPAN;Japanese;140,47;40,59;40;0,28;Yoshida, Y., et al. (1975) Gastroenterol.Jpn. 10, 29.
+144;Jordan;Jordanian Bedouin;36,238414;30,585164;46;0,57;Ingram, 2009. Lactose digestion (Supplementary table 3)
+530;JORDAN;Jordanian Arabs;35,93;31,95;148;0,25;Hijazi, S. S., et al. (1983) Trop.Geogr.Med. 35, 157.
+531;JORDAN;Mediterranean origin Jordanian Arabs;35,93;31,95;56;0,23;Snook, C. R., et al. (1976) Trop.Geogr.Med. 28, 333.
+532;JORDAN;Urban/agricultural Jordanian Arabs;35,93;31,95;162;0,76;Hijazi, S. S., et al. (1983) Trop.Geogr.Med. 35, 157.
+145;Kazakhstan;Not specified;66,923684;48,019573;83;0,253;Heyer, 2011. Lactase
+146;Kenya;Bantu;37,906193;-0,023559;24;0;Bersaglieri, 04 (with adaptions in Itan 10)
+147;Kenya;Mixed;37,906193;-0,023559;192;0,74;Tishkoff, 07
+148;Kenya;Mixed;37,906193;-0,023559;194;0,563;Tishkoff, 07
+322;KENYA;Borana;38;1;7;0,71;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+323;KENYA;Burji;38;1;6;0,5;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+324;KENYA;El Molo;38;1;6;0,67;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+325;KENYA;Gabra;38;1;8;1;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+326;KENYA;Kikuyu;38;1;2;0,5;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+327;KENYA;Konso;38;1;4;0,5;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+328;KENYA;Maasai;38;1;26;0,88;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+329;KENYA;Marakwet;38;1;5;0,6;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+330;KENYA;Nandi;38;1;2;0;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+331;KENYA;Ogiek;38;1;11;0,55;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+332;KENYA;Pokot;38;1;10;0,6;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+333;KENYA;Rendille;38;1;7;0,71;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+334;KENYA;Sabaot;38;1;4;0,75;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+335;KENYA;Samburu;38;1;9;0,89;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+336;KENYA;Sengwer;38;1;12;0,17;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+337;KENYA;Somali;38;1;1;1;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+338;KENYA;Tugen;38;1;11;0,73;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+339;KENYA;Turkana;38;1;8;0,5;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+340;KENYA;Wata;38;1;1;0;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+341;KENYA;Yaaku;38;1;11;0,73;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+150;Kuwait;Kuwaiti Bedouin (Ajman tribe);47,481766;29,31166;37;0,57;Hill, 2013. Brief
+151;Kuwait;Kuwaiti Bedouin (Mutran tribe);47,481766;29,31166;29;0,55;Hill, 2013. Brief
+533;KUWAIT;Arab Kuwaiti;47,98;29,37;70;0,53;Sanae, H. A., et al. (2003) Med. Princ. Pract. 12, 160.
+534;KUWAIT;Asian Kuwaiti;47,98;29,37;79;0,42;Sanae, H. A., et al. (2003) Med. Princ. Pract. 12, 160.
+535;LEBANON;Lebanese;35,51;33,87;74;0,22;Nasrallah, S. M. (1979) Am.J.Clin.Nutr. 32, 1994.
+154;Malawi;Bantu;34,301525;-13,254308;310;0;Mulcare, 04
+155;Malawi;Chewa;34,301525;-13,254308;68;0;Jones, 2015. Diversity (supplementary table 2)
+156;Malaysia;Malays at Penang Island;101,975766;4,210484;100;0,12;Asmawi, 2006. Hypolactasia
+157;Malaysia;Chinese at Penang Island;101,975766;4,210484;100;0,09;Asmawi, 2006. Hypolactasia
+158;Malaysia;Indians at Penang Island;101,975766;4,210484;100;0,17;Asmawi, 2006. Hypolactasia
+159;Mexico;Not specified;-102,552784;23,634501;200;0,345;Lisker, 78. Intestinal
+160;Mexico;Rural Mexico (Huamantla);-102,552784;23,634501;100;0,26;Lisker, 1974. Lactase
+161;Mexico;North;-102,552784;23,634501;58;0,84;Rosado, 1994. Lactose
+162;Mexico;Central;-102,552784;23,634501;180;0,67;Rosado, 1994. Lactose
+163;Mexico;South;-102,552784;23,634501;107;0,67;Rosado, 1994. Lactose
+310;Mexico;Mexico, general;-102,552784;23,634501;NA;0,47;Bayless 2017
+164;Mongolia;Mongol in the north of China;103,846656;46,862496;198;0,121;Wang, 84. Prevalence
+165;Morocco;Berber;-7,09262;31,791702;154;0,25;Mulcare, 04
+166;Morocco;Morroccans;-7,09262;31,791702;12;0,166;Enattah, 2008. Independent
+167;Morocco;Not specified;-7,09262;31,791702;90;0,311;Enattah, 2007. Evidence
+168;Mozambique;Sena;35,529562;-18,665695;92;0;Jones, 2015. Diversity (supplementary table 2)
+422;MYANMAR;Burmese;91,17;16,78;50;0,08;Aung-Than-Batu et al. (1972), Union Burma J Life Sci, 5, 133-135
+169;Namibia;San;18,49041;-22,95764;14;0;Bersaglieri, 04 (with adaptions in Itan 10)
+170;Namibia;San;18,49041;-22,95764;22;0;Jones, 2015. Diversity (supplementary table 2)
+171;Namibia;San;18,49041;-22,95764;20;0,05;Breton, 2014. Lactase
+172;Namibia;Khoe speaking;18,49041;-22,95764;22;0,5;Breton, 2014. Lactase
+173;Namibia;Bantu speakers;18,49041;-22,95764;14;0;Breton, 2014. Lactase
+342;NAMIBIA;!Kung;20,5;-19,6;40;0,03;Jenkins, T., et al. (1974) Br.Med.J. 2, 23.
+343;NAMIBIA;Herero;13,7;-18,3;39;0,03;Currie B, et al. (1978). S. Afr. J. Sci. 74:227.
+174;Netherlands;Dutch;5,291266;52,132633;48;0,833;Vonk, 00. Lactose
+175;Netherlands;Dutch;5,291266;52,132633;7211;0,896;Koek, 2010. The
+176;New Zealand;Not specified;174,885971;-40,900557;1064;0,918;Upton, 10. The prevalance
+445;NEW ZEALAND;Maori;174,77;-36,87;28;0,36;"Abbott W.G., Tasman-Jones C. (1985) N Z Med J. 10;98(776), 228."
+177;Niger;Tuaregs in the Sahara Desert;8,081666;17,607789;118;0,873;Flatz, 1986. Distribution
+178;Nigeria;Yoruba;8,675277;9,081999;50;0;Bersaglieri, 04 (with adaptions in Itan 10)
+345;NIGERIA;Hausa/Fulani;3,47;7,23;15;0,4;Olatunbosun, D. A., et al. (1971) Am.J.Dig.Dis. 16, 909.
+346;NIGERIA;Ibo;3,47;7,23;11;0,18;Olatunbosun, D. A., et al. (1971) Am.J.Dig.Dis. 16, 909.
+347;NIGERIA;Yoruba;3,47;7,23;48;0,17;Olatunbosun, D. A., et al. (1971) Am.J.Dig.Dis. 16, 909.
+179;Norway;Not specified;8,468946;60,472024;105;0,962;Farup, 04. Lactose
+180;Norway;Multiple ethnicities;8,468946;60,472024;137;0,825;Reinton, 07. Evaluation
+181;Oman;Arabs of Northern Oman;55,923255;21,512583;342;0,027;Al-Abri, 2012. Distribution
+182;Oman;Omanis of Asian origin;55,923255;21,512583;96;0,281;Al-Abri, 2012. Distribution
+183;Oman;Dhofori Arabs of Southern Oman;55,923255;21,512583;210;0;Al-Abri, 2012. Distribution
+184;Oman;Saudi Arabs;55,923255;21,512583;432;0,002;Al-Abri, 2012. Distribution
+185;Oman;Not specified;55,923255;21,512583;52;0,19;Al-Abri, A. 2013. The phenotype
+186;Pakistan;Balti;69,345116;30,375321;23;0;Enattah, 2007. Evidence
+187;Pakistan;Balochi;69,345116;30,375321;50;0,59;Bersaglieri, 04 (with adaptions in Itan 10)
+188;Pakistan;Baluch;69,345116;30,375321;19;0,474;Enattah, 2007. Evidence
+189;Pakistan;Brahui;69,345116;30,375321;50;0,56;Bersaglieri, 04 (with adaptions in Itan 10)
+190;Pakistan;Brahui;69,345116;30,375321;30;0,433;Enattah, 2007. Evidence
+191;Pakistan;Burusho;69,345116;30,375321;50;0,19;Bersaglieri, 04 (with adaptions in Itan 10)
+192;Pakistan;Burusho;69,345116;30,375321;30;0,033;Enattah, 2007. Evidence
+193;Pakistan;Hazara;69,345116;30,375321;50;0,15;Bersaglieri, 04 (with adaptions in Itan 10)
+194;Pakistan;Hazara;69,345116;30,375321;14;0,071;Enattah, 2007. Evidence
+195;Pakistan;Kalash;69,345116;30,375321;50;0;Bersaglieri, 04 (with adaptions in Itan 10)
+196;Pakistan;Kalash;69,345116;30,375321;30;0;Enattah, 2007. Evidence
+197;Pakistan;Kashmiri;69,345116;30,375321;20;0,25;Enattah, 2007. Evidence
+198;Pakistan;Makrani Baluch;69,345116;30,375321;29;0,345;Enattah, 2007. Evidence
+199;Pakistan;Mohannes;69,345116;30,375321;29;0,448;Enattah, 2007. Evidence
+200;Pakistan;Parsi;69,345116;30,375321;29;0,276;Enattah, 2007. Evidence
+201;Pakistan;Pathan;69,345116;30,375321;50;0,51;Bersaglieri, 04 (with adaptions in Itan 10)
+202;Pakistan;Pathan;69,345116;30,375321;28;0,571;Enattah, 2007. Evidence
+203;Pakistan;Punjabi;69,345116;30,375321;53;0,55;Abbas, H. 1983. Persistence
+204;Pakistan;Sindhi;69,345116;30,375321;50;0,54;Bersaglieri, 04 (with adaptions in Itan 10)
+205;Pakistan;Sindi;69,345116;30,375321;28;0,643;Enattah, 2007. Evidence
+423;PAKISTAN;Baloochi;67,05;24,87;4;1;Rab, S. M., et al. (1976) Br. Med. J. 1, 436.
+424;PAKISTAN;Baluchistani;71,92;32,27;32;0,38;Ahmad, M., Flatz,G. (1984) Hum. Hered. 34, 69.
+425;PAKISTAN;Kashmiri;71,92;32,27;27;0,3;Ahmad, M., Flatz,G. (1984) Hum. Hered. 34, 69.
+426;PAKISTAN;Mohajir;67,05;24,87;15;0,8;Rab, S. M., et al. (1976) Br. Med. J. 1, 436.
+427;PAKISTAN;Pathan;67,05;24,87;15;1;Rab, S. M., et al. (1976) Br. Med. J. 1, 436.
+428;PAKISTAN;Punjabi;71,92;32,27;322;0,41;Ahmad, M., Flatz,G. (1984) Hum. Hered. 34, 69.
+429;PAKISTAN;Punjabi;67,05;24,87;9;1;Rab, S. M., et al. (1976) Br. Med. J. 1, 436.
+430;PAKISTAN;Sindhi;71,92;32,27;33;0,42;Ahmad, M., Flatz,G. (1984) Hum. Hered. 34, 69.
+431;PAKISTAN;Sindhi;67,05;24,87;12;1;Rab, S. M., et al. (1976) Br. Med. J. 1, 436.
+536;PAKISTAN;Punjabi;73,07;33,6;53;0,55;Abbas H., Ahmad M. (1983) Hum. Genet. 64:277.
+207;Papua New Guinea;Papuan;143,95555;-6,314993;34;0;Bersaglieri, 04 (with adaptions in Itan 10)
+446;PAPUA NEW GUINEA;Central (inc. Port Moresby);147,19;-9,46;14;0,07;Cook, G. C. (1979) Ann.Hum.Biol 6, 55.
+447;PAPUA NEW GUINEA;E and W Sepik provinces;143,52;-4,18;35;0,23;Arnhold R.G. et al. (1981) Ann Hum Biol 5, 481
+448;PAPUA NEW GUINEA;Gulf & Western;147,19;-9,46;13;0,08;Cook, G. C. (1979) Ann.Hum.Biol 6, 55.
+449;PAPUA NEW GUINEA;Highlands;147,19;-9,46;13;0;Cook, G. C. (1979) Ann.Hum.Biol 6, 55.
+450;PAPUA NEW GUINEA;Huli, Mendi, and Dunai ;142,95;-5,7;30;0,1;Jenkins, T., et al. (1981) Ann.Hum.Biol 8, 447.
+451;PAPUA NEW GUINEA;Milne Bay;147,19;-9,46;2;0;Cook, G. C. (1979) Ann.Hum.Biol 6, 55.
+452;PAPUA NEW GUINEA;Morobe & Northern;147,19;-9,46;5;0;Cook, G. C. (1979) Ann.Hum.Biol 6, 55.
+453;PAPUA NEW GUINEA;N. Solomons & E. New Britain;147,19;-9,46;3;0;Cook, G. C. (1979) Ann.Hum.Biol 6, 55.
+309;Peru;Peru, non-Caucasian;-75,02;-9,19;NA;0,06;Bayless 2017
+208;Poland;Not specified;19,145136;51,919438;275;0,625;Socha, 84. Prevalence
+209;Poland;Not specified;19,145136;51,919438;200;0,685;Madry, 10. Adult-type
+210;Poland;Polish immigrants in Western Canada;19,145136;51,919438;21;0,715;Leichter, 1972. Lactose
+509;POLAND;Eastern Polish;23,13;52,03;35;0,63;Socha, J., et al. (1984) Ann.Hum.Biol 11, 311.
+510;POLAND;Northeastern Polish;22,35;53,83;34;0,59;Socha, J., et al. (1984) Ann.Hum.Biol 11, 311.
+512;POLAND;Polish;19;51,73;29;0,62;Socha, J., et al. (1984) Ann.Hum.Biol 11, 311.
+513;POLAND;Polish;19,37;52,23;92;0,63;Socha, J., et al. (1984) Ann.Hum.Biol 11, 311.
+514;POLAND;Polish;19,37;52,23;85;0,64;Socha, J., et al. (1984) Ann.Hum.Biol 11, 311.
+211;Portugal;Portugal North;-8,224454;39,399872;64;0,672;Manco, 2013. Distribution
+212;Portugal;Portugal Centre;-8,224454;39,399872;70;0,643;Manco, 2013. Distribution
+213;Portugal;Portugal South;-8,224454;39,399872;65;0,477;Manco, 2013. Distribution
+214;Russia;Adygei;105,318756;61,52401;34;0,22;Bersaglieri, 04 (with adaptions in Itan 10)
+215;Russia;Daghestan Druss;105,318756;61,52401;17;0,235;Enattah, 2007. Evidence
+216;Russia;Daghestan Nog;105,318756;61,52401;20;0,25;Enattah, 2007. Evidence
+217;Russia;Daghestan mixed;105,318756;61,52401;23;0,174;Enattah, 2007. Evidence
+218;Russia;Erzyas;105,318756;61,52401;30;0,433;Enattah, 2007. Evidence
+219;Russia;Komi;105,318756;61,52401;10;0,3;Enattah, 2007. Evidence
+220;Russia;Mokshas;105,318756;61,52401;30;0,566;Enattah, 2007. Evidence
+221;Russia;Northern Russia;105,318756;61,52401;231;0,644;Khabarova, 2009. Prevalence
+222;Russia;Ob-Ugric speakers;105,318756;61,52401;62;0,06;Enattah, 2007. Evidence
+223;Russia;Russian;105,318756;61,52401;50;0,42;Bersaglieri, 04 (with adaptions in Itan 10)
+224;Russia;Saami (Kildin);105,318756;61,52401;50;0,52;Kozlov, 97
+226;Russia;Yakut (Siberia);105,318756;61,52401;50;0,12;Bersaglieri, 04 (with adaptions in Itan 10)
+432;RUSSIA;Khanty (Northern);69,02;61,04;115;0,29;Kozlov, A. I. (1998) Int J Circumpolar Health 57, 18.
+433;RUSSIA;Komi-Izhems;50,81;61,67;56;0,38;Kozlov, A. I. (1998) Int J Circumpolar Health 57, 18.
+434;RUSSIA;Mansi;69,02;61,04;81;0,28;Kozlov, A. I. (1998) Int J Circumpolar Health 57, 18.
+435;RUSSIA;Nenets (West Siberia);80,86;59,06;9;0,22;Kozlov, A. I. (1998) Int J Circumpolar Health 57, 18.
+436;RUSSIA;Udmurtians;53,23;56,85;30;0,6;Kozlov, A. I. (1998) Int J Circumpolar Health 57, 18.
+437;RUSSIA;West-Siberian;80,86;59,06;47;0,51;Kozlov, A. I. (1998) Int J Circumpolar Health 57, 18.
+516;RUSSIA;Komi-Permiaks;32;68;112;0,5;Kozlov, A. I. (1998) Int J Circumpolar Health 57, 18.
+517;RUSSIA;Udmurtians;32;68;75;0,41;Kozlov, A. I. (1998) Int J Circumpolar Health 57, 18.
+348;RWANDA;Hutu-Hutu;29,74;-2,6;36;0,58;Cox, J. A., et al. (1974) Am.J.Dig.Dis. 19, 714.
+349;RWANDA;Hutu-Tutsi;29,74;-2,6;11;0,45;Cox, J. A., et al. (1974) Am.J.Dig.Dis. 19, 714.
+350;RWANDA;Shi;29,74;-2,6;28;0,04;Cox, J. A., et al. (1974) Am.J.Dig.Dis. 19, 714.
+351;RWANDA;Tussi-Tutsi;29,74;-2,6;27;0,93;Cox, J. A., et al. (1974) Am.J.Dig.Dis. 19, 714.
+231;Saudi Arabia;Arabs;45,079162;23,885942;124;0,782;Enattah, 2008, Independent
+232;Saudi Arabia;Mixed;45,079162;23,885942;432;0,769;Imtiaz, 2007
+537;SAUDI ARABIA;Arabs;50,11;26,43;109;0,43;Dissanayake, A.S. et al., (1990) Annals of Saudi Medicine, 10, 598.
+538;SAUDI ARABIA;Bedouin ;50,11;26,43;21;0,81;Dissanayake, A.S. et al., (1990) Annals of Saudi Medicine, 10, 598.
+539;SAUDI ARABIA;Beduin and Urban Saudi;46,77;24,64;14;0,86;Cook & Al Torki (1975) Br. Med. J.  3,135.
+540;SAUDI ARABIA;Yemenites;50,11;26,43;17;0,53;Dissanayake, A.S. et al., (1990) Annals of Saudi Medicine, 10, 598.
+233;Senegal;Mandjak;-14,452362;14,497401;186;0;Mulcare, 04
+234;Senegal;Mandjak;-14,452362;14,497401;92;0;Jones, 2015. Diversity (supplementary table 2)
+235;Senegal;"Wolof
+";-14,452362;14,497401;20;0;Mulcare, 04
+236;Senegal;"Wolof
+";-14,452362;14,497401;84;0;Jones, 2015. Diversity (supplementary table 2)
+352;SENEGAL;Diolas;-17,43;14,67;40;0,73;Arnold, J., et al. (1980) C R.Seances Soc.Biol Fil. 174, 983.
+353;SENEGAL;Peuhls;-15,12;15,4;29;1;Arnold, J., et al. (1980) C R.Seances Soc.Biol Fil. 174, 983.
+354;SENEGAL;Sereres;-17,43;14,67;38;0,71;Arnold, J., et al. (1980) C R.Seances Soc.Biol Fil. 174, 983.
+355;SENEGAL;Toucouleurs;-17,43;14,67;40;0,9;Arnold, J., et al. (1980) C R.Seances Soc.Biol Fil. 174, 983.
+356;SENEGAL;Wolof;-17,43;14,67;53;0,51;Arnold, J., et al. (1980) C R.Seances Soc.Biol Fil. 174, 983.
+237;Solomon Islands;Melanesian;160,156194;-9,64571;44;0;Bersaglieri, 04 (with adaptions in Itan 10)
+238;Somalia;NA;46,199616;5,152149;79;0,063;Enattah, 2007. Evidence
+239;South Africa;Askham and Wellington Coloured;22,937506;-30,559482;40;0,45;Breton, 2014. Lactase
+240;South Africa;South African black population;22,937506;-30,559482;115;0,217;Segal, 83. Lactase
+247;South Africa;Colesberg Coloured;22,937506;-30,559482;20;0,15;Breton, 2014. Lactase
+248;South Africa;San;22,937506;-30,559482;20;0,2;Breton, 2014. Lactase
+249;South Africa;Bantu speakers;22,937506;-30,559482;41;0,17;Breton, 2014. Lactase
+357;SOUTH AFRICA;Shangaan;28,08;-26,2;7;0,14;Segal, I., et al. (1983) Am.J.Clin.Nutr. 38, 901.
+358;SOUTH AFRICA;Sotho;28,08;-26,2;23;0,35;Segal, I., et al. (1983) Am.J.Clin.Nutr. 38, 901.
+359;SOUTH AFRICA;Swazi;28,08;-26,2;12;0,25;Segal, I., et al. (1983) Am.J.Clin.Nutr. 38, 901.
+360;SOUTH AFRICA;Tswana;28,08;-26,2;24;0,17;Segal, I., et al. (1983) Am.J.Clin.Nutr. 38, 901.
+361;SOUTH AFRICA;Xhosa;28,08;-26,2;17;0,18;Segal, I., et al. (1983) Am.J.Clin.Nutr. 38, 901.
+362;SOUTH AFRICA;Zulu;31,02;-29,85;47;0,11;O'Keefe, S. J.& Adam, J. (1983) S.Afr.Med.J. 63, 778.
+363;SOUTH AFRICA;Zulu;28,08;-26,2;32;0,19;Segal, I., et al. (1983) Am.J.Clin.Nutr. 38, 901.
+250;South Korea;South Korean children;127,766922;35,907757;476;0;Choi, 2013. No association
+251;South Korea;South Korean;127,766922;35,907757;23;0;Enattah, 2007. Evidence
+253;Spain;Basques;-3,74922;40,463667;85;0,917;Enattah, 2007. Evidence
+254;Spain;Basque Country. Ethnicitiy not specified;-3,74922;40,463667;188;0,814;Elguezabal, 2012. Lactase
+518;SPAIN;Galician;-8,55;42,88;338;0,66;Leis, R., et al. (1997) J.Pediatr.Gastroenterol.Nutr. 25, 296.
+255;Sri Lanka;Not specified;80,771797;7,873054;200;0,275;Senewiratne, 77. Intestinal
+439;SRI LANKA;Sri Lankan;80,64;7,3;135;0,29;Thomas, S., et al. (1990) J Trop Pediatr 36, 80.
+440;SRI LANKA;Sri Lankans (Ceylonese);80,6;7,26;200;0,28;Senewiratne, B., et al. (1977) Gastroenterology 72, 1257.
+256;Sudan;Beni Amer;30,217636;12,862807;154;0,743;Jones, 2015. Diversity (supplementary table 2)
+257;Sudan;Fulani;30,217636;12,862807;44;0,704;Enattah, 2007. Evidence
+258;Sudan;Dinka;30,217636;12,862807;68;0;Mulcare, 04
+259;Sudan;Ga'ali;30,217636;12,862807;60;0;Mulcare, 04
+260;Sudan;Nuer;30,217636;12,862807;26;0;Mulcare, 04
+261;Sudan;Shaigi;30,217636;12,862807;22;0;Mulcare, 04
+262;Sudan;Mixed;30,217636;12,862807;43;0,86;Tishkoff, 07
+263;Sudan;Mixed;30,217636;12,862807;44;0,234;Tishkoff, 07
+264;Sudan;Not specified;30,217636;12,862807;563;0,449;Bayoumi, 1981. Distribution
+265;Sudan;Beja tribe;30,217636;12,862807;303;0,832;Bayoumi, 1982. Beja and Nilotes
+266;Sudan;Nilotic tribe;30,217636;12,862807;282;0,255;Bayoumi, 1982. Beja and Nilotes
+267;Sudan;Jaali;30,217636;12,862807;128;0,426;Jones, 2015. Diversity (supplementary table 2)
+268;Sudan;Sahas;30,217636;12,862807;15;0,267;Enattah, 2008. Independent
+364;SUDAN;Ama;30;14;2;0,5;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+365;SUDAN;Amarar;37,22;19,62;82;0,87;Bayoumi, R. A., et al. (1982) Am.J.Phys.Anthropol. 58, 173.
+366;SUDAN;Artega;37,22;19,62;22;0,82;Bayoumi, R. A., et al. (1982) Am.J.Phys.Anthropol. 58, 173.
+367;SUDAN;Bedja;30,95;18,05;9;0,89;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+368;SUDAN;Beja Banuamir;30;14;6;1;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+369;SUDAN;Beja Hadandawa;30;14;11;0,82;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+370;SUDAN;Beni Amir;37,22;19,62;40;0,88;Bayoumi, R. A., et al. (1982) Am.J.Phys.Anthropol. 58, 173.
+371;SUDAN;Bisharin;37,22;19,62;22;0,86;Bayoumi, R. A., et al. (1982) Am.J.Phys.Anthropol. 58, 173.
+372;SUDAN;Dinka;33,63;7,67;208;0,25;Bayoumi, R. A., et al. (1982) Am.J.Phys.Anthropol. 58, 173.
+373;SUDAN;Dinka;30;14;7;0,86;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+374;SUDAN;Dongolawi;30,95;18,05;16;0,19;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+375;SUDAN;Gomoeia;30,95;18,05;31;0,68;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+376;SUDAN;Habbani;30,35;13,08;19;0,47;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+377;SUDAN;Haddendoa;37,22;19,62;137;0,8;Bayoumi, R. A., et al. (1982) Am.J.Phys.Anthropol. 58, 173.
+378;SUDAN;Jaali;32,53;15,59;113;0,53;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+379;SUDAN;Jaali;33,43;16,69;94;0,48;Ingram, C. J., et al. (2007) Hum Genet 120, 779.
+380;SUDAN;Kahli;30,95;18,05;21;0,62;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+381;SUDAN;Koalib;30;14;1;1;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+382;SUDAN;Liguri/Logorik;30;14;1;0;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+383;SUDAN;Masalit;30;14;1;1;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+384;SUDAN;Misseri;30,35;13,08;20;0,4;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+385;SUDAN;Nilotic;27,67;7,77;18;0,33;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+386;SUDAN;Nuba;29,68;6,8;58;0,21;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+387;SUDAN;Nubians ;30,95;18,05;21;0,33;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+388;SUDAN;Nuer;33,63;7,67;23;0,22;Bayoumi, R. A., et al. (1982) Am.J.Phys.Anthropol. 58, 173.
+389;SUDAN;Nuer;30;14;2;1;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+390;SUDAN;Shaygi;30,95;18,05;42;0,38;Bayoumi, R. A., et al. (1981) Hum.Genet 57, 279.
+391;SUDAN;Shilluk;33,63;7,67;8;0,38;Bayoumi, R. A., et al. (1982) Am.J.Phys.Anthropol. 58, 173.
+392;SUDAN;Shilook;30;14;4;0,75;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+269;Sweden;Elderly individuals;18,643501;60,128161;392;0,932;Almon, R. 2007. Prevalence
+270;Syria;Arabs in Syria, Iraq, Lebanon, Palestine;38,996815;34,802075;19;0,158;Enattah, 2008. Independent
+441;TAIWAN;Chinese;121,45;25,02;50;0,12;Sung, J., et al. (1972) Asian Journal of Medicine 8, 149.
+271;Tanzania;Mixed;34,888822;-6,369028;235;0,656;Tishkoff, 07
+272;Tanzania;Mixed;34,888822;-6,369028;256;0,542;Tishkoff, 07
+273;Tanzania;Chagga;34,888822;-6,369028;86;0,26;Jones, 2015. Diversity (supplementary table 2)
+393;TANZANIA;Akie;34;-7;11;0,55;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+394;TANZANIA;Burunge;34;-7;16;0,38;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+395;TANZANIA;Datog;34;-7;1;0;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+396;TANZANIA;Dorobo;34;-7;6;0,67;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+397;TANZANIA;Fiome;34;-7;7;0,14;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+398;TANZANIA;Hadza;34;-7;15;0,6;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+399;TANZANIA;Iraqw;34;-7;19;0,95;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+400;TANZANIA;Maasai;34;-7;15;0,67;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+401;TANZANIA;Mbugu;34;-7;23;0,43;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+402;TANZANIA;Mbugwe;34;-7;8;0,5;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+403;TANZANIA;Pare;34;-7;8;0,75;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+404;TANZANIA;Rangi;34;-7;26;0,65;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+405;TANZANIA;Samba'a;34;-7;2;0;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+406;TANZANIA;Sandawe;34;-7;23;0,35;Tishkoff, S. A., et al. (2007) Nat Genet 39, 31.
+274;Thailand;Not specified;100,992541;15,870032;39;0,615;Soontornchai, 99. Lacitol
+442;THAILAND;Thai;100,52;13,75;140;0,03;Keusch, G. T., et al. (1969) Am.J.Clin.Nutr. 22, 638.
+443;THAILAND;Thai;100,49;13,45;40;0;Troncale et al. (1967) Br. Med. J. 4, 578.
+407;TUNISIA;Tunisian;10,18;36,8;43;0,16;Filali, A., et al. (1987) Gastroenterol.Clin.Biol 11, 554.
+275;Turkey;Not specified;35,243322;38,963745;92;0,783;Ahishali, 15. Assessment
+276;Turkey;Not specified;35,243322;38,963745;47;0,17;Artan, 98. Urinary
+541;TURKEY;Central Anatolia;39,5;34;104;0,29;Flatz, G., et al. (1986) Am.J.Hum.Genet 38, 515.
+542;TURKEY;Eastern Anatolia;39,5;40;122;0,26;Flatz, G., et al. (1986) Am.J.Hum.Genet 38, 515.
+543;TURKEY;North Coast of Turkey;34;41,5;64;0,31;Flatz, G., et al. (1986) Am.J.Hum.Genet 38, 515.
+544;TURKEY;South Coast of Turkey;33;36,5;54;0,28;Flatz, G., et al. (1986) Am.J.Hum.Genet 38, 515.
+545;TURKEY;Turks;32,86;39,93;30;0,63;Tuncbilek, et al. (1973), The Lancet July 21, 151 
+546;TURKEY;Western Anatolia and European Turkey;28,96;41,02;126;0,3;Flatz, G., et al. (1986) Am.J.Hum.Genet 38, 515.
+282;Uganda;Bantu;32,290275;1,373333;44;0;Mulcare, 04
+408;UGANDA;Baganda;32,57;0,32;12;0;Cook, G. C., & Dahlquist, A . (1968) Gastroenterology 55, 328.
+409;UGANDA;Batutsi;32,57;0,32;5;1;Cook, G. C., et al. (1968) Gastroenterology 55, 328.
+410;UGANDA;Nilotic;32,57;0,32;9;0,56;Cook, G. C., et al. (1966) Lancet 1, 725.
+411;UGANDA;Ugandan Bantu;32,57;0,32;17;0,06;Cook, G. C., et al. (1966) Lancet 1, 725.
+519;United Kingdom;British;-3,2;55,95;150;0,95;Ferguson, A., et al. (1984) Gut 25, 163.
+520;United Kingdom;British natives;-1,25;51,75;75;0,95;Ho, M. W., et al. (1982) Am.J.Hum.Genet 34, 650.
+285;United Kingdom;South East England (white);-3,435973;55,378051;1013;0,909;Smith, 09. Lactase
+286;United Kingdom;White in West Birmingham;-3,435973;55,378051;67;0,97;Iqbal, 1993. Prevalence
+287;United Kingdom;Indians in West Birmingham;-3,435973;55,378051;55;0,45;Iqbal, 1993. Prevalence
+288;United Kingdom;Afro Caribbeans in West Birmingham;-3,435973;55,378051;50;0,18;Iqbal, 1993. Prevalence
+289;United Kingdom;Wales (white);-3,435973;55,378051;15;1;Waud, 08. Measurement
+290;United Kingdom;Midland and Wales (white);-3,435973;55,378051;499;0,942;Smith, 09. Lactase
+291;United Kingdom;North England (white);-3,435973;55,378051;1361;0,938;Smith, 09. Lactase
+292;United Kingdom;Scotland (white);-3,435973;55,378051;442;0,959;Smith, 09. Lactase
+293;United States;Full blooded Indians of the Great Basin (USA) and American Southwest;-95,712891;37,09024;100;0,08;Johnson, 1978. Lactose
+294;United States;African Americans;-95,712891;37,09024;50;0,12;Enattah, 2007. Evidence
+295;United States;Black ;-95,712891;37,09024;33;0,42;Mitchell, 75. Tolerance
+296;United States;Black (African descent) in Huntsville, Alabama;-95,712891;37,09024;52;0,5;Rao, 94. Prevalence
+297;United States;White (North central European descent) in Huntsville, Alabama;-95,712891;37,09024;46;0,83;Rao, 94. Prevalence
+298;United States;Utah;-95,712891;37,09024;92;0,924;Enattah, 2007. Evidence
+307;United States;US White, general;-95,712891;37,09024;NA;0,85;Bayless 2017
+308;United States;US Native American;-95,712891;37,09024;NA;0,19;Bayless 2017
+299;Uruguay;Adults (black and white combined);-55,765835;-32,522779;120;0,35;Maggi, 87. Lactose
+300;Uruguay;White adults;-55,765835;-32,522779;109;0,37;Maggi, 87. Lactose
+301;Uruguay;Black ;-55,765835;-32,522779;11;0,18;Maggi, 87. Lactose
+302;Uzbekistan;Tajiko-Uzbek in Bukhara;64,585262;41,377491;100;0,11;Heyer, 2011. Lactase
+303;Vietnam;Vietnamese in USA;108,277199;14,058324;31;0;Anh, N. 1977. Lactose
+304;Western Sahara;Saharawi;-12,885834;24,215527;57;0,491;Enattah, 2007. Evidence
+305;Western Sahara;Saharawi;-12,885834;24,215527;11;0,364;Enattah, 2008. Independent
+306;Yemen;Yemenis;48,516388;15,552727;239;0,002;Al-Abri, 2012. Distribution
+412;ZAMBIA;Bantu of Zambia;28,11;15,28;26;0;Cook, G. C., et al. (1973) Gastroenterology 64, 405.
+;Chile;Communities of the Coquimbo Region in Chile;-71,542969;-35,675147;41;0,46;Montalva et al. (2019). Ann Hum Genet. doi:10.1111/ahg.12277
+;Mexico;Rural area in South-Central Mexico;-102,552784;23,634501;158;0,35;Valencia et al. (2017). Scand J Clin Lab Invest. doi:10.1080/00365513.2017.1318445
+;Denmark;Danes;12,58;55,73;82964;0,76;Bergholdt et al. (2018). Eur J Epidemiol. doi:10.1007/s10654-017-0328-x
+;Iran;Kurd;53,688046;32,427908;138;0,0579;Charati H et al. (2019). Hum Genomics. doi:10.1186/s40246-019-0195-5
+;Iran;Mazani;53,688046;32,427908;110;0,0818;Charati H et al. (2019). Hum Genomics. doi:10.1186/s40246-019-0195-5
+;Iran;Persian;53,688046;32,427908;78;0,1538;Charati H et al. (2019). Hum Genomics. doi:10.1186/s40246-019-0195-5
+;Iran;Arab;53,688046;32,427908;26;0,2692;Charati H et al. (2019). Hum Genomics. doi:10.1186/s40246-019-0195-5
+;Iran;Lur;53,688046;32,427908;24;0;Charati H et al. (2019). Hum Genomics. doi:10.1186/s40246-019-0195-5
+;Iran;Azeri;53,688046;32,427908;15;0,066;Charati H et al. (2019). Hum Genomics. doi:10.1186/s40246-019-0195-5
+;Iran;Gilak;53,688046;32,427908;9;0,1111;Charati H et al. (2019). Hum Genomics. doi:10.1186/s40246-019-0195-5

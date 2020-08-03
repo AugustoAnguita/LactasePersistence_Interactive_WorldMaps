@@ -1,0 +1,1968 @@
+;Country;Population;Longitude;Latitude;N;Frequency.of.LP.alleles;SNP;Reference
+3;Afghanistan;Pashtuns/Afghans;67,709953;33,93911;32;0,375;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+18;Afghanistan;Tadjiks;67,709953;33,93911;28;0,464;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+19;Afghanistan;Uzbeks;67,709953;33,93911;54;0,463;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+30;Armenia;Armenians;45,038189;40,069099;102;0,333;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+38;Azerbaijan;Azeri;47,576927;40,143105;80;0,171;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+47;Belarus;Belarusians;27,953389;53,709807;100;0,01;-14011 C>T rs4988233;Liebert et al. (2017) Hum Genet
+48;Belarus;Belarusians;27,953389;53,709807;100;0,477;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+56;Cyprus;Greek Cypriots;33,429859;35,126413;120;0,269;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+60;Georgia;Georgians;43,356892;42,315407;108;0,293;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+67;Germany;Sorbs;10,451526;51,165691;64;0,617;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+78;Germany;Germans;10,451526;51,165691;60;0,617;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+84;Greece;Greeks;21,824312;39,074208;120;0,008;-13730 T>G rs4954492;Liebert et al. (2017) Hum Genet
+85;Greece;Greeks;21,824312;39,074208;120;0,306;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+87;Greece;Greeks;21,824312;39,074208;120;0,008;-14011 C>T rs4988233;Liebert et al. (2017) Hum Genet
+91;India;South Indians;78,96288;20,593684;102;0,45;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+93;India;South Indians;78,96288;20,593684;102;0,029;-13779 G>C rs527991977;Liebert et al. (2017) Hum Genet
+97;India;North Indians;78,96288;20,593684;120;0,41;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+106;Iran;Iranians;53,688046;32,427908;154;0,234;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+107;Iran;Iranians;53,688046;32,427908;154;0,006;-14011 C>T rs4988233;Liebert et al. (2017) Hum Genet
+120;Ireland;Irish;-8,24389;53,41291;68;0,969;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+128;Italy;Tyroleans Bozen;12,56738;41,87194;80;0,013;-14011 C>T rs4988233;Liebert et al. (2017) Hum Genet
+135;Italy;Tyroleans Bozen;12,56738;41,87194;80;0,368;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+137;Italy;Tyroleans Vinschgau;12,56738;41,87194;102;0,521;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+140;Italy;Tyroleans Gadertal;12,56738;41,87194;76;0,514;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+145;Kuwait;Kuwaiti;47,481766;29,31166;66;0,015;-13603 C>T rs56348046;Liebert et al. (2017) Hum Genet
+146;Kuwait;Kuwaiti;47,481766;29,31166;66;0,141;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+151;Kuwait;Kuwaiti;47,481766;29,31166;66;0,015;-13730 T>G rs4954492;Liebert et al. (2017) Hum Genet
+154;Macedonia [FYROM];Macedonians;21,745275;41,608635;100;0,398;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+163;Mongolia;Khalka;103,846656;46,862496;114;0,009;-14011 C>T rs4988233;Liebert et al. (2017) Hum Genet
+173;Mongolia;Khalka;103,846656;46,862496;114;0,413;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+174;Mongolia;Mongols;103,846656;46,862496;52;0,417;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+177;Nepal;Nepalese;84,124008;28,394857;38;0,026;-13906 T>A;Liebert et al. (2017) Hum Genet
+178;Nepal;Nepalese;84,124008;28,394857;38;0,526;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+184;Nepal;Nepalese;84,124008;28,394857;38;0,026;-13906 T>A;Liebert et al. (2017) Hum Genet
+191;Nepal;Tharu;84,124008;28,394857;80;0,321;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+198;Netherlands;Frisians;5,291266;52,132633;58;0,845;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+206;Norway;Norwegians;8,468946;60,472024;88;0,875;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+210;Portugal;Portuguese;-8,224454;39,399872;96;0,486;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+219;Romania;Romanians;24,96676;45,943161;118;0,278;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+228;Russia;Erzya;105,318756;61,52401;42;0,333;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+233;Russia;Moksha;105,318756;61,52401;32;0,031;-14011 C>T rs4988233;Liebert et al. (2017) Hum Genet
+240;Russia;Russians Perm;105,318756;61,52401;46;0,395;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+258;Russia;Moksha;105,318756;61,52401;32;0,531;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+259;Russia;Northern Yakuts;105,318756;61,52401;22;0,5;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+264;Russia;Yakuts;105,318756;61,52401;110;0,443;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+265;Singapore;Han-Chinese;103,819836;1,352083;98;0,01;-13906 T>A;Liebert et al. (2017) Hum Genet
+273;Singapore;Han-Chinese;103,819836;1,352083;98;0,01;-13906 T>A;Liebert et al. (2017) Hum Genet
+279;Singapore;Han-Chinese;103,819836;1,352083;98;0,382;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+280;Singapore;Japanese;103,819836;1,352083;84;0,333;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+282;Slovakia;Roma;19,699024;48,669026;64;0,4;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+289;Spain;Catalans;-3,74922;40,463667;58;0,364;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+302;Spain;Spanish;-3,74922;40,463667;62;0,5;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+310;Sweden;Sami;18,643501;60,128161;60;0,75;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+316;Sweden;Sami;18,643501;60,128161;60;0,033;-14011 C>T rs4988233;Liebert et al. (2017) Hum Genet
+319;Sweden;Swedes;18,643501;60,128161;74;0,906;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+326;Syria;Syrians;38,996815;34,802075;140;0,007;-13779 G>C rs527991977;Liebert et al. (2017) Hum Genet
+328;Syria;Syrians;38,996815;34,802075;140;0,231;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+335;Turkey;Anatolian-Turks;35,243322;38,963745;116;0,225;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+337;Ukraine;Ukrainians;31,16558;48,379433;74;0,379;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+344;Ukraine;Ukrainians;31,16558;48,379433;74;0,014;-14011 C>T rs4988233;Liebert et al. (2017) Hum Genet
+358;United Kingdom;Ashkenazi-Jews;-3,435973;55,378051;38;0,158;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+359;United Kingdom;English;-3,435973;55,378051;102;0,784;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+367;Uzbekistan;Uzbeks;64,585262;41,377491;76;0,269;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+374;Yemen;Yemeni Hadramaut;48,516388;15,552727;166;0,21;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+375;Yemen;Yemeni Sena;48,516388;15,552727;68;0,059;-13744 C>G;Liebert et al. (2017) Hum Genet
+377;Yemen;Yemeni Sena;48,516388;15,552727;68;0,059;-13603 C>T rs56348046;Liebert et al. (2017) Hum Genet
+379;Yemen;Yemeni Hadramaut;48,516388;15,552727;166;0,03;-13779 G>C rs527991977;Liebert et al. (2017) Hum Genet
+380;Yemen;Yemeni Sena;48,516388;15,552727;68;0,294;-13495 C>T rs4954490;Liebert et al. (2017) Hum Genet
+382;Yemen;Yemeni Sena;48,516388;15,552727;68;0,029;-13730 T>G rs4954492;Liebert et al. (2017) Hum Genet
+383;Yemen;Yemeni Hadramaut;48,516388;15,552727;166;0,006;-13744 C>G;Liebert et al. (2017) Hum Genet
+384;Yemen;Yemeni Hadramaut;48,516388;15,552727;166;0,006;-13730 T>G rs4954492;Liebert et al. (2017) Hum Genet
+388;Algeria;Mozabite Berbers;3,67;32,49;44;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+389;Angola;!Xun;17,7;-14,66;40;0,05;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+390;Angola;!Xuun;15,99;-16,34;72;0,01;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+391;Angola;Himba;12,58;-16,98;138;0,09;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+392;Angola;Kuvale;12,15;-15,2;108;0,06;-14010 G>C rs145946881 ;Coelho et al. (2009) BMC Evol Biol. 9, 80
+393;Angola;Kuvale;12,95;-15,64;162;0,04;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+394;Angola;Kwepe;12,11;-15,78;68;0,04;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+395;Angola;Kwisi;12,62;-15,92;40;0,18;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+396;Angola;Nyaneka-Nkhumbi;12,15;-15,2;306;0,03;-14010 G>C rs145946881 ;Coelho et al. (2009) BMC Evol Biol. 9, 80
+397;Angola;Ovimbundu;12,15;-15,2;192;0,01;-14010 G>C rs145946881 ;Coelho et al. (2009) BMC Evol Biol. 9, 80
+398;Angola;Tjimba;12,65;-17,06;30;0,23;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+399;Angola;Twa;13,44;-16,7;36;0,19;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+400;Angola, Namibia Botswana;Khwe;23,57;-17,87;38;0,03;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+401;Botswana;/Gui and //Ganab;24,05;-23,42;40;0,08;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+402;Botswana;Buga;22,31;-18,48;18;0;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+403;Botswana;G|ui;22,69;-22,05;34;0,09;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+404;Botswana;Gǁana;22,69;-22,05;20;0,2;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+405;Botswana;Ju|'hoan_North;21,24;-20,24;42;0,02;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+406;Botswana;Ju|'hoan_South;21,24;-20,24;52;0,06;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+407;Botswana;Kgalagadi;23,02;-24,89;40;0;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+408;Botswana;Naro;21,37;-22,01;38;0,05;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+409;Botswana;Shua;24,95;-20,8;54;0,07;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+410;Botswana;Taa_East;23,02;-24,89;22;0,05;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+411;Botswana;Taa_North;21,41;-22,96;22;0;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+412;Botswana;Taa_West;20,18;-23,79;40;0,03;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+413;Botswana;Tshwa;24,95;-20,8;30;0,17;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+414;Botswana;Tswana;25,9;-23,71;36;0,03;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+415;Botswana;ǁAni;22,31;-18,48;22;0,09;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+416;Botswana;ǂHoan;23,02;-24,89;14;0;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+417;Cameroon;Arabic Baggara;14,67;11,33;62;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+418;Cameroon;Bakola;10,42;3,08;56;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+419;Cameroon;Fulani;14,15;11,05;102;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+420;Cameroon;Fulani;14,5;10,5;48;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+423;Cameroon;Mambila;12,5;6;134;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+424;Cameroon;Mandara;14,24;10,98;42;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+426;Cameroon;Ouldoume;14,24;10,98;36;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+427;Cameroon;Pygmy;14,75;2,92;36;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+428;Cameroon;Shuwa Arabs;14,5;13;124;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+430;Chad;Abbala;15,31;14,12;54;0;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+432;Chad;Boulala;17,54;12,89;44;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+433;Chad;Laka;15,97;7,88;46;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+434;Chad;Ngambay;16,32;8,98;48;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+435;Congo;Brazzaville;15,28;-4,27;104;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+436;Congo;Manyanga;14,16;-4,91;22;0;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+437;Congo;Mbuti;29,97;1,85;30;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+438;Egypt ;Egyptian Arabs;28,66;28,02;68;0;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+439;Ethiopia;Afar;41,36;11,6;152;0,01;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+440;Ethiopia;Amhara;38,66;9,87;152;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+441;Ethiopia;Amhara (phenotyped);38,66;9,87;108;0;-14010 G>C rs145946881 ;Jones et al. (2013) Am J Hum Genet. 93, 538
+443;Ethiopia;Anuak;34,41;7,95;138;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+444;Ethiopia;Beta Israel (Ethiopian Jews);37,47;12,6;36;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+445;Ethiopia;Maale;36,64;5,71;132;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+446;Ethiopia;Manjo;36,23;7,27;80;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+447;Ethiopia;Nuer;34,58;8,25;74;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+448;Ethiopia;Oromo;37,31;7,84;152;0,01;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+449;Ethiopia;Shabo;35,41;7,56;48;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+450;Ethiopia;Somali;41,87;9,58;74;0,03;-14010 G>C rs145946881 ;Ingram (2009) J Mol Evol. 69, 579
+451;Ethiopia;Somali (phenotyped);41,87;9,58;188;0,01;-14010 G>C rs145946881 ;Ingram (2009) J Mol Evol. 69, 579, corrected Liebert
+452;Ethiopia;Suri;35,59;7;100;0,04;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+453;Ethiopia ;Oromo (phenotyped);37,31;7,84;150;0,01;-14010 G>C rs145946881 ;Jones et al. (2013) Am J Hum Genet. 93, 538
+454;Ethiopia ;Tigray;39,47;13,5;88;0;-14010 G>C rs145946881 ;Jones et al. (2013) Am J Hum Genet. 93, 538
+455;Ethiopia ;Wolayta;37,76;6,84;52;0,02;-14010 G>C rs145946881 ;Jones et al. (2013) Am J Hum Genet. 93, 538
+456;Ghana;Akan;-1,02;7,95;392;0;-14010 G>C rs145946881 ;Torniainen et al. (2009) BMC Genet. 10, 31
+457;Ghana;Asante;-0,55;6,17;70;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+458;Ghana;Builsa;-1,29;10,53;42;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+459;Kenya;Bajun;40,12;-3,22;10;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+460;Kenya;Boni;40,49;-2,21;48;0,21;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+461;Kenya;Borana;38,02;2,33;34;0,09;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+462;Kenya;Burji;37,78;5,6;16;0,06;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+463;Kenya;Dikri Maasai;37,16;0,4;2;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+464;Kenya;Elmolo;36,68;2,83;32;0,22;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+465;Kenya;Gabra/Gabramigos;37,07;3,32;82;0,05;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+466;Kenya;Garreh;39,24;3,47;38;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+467;Kenya;Il'gwesi Maasai;37,14;0,37;22;0,68;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+468;Kenya;Ilchamus Maasai;36,08;0,51;20;0,55;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+469;Kenya;Kikuyu;37,15;-0,72;14;0,5;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+470;Kenya;Konso;37,48;5,25;24;0,08;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+471;Kenya;Luo;34,53;-0,11;44;0,05;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+472;Kenya;Marakwet;35,26;1,09;14;0,36;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+473;Kenya;Mumonyot Maasai;37,14;0,43;14;0,5;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+474;Kenya;Nandi;35,18;0,11;8;0,25;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+475;Kenya;Ogiek;35,83;-0,37;22;0,36;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+476;Kenya;Orma;40,44;-2,39;48;0,23;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+477;Kenya;Pare Kenya;37,76;-3,48;36;0,19;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+478;Kenya;Pokomo;40,12;-3,22;14;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+479;Kenya;Pokot;36,09;0,68;28;0,29;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+480;Kenya;Purko Maasai;36,09;0,68;2;1;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+481;Kenya;Rendille;37,58;2,51;24;0,08;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+482;Kenya;Sabaot;35,26;1,09;12;0,17;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+483;Kenya;Samburu;36,7;1,1;18;0,28;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+484;Kenya;Sanye;40,5;-2,37;28;0,04;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+485;Kenya;Sengwer;35,26;1,09;32;0,06;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+486;Kenya;Taita;38,29;-3,4;20;0,1;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+487;Kenya;Tugen;35,85;0,52;30;0,23;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+488;Kenya;Turkana;35,99;0,48;26;0,19;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+489;Kenya;Wata;37,07;3,32;44;0,16;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+490;Kenya;Yaaku;37,18;0,45;28;0,54;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+493;Malawi;Chewa;33,78;-13,98;100;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+496;Morocco;Moroccan;-6,02;34,03;24;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+498;Morocco;Saharawi;-6,02;34,03;22;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+501;Mosambique;Makua;39,36;-15,15;28;0;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+502;Mosambique;Nyanja;34,1;-14,92;22;0;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+503;Mosambique;Shangaan;32,89;-24,35;46;0,02;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+504;Mosambique;Tswa;34,89;-21,91;36;0;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+505;Mosambique;Yao;35,75;-12,81;30;0;-14010 G>C rs145946881 ;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+507;Mozambique;Sena;35,05;-17,44;136;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+508;Namibia;!Xuun;18,78;-19,05;38;0,05;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+509;Namibia;Damara;16,23;-20,35;68;0,04;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+510;Namibia;Haiǁom;16,23;-20,35;80;0,09;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+511;Namibia;Herero;17,04;-21,5;42;0,07;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+512;Namibia;Herero (southwestern Bantu speakers);17,07;-22,56;28;0;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+513;Namibia;Himba;13,94;-18,84;32;0,13;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+514;Namibia;Ju/’hoansi;20,5;-19,6;40;0,03;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+515;Namibia;Nama;17,07;-22,56;44;0,21;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+516;Namibia;Nama;17,55;-24,69;50;0,36;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+518;Namibia;San;18,19;-25,6;34;0,06;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+519;Namibia;San (CEPH);20;-21;10;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+520;Namibia;Wambo;16,58;-17,63;16;0;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+521;Namibia;ǁXo;23,39;-17,96;38;0,08;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+522;Nigeria;Shuwa Arabs;14,19;12,34;106;0;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+524;Nigeria;Yoruba;4;8;52;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+526;Senegal;Mandjak;-15,88;12,99;114;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+527;Senegal;Wolof;-17,45;14,69;138;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+529;South Africa;!Xhosa;29;-31,5;42;0,14;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+530;South Africa;!Xun/Khoe;24,03;-28,68;22;0,05;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+531;South Africa;Askham Coloured;20,78;-26,98;40;0,23;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+533;South Africa;Colesberg Coloured;25,07;-30,69;40;0,03;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+534;South Africa;Karretjie;25,07;-30,69;40;0,1;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+535;South Africa;Khomani;20,78;-26,98;40;0,05;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+536;South Africa;Mixed (for example with Europeans);18,42;-33,92;124;0,07;-14010 G>C rs145946881 ;Torniainen et al. (2009) BMC Genet. 10, 31
+537;South Africa;Sotho-Tswana;27,67;-28,55;32;0,06;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+538;South Africa;South Africans;28,23;-25,71;40;0,08;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+539;South Africa;South Bantu (CEPH-HGDP);24,25;-25,63;16;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+540;South Africa;Venda;30,48;-22,95;36;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+541;South Africa;Wellington Coloured ;19,01;-33,64;40;0,1;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+542;South Africa;Xhosa;20,66;-34,16;218;0,13;-14010 G>C rs145946881 ;Torniainen et al. (2009) BMC Genet. 10, 31
+543;South Africa;Zulu;30,96;-27,91;50;0,08;-14010 G>C rs145946881 ;Breton et al. (2014) Curr Biol. 24, 852
+545;Sudan;Ama;30;20;4;0;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+547;Sudan;Beja Banuamir;36,4;15,46;12;0;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+548;Sudan;Beja Hadandawa;36,4;15,46;22;0;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+550;Sudan;Beni Amer;37,22;19,62;154;0;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+553;Sudan;Dinka;28,5;8,5;18;0;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+555;Sudan;Dunglawi;30;20;12;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+558;Sudan;Gaali ;32,53;15,59;20;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+561;Sudan;Jaali;33,43;16,69;172;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779 , corrected Jones et al. (2015) Hum Genet. 134, 917
+562;Sudan;Koalib;30;20;2;0;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+563;Sudan;Liguri/Logorik;30;20;2;0;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+564;Sudan;Mahas ;32,53;15,59;30;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+566;Sudan;Masalit;30;20;2;0;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+568;Sudan;Nuer;32;8;10;0;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+569;Sudan;Nyimang;30,75;12,45;12;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+570;Sudan;Rashaayda;36,3;15,35;104;0;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+571;Sudan;Shaigi;30;20;18;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779,corr Jones et al (2015) Hum Genet. 134, 917
+572;Sudan;Shillook;31,66;9,54;16;0;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+575;Sudan;Sudanese Arabs;30,55;19,88;92;0;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+576;Tanzania;Akie;37,38;-5,29;28;0,21;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+577;Tanzania;Burunge;35,92;-5,23;36;0,38;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+578;Tanzania;Chagga;38,05;-5,38;92;0,14;-14010 G>C rs145946881 ;Jones et al. (2015) Hum Genet. 134, 917
+579;Tanzania;Datoga;35,17;-3,7;8;0,63;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+580;Tanzania;Dorobo;34,89;-6,37;20;0,4;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+581;Tanzania;Fiome;35,68;-4,42;22;0,55;-14010 G>C rs145946881 ;Tishkoff et al. (2007) Nat Genet. 39, 31
+582;Tanzania;Hadza;35,17;-3,68;40;0;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+583;Tanzania;Iraqw;35,38;-3,52;52;0,52;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+584;Tanzania;Maasai (Tanzania);34,85;-2,27;38;0,45;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+585;Tanzania;Mbugu;38,43;-4,85;60;0,31;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+586;Tanzania;Mbugwe;35,85;-3,79;24;0,29;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+587;Tanzania;Pare Tanzania;38,27;-8,57;20;0,1;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+588;Tanzania;Rangi;35,65;-4,31;70;0,3;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+589;Tanzania;Sambaa;38,43;-4,85;6;0;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+590;Tanzania;Sandawe;35,75;-5;62;0,15;-14010 G>C rs145946881 ;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+592;Zambia;Nkoya;24,8;-14,97;32;0,03;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+593;Zambia;Tonga;26,49;-17,67;34;0;-14010 G>C rs145946881 ;Macholdt et al. (2014) Curr Biol. 24, 875
+594;Afghanistan;Pashtuns/Afghans;68,36;33,56;32;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+596;Afghanistan;Tadjiks;68,71;36,13;28;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+598;Afghanistan;Uzbeks;67,64;35,5;54;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+600;Armenia;Armenians;45,04;40,07;102;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+601;Azerbaijan;Azeri;47,58;40,14;80;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+607;China;Han;115,52;25,65;20;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+608;China;Han (coord da Floyd. Coriell);115,52;25,65;20;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+611;China;Hezhen;132,5;47,7;196;0;-14010 G>C rs145946881 ;Xu et al. (2010) Scand J Gastroentero. 45, 168
+613;China;Kazak;81,3;43,9;194;0;-14010 G>C rs145946881 ;Xu et al. (2010) Scand J Gastroentero. 45, 168
+616;China;Man (Manchu);123,2;40,2;216;0;-14010 G>C rs145946881 ;Xu et al. (2010) Scand J Gastroentero. 45, 168
+620;China;Mongols;119,7;29,2;212;0;-14010 G>C rs145946881 ;Xu et al. (2010) Scand J Gastroentero. 45, 168
+622;China;Northern Han;126,53;45,8;138;0;-14010 G>C rs145946881 ;Xu et al. (2010) Scand J Gastroentero. 45, 168
+625;China;Oroqen;131;53,5;136;0;-14010 G>C rs145946881 ;Xu et al. (2010) Scand J Gastroentero. 45, 168
+627;China;Tibetans (Nagqu);92,07;31,48;418;0;-14010 G>C rs145946881 ;Peng et al. (2012) J Hum Genet. 57, 394
+628;China;Tibetans (Shigatse);88,88;29,27;572;0;-14010 G>C rs145946881 ;Peng et al. (2012) J Hum Genet. 57, 394
+634;Georgia;Georgians;43,35;42,32;108;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+635;India;Andaman and Nicobar Islands;92,8;12,5;68;0;-14010 G>C rs145946881 ;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+636;India;Central;79,45;23,84;358;0;-14010 G>C rs145946881 ;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+637;India;Dawoodi Bohra (Gujarat);71,19;22,26;100;0;-14010 G>C rs145946881 ;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+638;India;Dawoodi Bohra (Tamil Nadu);78,66;11,13;124;0;-14010 G>C rs145946881 ;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+639;India;East;85,02;20,8;620;0;-14010 G>C rs145946881 ;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+640;India;Indian Shia;80,1;27,57;142;0;-14010 G>C rs145946881 ;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+641;India;Indian Sunni;80,1;27,57;164;0;-14010 G>C rs145946881 ;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+642;India;Iranian Shia;80,1;17,05;98;0;-14010 G>C rs145946881 ;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+643;India;Mappla;78,66;11,13;124;0;-14010 G>C rs145946881 ;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+644;India;North;76,78;30,75;580;0;-14010 G>C rs145946881 ;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+645;India;North;77,2;28,6;120;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+646;India;North (Lucknow);80,95;26,85;154;0;-14010 G>C rs145946881 ;Babu et al. (2010) Am J Clin Nutr. 91, 140
+647;India;North East;95;27,48;278;0;-14010 G>C rs145946881 ;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+648;India;South;77,57;12,97;1728;0;-14010 G>C rs145946881 ;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+649;India;South;80,28;13,08;102;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+650;India;South-Indian (Bangalore);77,59;12,97;152;0;-14010 G>C rs145946881 ;Babu et al. (2010) Am J Clin Nutr. 91, 140
+651;India;West;73,68;24,58;936;0;-14010 G>C rs145946881 ;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+653;Japan;Japanese from Osaka;138,24;36,21;84;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+654;Mongolia;Khalka;99,05;47,38;114;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+655;Mongolia;Mongols;106,92;47,92;52;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+656;Nepal;Nepalese;84,12;28,39;38;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+657;Nepal;Tharu;80,9;28,83;80;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+665;Pakistan;Hazara;65,64;28,48;24;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+670;Pakistan;Kalash;71,78;35,78;32;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+684;Russia;North-Yakuts;146,19;70,77;22;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+687;Russia;Yakuts;129,73;62,03;110;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+689;Singapore;Han-Chinese;104,21;35,86;98;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+691;Syria, Iraq, Lebanon, West Bank;Arabs;40;33;40;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+694;Uzbekistan;Uzbeks;64,59;41,38;76;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+697;Belarus;Belarusians;27,95;53,71;100;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+701;Estonia;Estonians;26,4;59,05;628;0;-14010 G>C rs145946881 ;Lember (2006) World J Gastroentero. 12, 7329.
+702;Finland;Finns ;28;65;1876;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+711;Germany;Germans;10,45;51,17;60;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+712;Germany;Sorbs;14,31;51,26;64;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+714;Greece;Greeks;21,83;39,07;120;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+717;Ireland;Irish;-8;53,33;68;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+722;Italy;Italians (from rome);12,48;41,9;36;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+726;Italy;S. European*;12,48;41,9;66;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+734;Italy;Tyroleans Bozen;11,35;46,5;80;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+735;Italy;Tyroleans Gadertal;11,92;46,72;76;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+736;Italy;Tyroleans Vinschgau;10,77;46,63;102;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+737;Macedonia;Macedonians;21,75;41,61;100;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+738;Mixed;N. European;15;54;110;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+740;Netherlands;Frisians;5,8;53,2;58;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+741;Norway;Norwegians;8,47;60,47;88;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+746;Portugal;Portuguese;-8,22;39,4;96;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+751;Romania;Romanians;24,97;45,94;118;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+754;Russia;Erzya;43,58;54,21;42;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+756;Russia;Moksha;44,07;54,24;32;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+758;RUSSIA;Russian (Coriell);37,62;55,75;14;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+759;Russia;Russians (Northwest);40,53;64,53;298;0;-14010 G>C rs145946881 ;Khabarova et al. (2009) World J Gastroentero. 15, 1849
+760;Russia;Russians Perm;56,25;58,01;46;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+764;Spain;Catalans;1,52;41,59;58;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+766;Spain;Spanish;-3,7;40,51;62;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+767;Sweden;Northern European (Coriell);17,63;59,85;74;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+768;Sweden;Sami;20,87;67,87;60;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+770;Sweden;Swedes;15,01;60,03;74;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+771;UK;Northern European ancestry;-0,12;51,51;102;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+774;Ukraine;Ukrainians;31,17;48,38;74;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+775;Cyprus;Greek-Cypriots;33,02;34,71;120;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+777;Iran;Iranians;53,69;32,43;42;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+778;Iran;Iranians;53,69;32,43;154;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+782;Israel;Bedouin Israeli;34,77;32,07;38;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+783;Israel;Druze;34,77;32,07;28;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+786;Israel;Urban Arabs;34,77;32,07;162;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+787;Israel;Urban Arabs;34,77;32,07;84;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+788;Israel/PAA;Palestinian Arabs;35,2;31,9;36;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+789;Israel/PAA;Palestinians;34,47;31,5;44;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+790;Jordan;Jordanian;35,93;31,95;112;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+791;Jordan;Jordanian;36,24;30,59;46;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+792;Kurwait;Ajman;48;28,83;74;0;-14010 G>C rs145946881 ;Hill et al. (2013) Am J Phys Anthr. 152, 140
+793;Kuwait;Kuwaiti;47,48;29,31;66;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+794;Kuwait;Mutran;47,94;29,24;58;0;-14010 G>C rs145946881 ;Hill et al. (2013) Am J Phys Anthr. 152, 140
+795;Lebanon;Lebanese;35,49;33,89;48;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+796;Oman;Arabs of Northern Oman;57,01;23,88;684;0;-14010 G>C rs145946881 ;Al-Abri et al. (2012) Hum Biol. 84, 271
+797;Oman;Dhofaris Arabs of Southern Oman;54,43;18,4;420;0;-14010 G>C rs145946881 ;Al-Abri et al. (2012) Hum Biol. 84, 271
+798;Oman;Omani;58,5;23,53;104;0;-14010 G>C rs145946881 ;Al-Abri et al. (2013) Oman Med J. 28, 341
+799;Saudi Arabia;Bedouin;45;23;94;0;-14010 G>C rs145946881 ;Ingram et al. (2007) Hum Genet. 120, 779
+800;Saudi Arabia;Central ;46,72;24,71;180;0;-14010 G>C rs145946881 ;Imtiaz et al. (2007) J Med Genet. 44, e89
+801;Saudi Arabia;Eastern ;50,68;22,3;164;0;-14010 G>C rs145946881 ;Imtiaz et al. (2007) J Med Genet. 44, e89
+802;Saudi Arabia;Northern;39,32;29,89;164;0;-14010 G>C rs145946881 ;Imtiaz et al. (2007) J Med Genet. 44, e89
+803;Saudi Arabia;Southern;44,13;17,49;184;0;-14010 G>C rs145946881 ;Imtiaz et al. (2007) J Med Genet. 44, e89
+804;Saudi Arabia;Western;39,82;21,42;172;0;-14010 G>C rs145946881 ;Imtiaz et al. (2007) J Med Genet. 44, e89
+805;Saudi Arabia ;Arabs;45;23;248;0;-14010 G>C rs145946881 ;Enattah et al. (2008) Am J Hum Genet. 82, 57
+807;Syria;Syrians;39;34,8;140;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+809;Turkey;Anatolian-Turks;31,33;38,99;116;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+810;Yemen;Yemen (judeo-yemen);44,21;15,35;46;0;-14010 G>C rs145946881 ;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+811;Yemen;Yemeni (Sana'a University);44,21;15,35;478;0;-14010 G>C rs145946881 ;Al-Abri et al. (2012) Hum Biol. 84, 271
+812;Yemen;Yemeni_Hadramaut;49,37;16,93;166;0,01;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+813;Yemen;Yemeni_Sena;44,21;15,35;68;0;-14010 G>C rs145946881 ;Liebert et al. (2017) Hum Genet
+814;Yemen;Yemenis 1;44,18;13,32;86;0,01;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+815;Yemen;Yemenis 2;43;14,82;132;0,01;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+816;Yemen;Yemenis 3;43,6;15,7;68;0;-14010 G>C rs145946881 ;Priehodová et al, (2014) Hum Biol. 86, 7
+817;Yemen;Yemenis 4;48,74;15,93;80;0;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+818;Yemen;Yemenis 5;53,85;12,5;130;0;-14010 G>C rs145946881 ;Priehodová et al. (2014) Hum Biol. 86, 7
+822;Algeria;Mozabite Berbers;3,67;32,49;44;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+823;Angola;!Xun;17,7;-14,66;40;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+824;Angola;!Xuun;15,99;-16,34;72;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+825;Angola;Himba;12,58;-16,98;138;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+827;Angola;Kuvale;12,95;-15,64;162;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+828;Angola;Kwepe;12,11;-15,78;68;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+829;Angola;Kwisi;12,62;-15,92;40;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+832;Angola;Tjimba;12,65;-17,06;30;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+833;Angola;Twa;13,44;-16,7;36;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+834;Angola, Namibia Botswana;Khwe;23,57;-17,87;38;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+835;Botswana;/Gui and //Ganab;24,05;-23,42;40;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+836;Botswana;Buga;22,31;-18,48;18;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+837;Botswana;G|ui;22,69;-22,05;34;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+838;Botswana;Gǁana;22,69;-22,05;20;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+839;Botswana;Ju|'hoan_North;21,24;-20,24;42;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+840;Botswana;Ju|'hoan_South;21,24;-20,24;52;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+841;Botswana;Kgalagadi;23,02;-24,89;40;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+842;Botswana;Naro;21,37;-22,01;38;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+843;Botswana;Shua;24,95;-20,8;54;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+844;Botswana;Taa_East;23,02;-24,89;22;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+845;Botswana;Taa_North;21,41;-22,96;22;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+846;Botswana;Taa_West;20,18;-23,79;40;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+847;Botswana;Tshwa;24,95;-20,8;30;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+848;Botswana;Tswana;25,9;-23,71;36;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+849;Botswana;ǁAni;22,31;-18,48;22;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+850;Botswana;ǂHoan;23,02;-24,89;14;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+851;Cameroon;Arabic Baggara;14,67;11,33;62;0,02;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+852;Cameroon;Bakola;10,42;3,08;56;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+853;Cameroon;Fulani;14,15;11,05;102;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+854;Cameroon;Fulani;14,5;10,5;48;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+857;Cameroon;Mambila;12,5;6;134;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+858;Cameroon;Mandara;14,24;10,98;42;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+860;Cameroon;Ouldoume;14,24;10,98;36;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+861;Cameroon;Pygmy;14,75;2,92;36;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+862;Cameroon;Shuwa Arabs;14,5;13;124;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+864;Chad;Abbala;15,31;14,12;54;0,04;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+866;Chad;Boulala;17,54;12,89;44;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+867;Chad;Laka;15,97;7,88;46;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+868;Chad;Ngambay;16,32;8,98;48;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+869;Congo;Brazzaville;15,28;-4,27;104;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+870;Congo;Manyanga;14,16;-4,91;22;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+871;Congo;Mbuti;29,97;1,85;30;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+872;Egypt ;Egyptian Arabs;28,66;28,02;68;0,06;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+873;Ethiopia;Afar;41,36;11,6;152;0,01;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+874;Ethiopia;Amhara;38,66;9,87;152;0,03;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+875;Ethiopia;Amhara (phenotyped);38,66;9,87;108;0,05;-14009 T>G ss820486563;Jones et al. (2013) Am J Hum Genet. 93, 538
+877;Ethiopia;Anuak;34,41;7,95;138;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+878;Ethiopia;Beta Israel (Ethiopian Jews);37,47;12,6;36;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+879;Ethiopia;Maale;36,64;5,71;132;0,05;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+880;Ethiopia;Manjo;36,23;7,27;80;0,03;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+881;Ethiopia;Nuer;34,58;8,25;74;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+882;Ethiopia;Oromo;37,31;7,84;152;0,03;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+883;Ethiopia;Shabo;35,41;7,56;48;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+884;Ethiopia;Somali;41,87;9,58;74;0,01;-14009 T>G ss820486563;Ingram (2009) J Mol Evol. 69, 579
+885;Ethiopia;Somali (phenotyped);41,87;9,58;188;0,02;-14009 T>G ss820486563;Ingram (2009) J Mol Evol. 69, 579, corrected Liebert
+886;Ethiopia;Suri;35,59;7;100;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+887;Ethiopia ;Oromo (phenotyped);37,31;7,84;150;0,03;-14009 T>G ss820486563;Jones et al. (2013) Am J Hum Genet. 93, 538
+888;Ethiopia ;Tigray;39,47;13,5;88;0,03;-14009 T>G ss820486563;Jones et al. (2013) Am J Hum Genet. 93, 538
+889;Ethiopia ;Wolayta;37,76;6,84;52;0,04;-14009 T>G ss820486563;Jones et al. (2013) Am J Hum Genet. 93, 538
+891;Ghana;Asante;-0,55;6,17;70;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+892;Ghana;Builsa;-1,29;10,53;42;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+893;Kenya;Bajun;40,12;-3,22;10;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+894;Kenya;Boni;40,49;-2,21;48;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+895;Kenya;Borana;38,02;2,33;34;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+896;Kenya;Burji;37,78;5,6;16;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+897;Kenya;Dikri Maasai;37,16;0,4;2;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+898;Kenya;Elmolo;36,68;2,83;32;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+899;Kenya;Gabra/Gabramigos;37,07;3,32;82;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+900;Kenya;Garreh;39,24;3,47;38;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+901;Kenya;Il'gwesi Maasai;37,14;0,37;22;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+902;Kenya;Ilchamus Maasai;36,08;0,51;20;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+903;Kenya;Kikuyu;37,15;-0,72;14;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+904;Kenya;Konso;37,48;5,25;24;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+905;Kenya;Luo;34,53;-0,11;44;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+906;Kenya;Marakwet;35,26;1,09;14;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+907;Kenya;Mumonyot Maasai;37,14;0,43;14;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+909;Kenya;Ogiek;35,83;-0,37;22;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+910;Kenya;Orma;40,44;-2,39;48;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+911;Kenya;Pare Kenya;37,76;-3,48;36;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+912;Kenya;Pokomo;40,12;-3,22;14;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+913;Kenya;Pokot;36,09;0,68;28;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+915;Kenya;Rendille;37,58;2,51;24;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+916;Kenya;Sabaot;35,26;1,09;12;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+917;Kenya;Samburu;36,7;1,1;18;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+918;Kenya;Sanye;40,5;-2,37;28;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+919;Kenya;Sengwer;35,26;1,09;32;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+920;Kenya;Taita;38,29;-3,4;20;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+921;Kenya;Tugen;35,85;0,52;30;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+922;Kenya;Turkana;35,99;0,48;26;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+923;Kenya;Wata;37,07;3,32;44;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+924;Kenya;Yaaku;37,18;0,45;28;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+927;Malawi;Chewa;33,78;-13,98;100;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+935;Mosambique;Makua;39,36;-15,15;28;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+936;Mosambique;Nyanja;34,1;-14,92;22;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+937;Mosambique;Shangaan;32,89;-24,35;46;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+938;Mosambique;Tswa;34,89;-21,91;36;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+939;Mosambique;Yao;35,75;-12,81;30;0;-14009 T>G ss820486563;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+941;Mozambique;Sena;35,05;-17,44;136;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+942;Namibia;!Xuun;18,78;-19,05;38;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+943;Namibia;Damara;16,23;-20,35;68;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+944;Namibia;Haiǁom;16,23;-20,35;80;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+945;Namibia;Herero;17,04;-21,5;42;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+946;Namibia;Herero (southwestern Bantu speakers);17,07;-22,56;28;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+947;Namibia;Himba;13,94;-18,84;32;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+948;Namibia;Ju/’hoansi;20,5;-19,6;40;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+949;Namibia;Nama;17,07;-22,56;44;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+950;Namibia;Nama;17,55;-24,69;50;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+952;Namibia;San;18,19;-25,6;34;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+953;Namibia;San (CEPH);20;-21;10;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+954;Namibia;Wambo;16,58;-17,63;16;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+955;Namibia;ǁXo;23,39;-17,96;38;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+956;Nigeria;Shuwa Arabs;14,19;12,34;106;0,01;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+958;Nigeria;Yoruba;4;8;52;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+960;Senegal;Mandjak;-15,88;12,99;114;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+961;Senegal;Wolof;-17,45;14,69;138;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+963;South Africa;!Xhosa;29;-31,5;42;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+964;South Africa;!Xun/Khoe;24,03;-28,68;22;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+965;South Africa;Askham Coloured;20,78;-26,98;40;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+967;South Africa;Colesberg Coloured;25,07;-30,69;40;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+968;South Africa;Karretjie;25,07;-30,69;40;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+969;South Africa;Khomani;20,78;-26,98;40;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+971;South Africa;Sotho-Tswana;27,67;-28,55;32;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+972;South Africa;South Africans;28,23;-25,71;40;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+973;South Africa;South Bantu (CEPH-HGDP);24,25;-25,63;16;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+974;South Africa;Venda;30,48;-22,95;36;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+975;South Africa;Wellington Coloured ;19,01;-33,64;40;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+977;South Africa;Zulu;30,96;-27,91;50;0;-14009 T>G ss820486563;Breton et al. (2014) Curr Biol. 24, 852
+981;Sudan;Beja Banuamir;36,4;15,46;12;0,24;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+982;Sudan;Beja Hadandawa;36,4;15,46;22;0,24;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+984;Sudan;Beni Amer;37,22;19,62;154;0,12;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+987;Sudan;Dinka;28,5;8,5;18;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+989;Sudan;Dunglawi;30;20;12;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+995;Sudan;Jaali;33,43;16,69;172;0,06;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779 , corrected Jones et al. (2015) Hum Genet. 134, 917
+1002;Sudan;Nuer;32;8;10;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1003;Sudan;Nyimang;30,75;12,45;12;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1004;Sudan;Rashaayda;36,3;15,35;104;0;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+1005;Sudan;Shaigi;30;20;18;0,17;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779,corr Jones et al (2015) Hum Genet. 134, 917
+1006;Sudan;Shillook;31,66;9,54;16;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1009;Sudan;Sudanese Arabs;30,55;19,88;92;0,13;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+1010;Tanzania;Akie;37,38;-5,29;28;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1011;Tanzania;Burunge;35,92;-5,23;36;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1012;Tanzania;Chagga;38,05;-5,38;92;0;-14009 T>G ss820486563;Jones et al. (2015) Hum Genet. 134, 917
+1016;Tanzania;Hadza;35,17;-3,68;40;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1017;Tanzania;Iraqw;35,38;-3,52;52;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1018;Tanzania;Maasai (Tanzania);34,85;-2,27;38;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1019;Tanzania;Mbugu;38,43;-4,85;60;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1020;Tanzania;Mbugwe;35,85;-3,79;24;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1021;Tanzania;Pare Tanzania;38,27;-8,57;20;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1022;Tanzania;Rangi;35,65;-4,31;70;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1023;Tanzania;Sambaa;38,43;-4,85;6;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1024;Tanzania;Sandawe;35,75;-5;62;0;-14009 T>G ss820486563;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1026;Zambia;Nkoya;24,8;-14,97;32;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+1027;Zambia;Tonga;26,49;-17,67;34;0;-14009 T>G ss820486563;Macholdt et al. (2014) Curr Biol. 24, 875
+1028;Afghanistan;Pashtuns/Afghans;68,36;33,56;32;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1030;Afghanistan;Tadjiks;68,71;36,13;28;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1032;Afghanistan;Uzbeks;67,64;35,5;54;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1034;Armenia;Armenians;45,04;40,07;102;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1035;Azerbaijan;Azeri;47,58;40,14;80;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1041;China;Han;115,52;25,65;20;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1042;China;Han (coord da Floyd. Coriell);115,52;25,65;20;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1068;Georgia;Georgians;43,35;42,32;108;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1069;India;Andaman and Nicobar Islands;92,8;12,5;68;0;-14009 T>G ss820486563;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1070;India;Central;79,45;23,84;358;0;-14009 T>G ss820486563;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1073;India;East;85,02;20,8;620;0;-14009 T>G ss820486563;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1078;India;North;76,78;30,75;580;0;-14009 T>G ss820486563;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1079;India;North;77,2;28,6;120;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1081;India;North East;95;27,48;278;0;-14009 T>G ss820486563;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1082;India;South;77,57;12,97;1728;0;-14009 T>G ss820486563;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1083;India;South;80,28;13,08;102;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1085;India;West;73,68;24,58;936;0;-14009 T>G ss820486563;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1087;Japan;Japanese from Osaka;138,24;36,21;84;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1088;Mongolia;Khalka;99,05;47,38;114;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1089;Mongolia;Mongols;106,92;47,92;52;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1090;Nepal;Nepalese;84,12;28,39;38;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1091;Nepal;Tharu;80,9;28,83;80;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1099;Pakistan;Hazara;65,64;28,48;24;0,01;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1104;Pakistan;Kalash;71,78;35,78;32;0,01;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1118;Russia;North-Yakuts;146,19;70,77;22;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1121;Russia;Yakuts;129,73;62,03;110;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1123;Singapore;Han-Chinese;104,21;35,86;98;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1128;Uzbekistan;Uzbeks;64,59;41,38;76;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1131;Belarus;Belarusians;27,95;53,71;100;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1145;Germany;Germans;10,45;51,17;60;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1146;Germany;Sorbs;14,31;51,26;64;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1148;Greece;Greeks;21,83;39,07;120;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1151;Ireland;Irish;-8;53,33;68;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1156;Italy;Italians (from rome);12,48;41,9;36;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1160;Italy;S. European*;12,48;41,9;66;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+1168;Italy;Tyroleans Bozen;11,35;46,5;80;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1169;Italy;Tyroleans Gadertal;11,92;46,72;76;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1170;Italy;Tyroleans Vinschgau;10,77;46,63;102;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1171;Macedonia;Macedonians;21,75;41,61;100;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1172;Mixed;N. European;15;54;110;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+1174;Netherlands;Frisians;5,8;53,2;58;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1175;Norway;Norwegians;8,47;60,47;88;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1180;Portugal;Portuguese;-8,22;39,4;96;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1185;Romania;Romanians;24,97;45,94;118;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1188;Russia;Erzya;43,58;54,21;42;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1190;Russia;Moksha;44,07;54,24;32;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1192;RUSSIA;Russian (Coriell);37,62;55,75;14;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1194;Russia;Russians Perm;56,25;58,01;46;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1198;Spain;Catalans;1,52;41,59;58;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1200;Spain;Spanish;-3,7;40,51;62;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1201;Sweden;Northern European (Coriell);17,63;59,85;74;0;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1202;Sweden;Sami;20,87;67,87;60;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1204;Sweden;Swedes;15,01;60,03;74;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1205;UK;Northern European ancestry;-0,12;51,51;102;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1208;Ukraine;Ukrainians;31,17;48,38;74;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1209;Cyprus;Greek-Cypriots;33,02;34,71;120;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1212;Iran;Iranians;53,69;32,43;154;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1216;Israel;Bedouin Israeli;34,77;32,07;38;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+1217;Israel;Druze;34,77;32,07;28;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+1220;Israel;Urban Arabs;34,77;32,07;162;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+1221;Israel;Urban Arabs;34,77;32,07;84;0,01;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1222;Israel/PAA;Palestinian Arabs;35,2;31,9;36;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+1223;Israel/PAA;Palestinians;34,47;31,5;44;0,01;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1225;Jordan;Jordanian;36,24;30,59;46;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+1227;Kuwait;Kuwaiti;47,48;29,31;66;0,02;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1229;Lebanon;Lebanese;35,49;33,89;48;0,01;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1233;Saudi Arabia;Bedouin;45;23;94;0;-14009 T>G ss820486563;Ingram et al. (2007) Hum Genet. 120, 779
+1241;Syria;Syrians;39;34,8;140;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1243;Turkey;Anatolian-Turks;31,33;38,99;116;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1244;Yemen;Yemen (judeo-yemen);44,21;15,35;46;0,01;-14009 T>G ss820486563;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1246;Yemen;Yemeni_Hadramaut;49,37;16,93;166;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1247;Yemen;Yemeni_Sena;44,21;15,35;68;0;-14009 T>G ss820486563;Liebert et al. (2017) Hum Genet
+1248;Yemen;Yemenis 1;44,18;13,32;86;0,01;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+1249;Yemen;Yemenis 2;43;14,82;132;0;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+1250;Yemen;Yemenis 3;43,6;15,7;68;0;-14009 T>G ss820486563;Priehodová et al, (2014) Hum Biol. 86, 7
+1251;Yemen;Yemenis 4;48,74;15,93;80;0;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+1252;Yemen;Yemenis 5;53,85;12,5;130;0;-14009 T>G ss820486563;Priehodová et al. (2014) Hum Biol. 86, 7
+1254;Algeria;Berber Mzab;3,68;32,49;66;0;-13915 T>G rs41380347;
+;Myles et al.  (2005) Hum Genet. 117, 34;;;;;;;
+1256;Algeria;Mozabite Berbers;3,67;32,49;44;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1257;Angola;!Xun;17,7;-14,66;40;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1258;Angola;!Xuun;15,99;-16,34;72;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1259;Angola;Himba;12,58;-16,98;138;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1260;Angola;Kuvale;12,15;-15,2;108;0;-13915 T>G rs41380347;
+;Coelho et al. (2009) BMC Evol Biol. 9, 80;;;;;;;
+1261;Angola;Kuvale;12,95;-15,64;162;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1262;Angola;Kwepe;12,11;-15,78;68;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1263;Angola;Kwisi;12,62;-15,92;40;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1264;Angola;Nyaneka-Nkhumbi;12,15;-15,2;306;0;-13915 T>G rs41380347;
+;Coelho et al. (2009) BMC Evol Biol. 9, 80;;;;;;;
+1265;Angola;Ovimbundu;12,15;-15,2;192;0;-13915 T>G rs41380347;
+;Coelho et al. (2009) BMC Evol Biol. 9, 80;;;;;;;
+1266;Angola;Tjimba;12,65;-17,06;30;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1267;Angola;Twa;13,44;-16,7;36;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1268;Angola, Namibia Botswana;Khwe;23,57;-17,87;38;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1269;Botswana;/Gui and //Ganab;24,05;-23,42;40;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1270;Botswana;Buga;22,31;-18,48;18;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1271;Botswana;G|ui;22,69;-22,05;34;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1272;Botswana;Gǁana;22,69;-22,05;20;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1273;Botswana;Ju|'hoan_North;21,24;-20,24;42;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1274;Botswana;Ju|'hoan_South;21,24;-20,24;52;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1275;Botswana;Kgalagadi;23,02;-24,89;40;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1276;Botswana;Naro;21,37;-22,01;38;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1277;Botswana;Shua;24,95;-20,8;54;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1278;Botswana;Taa_East;23,02;-24,89;22;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1279;Botswana;Taa_North;21,41;-22,96;22;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1280;Botswana;Taa_West;20,18;-23,79;40;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1281;Botswana;Tshwa;24,95;-20,8;30;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1282;Botswana;Tswana;25,9;-23,71;36;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1283;Botswana;ǁAni;22,31;-18,48;22;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1284;Botswana;ǂHoan;23,02;-24,89;14;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1285;Cameroon;Arabic Baggara;14,67;11,33;62;0,03;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1286;Cameroon;Bakola;10,42;3,08;56;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1287;Cameroon;Fulani;14,15;11,05;102;0;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1288;Cameroon;Fulani;14,5;10,5;48;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1291;Cameroon;Mambila;12,5;6;134;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1292;Cameroon;Mandara;14,24;10,98;42;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1294;Cameroon;Ouldoume;14,24;10,98;36;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1295;Cameroon;Pygmy;14,75;2,92;36;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1296;Cameroon;Shuwa Arabs;14,5;13;124;0,08;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1298;Chad;Abbala;15,31;14,12;54;0,46;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1299;Chad;Baggara2;17,95;13,18;100;0,26;-13915 T>G rs41380347;
+;Priehodová et al. (2017) Am J Hum Biol. 29;;;;;;;
+1300;Chad;Boulala;17,54;12,89;44;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1301;Chad;Laka;15,97;7,88;46;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1302;Chad;Ngambay;16,32;8,98;48;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1303;Congo;Brazzaville;15,28;-4,27;104;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1304;Congo;Manyanga;14,16;-4,91;22;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1305;Congo;Mbuti;29,97;1,85;30;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1306;Egypt ;Egyptian Arabs;28,66;28,02;68;0,02;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1307;Ethiopia;Afar;41,36;11,6;152;0,18;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1308;Ethiopia;Amhara;38,66;9,87;152;0,04;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1309;Ethiopia;Amhara (phenotyped);38,66;9,87;108;0,06;-13915 T>G rs41380347;
+;Jones et al. (2013) Am J Hum Genet. 93, 538;;;;;;;
+1310;Ethiopia;Amhara, Tigray and Oromo;32;15;80;0,1;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1311;Ethiopia;Anuak;34,41;7,95;138;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1312;Ethiopia;Beta Israel (Ethiopian Jews);37,47;12,6;36;0,03;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1313;Ethiopia;Maale;36,64;5,71;132;0,04;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1314;Ethiopia;Manjo;36,23;7,27;80;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1315;Ethiopia;Nuer;34,58;8,25;74;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1316;Ethiopia;Oromo;37,31;7,84;152;0,07;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1317;Ethiopia;Shabo;35,41;7,56;48;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1318;Ethiopia;Somali;41,87;9,58;74;0,04;-13915 T>G rs41380347;
+;Ingram (2009) J Mol Evol. 69, 579;;;;;;;
+1319;Ethiopia;Somali (phenotyped);41,87;9,58;188;0,05;-13915 T>G rs41380347;
+;Ingram (2009) J Mol Evol. 69, 579, corrected Liebert;;;;;;;
+1320;Ethiopia;Suri;35,59;7;100;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1321;Ethiopia ;Oromo (phenotyped);37,31;7,84;150;0,13;-13915 T>G rs41380347;
+;Jones et al. (2013) Am J Hum Genet. 93, 538;;;;;;;
+1322;Ethiopia ;Tigray;39,47;13,5;88;0,11;-13915 T>G rs41380347;
+;Jones et al. (2013) Am J Hum Genet. 93, 538;;;;;;;
+1323;Ethiopia ;Wolayta;37,76;6,84;52;0,12;-13915 T>G rs41380347;
+;Jones et al. (2013) Am J Hum Genet. 93, 538;;;;;;;
+1324;Ghana;Akan;-1,02;7,95;392;0;-13915 T>G rs41380347;
+;Torniainen et al. (2009) BMC Genet. 10, 31;;;;;;;
+1325;Ghana;Asante;-0,55;6,17;70;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1326;Ghana;Builsa;-1,29;10,53;42;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1327;Kenya;Bajun;40,12;-3,22;10;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1328;Kenya;Boni;40,49;-2,21;48;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1329;Kenya;Borana;38,02;2,33;34;0,09;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1330;Kenya;Burji;37,78;5,6;16;0,06;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1331;Kenya;Dikri Maasai;37,16;0,4;2;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1332;Kenya;Elmolo;36,68;2,83;32;0,03;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1333;Kenya;Gabra/Gabramigos;37,07;3,32;82;0,2;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1334;Kenya;Garreh;39,24;3,47;38;0,16;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1335;Kenya;Il'gwesi Maasai;37,14;0,37;22;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1336;Kenya;Ilchamus Maasai;36,08;0,51;20;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1337;Kenya;Kikuyu;37,15;-0,72;14;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1338;Kenya;Konso;37,48;5,25;24;0,08;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1339;Kenya;Luo;34,53;-0,11;44;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1340;Kenya;Marakwet;35,26;1,09;14;0,07;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1341;Kenya;Mumonyot Maasai;37,14;0,43;14;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1342;Kenya;Nandi;35,18;0,11;8;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1343;Kenya;Ogiek;35,83;-0,37;22;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1344;Kenya;Orma;40,44;-2,39;48;0,13;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1345;Kenya;Pare Kenya;37,76;-3,48;36;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1346;Kenya;Pokomo;40,12;-3,22;14;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1347;Kenya;Pokot;36,09;0,68;28;0,04;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1348;Kenya;Purko Maasai;36,09;0,68;2;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1349;Kenya;Rendille;37,58;2,51;24;0,08;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1350;Kenya;Sabaot;35,26;1,09;12;0,08;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1351;Kenya;Samburu;36,7;1,1;18;0,06;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1352;Kenya;Sanye;40,5;-2,37;28;0,07;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1353;Kenya;Sengwer;35,26;1,09;32;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1354;Kenya;Taita;38,29;-3,4;20;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1355;Kenya;Tugen;35,85;0,52;30;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1356;Kenya;Turkana;35,99;0,48;26;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1357;Kenya;Wata;37,07;3,32;44;0,16;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1358;Kenya;Yaaku;37,18;0,45;28;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1361;Malawi;Chewa;33,78;-13,98;100;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1364;Morocco;Moroccan;-6,02;34,03;24;0,08;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1366;Morocco;Saharawi;-6,02;34,03;22;0,18;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1367;Morocco ;Berber Amizmiz (High-Atlas);-8,23;29;78;0;-13915 T>G rs41380347;
+;Myles et al.  (2005) Hum Genet. 117, 34;;;;;;;
+1368;Morocco ;Berber Moyen-Atlas (Mid-Atlas);-4,84;33,12;66;0;-13915 T>G rs41380347;
+;Myles et al.  (2005) Hum Genet. 117, 34;;;;;;;
+1369;Mosambique;Makua;39,36;-15,15;28;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1370;Mosambique;Nyanja;34,1;-14,92;22;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1371;Mosambique;Shangaan;32,89;-24,35;46;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1372;Mosambique;Tswa;34,89;-21,91;36;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1373;Mosambique;Yao;35,75;-12,81;30;0;-13915 T>G rs41380347;
+;Pinto et al. (2016) Am J Phys Anthropol. 161, 436;;;;;;;
+1375;Mozambique;Sena;35,05;-17,44;136;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1376;Namibia;!Xuun;18,78;-19,05;38;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1377;Namibia;Damara;16,23;-20,35;68;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1378;Namibia;Haiǁom;16,23;-20,35;80;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1379;Namibia;Herero;17,04;-21,5;42;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1380;Namibia;Herero (southwestern Bantu speakers);17,07;-22,56;28;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1381;Namibia;Himba;13,94;-18,84;32;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1382;Namibia;Ju/’hoansi;20,5;-19,6;40;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1383;Namibia;Nama;17,07;-22,56;44;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1384;Namibia;Nama;17,55;-24,69;50;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1386;Namibia;San;18,19;-25,6;34;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1387;Namibia;San (CEPH);20;-21;10;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1388;Namibia;Wambo;16,58;-17,63;16;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1389;Namibia;ǁXo;23,39;-17,96;38;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1390;Nigeria;Shuwa Arabs;14,19;12,34;106;0,07;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1392;Nigeria;Yoruba;4;8;52;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1394;Senegal;Mandjak;-15,88;12,99;114;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1395;Senegal;Wolof;-17,45;14,69;138;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1397;South Africa;!Xhosa;29;-31,5;42;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1398;South Africa;!Xun/Khoe;24,03;-28,68;22;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1399;South Africa;Askham Coloured;20,78;-26,98;40;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1401;South Africa;Colesberg Coloured;25,07;-30,69;40;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1402;South Africa;Karretjie;25,07;-30,69;40;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1403;South Africa;Khomani;20,78;-26,98;40;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1404;South Africa;Mixed (for example with Europeans);18,42;-33,92;124;0;-13915 T>G rs41380347;
+;Torniainen et al. (2009) BMC Genet. 10, 31;;;;;;;
+1405;South Africa;Sotho-Tswana;27,67;-28,55;32;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1406;South Africa;South Africans;28,23;-25,71;40;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1407;South Africa;South Bantu (CEPH-HGDP);24,25;-25,63;16;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1408;South Africa;Venda;30,48;-22,95;36;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1409;South Africa;Wellington Coloured ;19,01;-33,64;40;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1410;South Africa;Xhosa;20,66;-34,16;218;0;-13915 T>G rs41380347;
+;Torniainen et al. (2009) BMC Genet. 10, 31;;;;;;;
+1411;South Africa;Zulu;30,96;-27,91;50;0;-13915 T>G rs41380347;
+;Breton et al. (2014) Curr Biol. 24, 852;;;;;;;
+1412;South Sudan;Nilotes;31;4;96;0;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1413;Sudan;Ama;30;20;4;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1414;Sudan;Baggara1;28,35;11,53;106;0,2;-13915 T>G rs41380347;
+;Priehodová et al. (2017) Am J Hum Biol. 29;;;;;;;
+1415;Sudan;Beja Banuamir;36,4;15,46;12;0,17;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1416;Sudan;Beja Hadandawa;36,4;15,46;22;0,18;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1417;Sudan;Beni Amer;36;18;74;0,34;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1418;Sudan;Beni Amer;37,22;19,62;154;0,24;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1419;Sudan;Copts;32;15;78;0;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1420;Sudan;Darfurians;25;13;98;0,01;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1421;Sudan;Dinka;28,5;8,5;18;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1423;Sudan;Dunglawi;30;20;12;0;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1424;Sudan;Fulani;24;11;78;0,01;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1426;Sudan;Gaali ;32,53;15,59;20;0;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1427;Sudan;Gaalien-Arabs;33;16;80;0,13;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1428;Sudan;Halfawien-Nubians;31;21;78;0,12;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1429;Sudan;Jaali;33,43;16,69;172;0,13;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779 , corrected Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1430;Sudan;Koalib;30;20;2;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1431;Sudan;Liguri/Logorik;30;20;2;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1432;Sudan;Mahas ;32,53;15,59;30;0,17;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1433;Sudan;Mahas-Nubians;30;19;78;0,04;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1434;Sudan;Masalit;30;20;2;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1435;Sudan;Nuba;29;11;80;0,03;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1436;Sudan;Nuer;32;8;10;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1437;Sudan;Nyimang;30,75;12,45;12;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1438;Sudan;Rashaayda;36,3;15,35;104;0,77;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1439;Sudan;Shaigi;30;20;18;0,06;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779,corr Jones et al (2015) Hum Genet. 134, 917;;;;;;;
+1440;Sudan;Shillook;31,66;9,54;16;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1441;Sudan;Shokrya-Arabs;35;15;80;0,3;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1442;Sudan;Shwaiga-Arabs;31;18;76;0,13;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1443;Sudan;Sudanese Arabs;30,55;19,88;92;0,08;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1444;Tanzania;Akie;37,38;-5,29;28;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1445;Tanzania;Burunge;35,92;-5,23;36;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1446;Tanzania;Chagga;38,05;-5,38;92;0;-13915 T>G rs41380347;
+;Jones et al. (2015) Hum Genet. 134, 917;;;;;;;
+1447;Tanzania;Datoga;35,17;-3,7;8;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1448;Tanzania;Dorobo;34,89;-6,37;20;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1449;Tanzania;Fiome;35,68;-4,42;22;0;-13915 T>G rs41380347;
+;Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1450;Tanzania;Hadza;35,17;-3,68;40;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1451;Tanzania;Iraqw;35,38;-3,52;52;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1452;Tanzania;Maasai (Tanzania);34,85;-2,27;38;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1453;Tanzania;Mbugu;38,43;-4,85;60;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1454;Tanzania;Mbugwe;35,85;-3,79;24;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1455;Tanzania;Pare Tanzania;38,27;-8,57;20;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1456;Tanzania;Rangi;35,65;-4,31;70;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1457;Tanzania;Sambaa;38,43;-4,85;6;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1458;Tanzania;Sandawe;35,75;-5;62;0;-13915 T>G rs41380347;
+;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31;;;;;;;
+1460;Zambia;Nkoya;24,8;-14,97;32;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1461;Zambia;Tonga;26,49;-17,67;34;0;-13915 T>G rs41380347;
+;Macholdt et al. (2014) Curr Biol. 24, 875;;;;;;;
+1462;Afghanistan;Pashtuns/Afghans;68,36;33,56;32;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1464;Afghanistan;Tadjiks;68,71;36,13;28;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1466;Afghanistan;Uzbeks;67,64;35,5;54;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1468;Armenia;Armenians;45,04;40,07;102;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1469;Azerbaijan;Azeri;47,58;40,14;80;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL;;;;;;;
+1475;China;Han;115,52;25,65;20;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1476;China;Han (coord da Floyd. Coriell);115,52;25,65;20;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1479;China;Hezhen;132,5;47,7;196;0;-13915 T>G rs41380347;
+;Xu et al. (2010) Scand J Gastroentero. 45, 168;;;;;;;
+1481;China;Kazak;81,3;43,9;194;0;-13915 T>G rs41380347;
+;Xu et al. (2010) Scand J Gastroentero. 45, 168;;;;;;;
+1484;China;Man (Manchu);123,2;40,2;216;0;-13915 T>G rs41380347;
+;Xu et al. (2010) Scand J Gastroentero. 45, 168;;;;;;;
+1488;China;Mongols;119,7;29,2;212;0;-13915 T>G rs41380347;
+;Xu et al. (2010) Scand J Gastroentero. 45, 168;;;;;;;
+1490;China;Northern Han;126,53;45,8;138;0;-13915 T>G rs41380347;
+;Xu et al. (2010) Scand J Gastroentero. 45, 168;;;;;;;
+1493;China;Oroqen;131;53,5;136;0;-13915 T>G rs41380347;
+;Xu et al. (2010) Scand J Gastroentero. 45, 168;;;;;;;
+1495;China;Tibetans (Nagqu);92,07;31,48;418;0;-13915 T>G rs41380347;
+;Peng et al. (2012) J Hum Genet. 57, 394;;;;;;;
+1496;China;Tibetans (Shigatse);88,88;29,27;572;0;-13915 T>G rs41380347;
+;Peng et al. (2012) J Hum Genet. 57, 394;;;;;;;
+1502;Georgia;Georgians;43,35;42,32;108;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1503;India;Andaman and Nicobar Islands;92,8;12,5;68;0;-13915 T>G rs41380347;
+;Galego Romero et al. (2012) Mol Biol Evol. 29, 249;;;;;;;
+1504;India;Central;79,45;23,84;358;0;-13915 T>G rs41380347;
+;Galego Romero et al. (2012) Mol Biol Evol. 29, 249;;;;;;;
+1505;India;Dawoodi Bohra (Gujarat);71,19;22,26;100;0;-13915 T>G rs41380347;
+;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354;;;;;;;
+1506;India;Dawoodi Bohra (Tamil Nadu);78,66;11,13;124;0;-13915 T>G rs41380347;
+;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354;;;;;;;
+1507;India;East;85,02;20,8;620;0;-13915 T>G rs41380347;
+;Galego Romero et al. (2012) Mol Biol Evol. 29, 249;;;;;;;
+1508;India;Indian Shia;80,1;27,57;142;0;-13915 T>G rs41380347;
+;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354;;;;;;;
+1509;India;Indian Sunni;80,1;27,57;164;0;-13915 T>G rs41380347;
+;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354;;;;;;;
+1510;India;Iranian Shia;80,1;17,05;98;0;-13915 T>G rs41380347;
+;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354;;;;;;;
+1511;India;Mappla;78,66;11,13;124;0;-13915 T>G rs41380347;
+;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354;;;;;;;
+1512;India;North;76,78;30,75;580;0;-13915 T>G rs41380347;
+;Galego Romero et al. (2012) Mol Biol Evol. 29, 249;;;;;;;
+1513;India;North;77,2;28,6;120;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL;;;;;;;
+1514;India;North (Lucknow);80,95;26,85;154;0;-13915 T>G rs41380347;
+;Babu et al. (2010) Am J Clin Nutr. 91, 140;;;;;;;
+1515;India;North East;95;27,48;278;0;-13915 T>G rs41380347;
+;Galego Romero et al. (2012) Mol Biol Evol. 29, 249;;;;;;;
+1516;India;South;77,57;12,97;1728;0,01;-13915 T>G rs41380347;
+;Galego Romero et al. (2012) Mol Biol Evol. 29, 249;;;;;;;
+1517;India;South;80,28;13,08;102;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1518;India;South-Indian (Bangalore);77,59;12,97;152;0;-13915 T>G rs41380347;
+;Babu et al. (2010) Am J Clin Nutr. 91, 140;;;;;;;
+1519;India;West;73,68;24,58;936;0;-13915 T>G rs41380347;
+;Galego Romero et al. (2012) Mol Biol Evol. 29, 249;;;;;;;
+1521;Japan;Japanese from Osaka;138,24;36,21;84;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1522;Mongolia;Khalka;99,05;47,38;114;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1523;Mongolia;Mongols;106,92;47,92;52;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1524;Nepal;Nepalese;84,12;28,39;38;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1525;Nepal;Tharu;80,9;28,83;80;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1533;Pakistan;Hazara;65,64;28,48;24;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1538;Pakistan;Kalash;71,78;35,78;32;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1552;Russia;North-Yakuts;146,19;70,77;22;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1555;Russia;Yakuts;129,73;62,03;110;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1557;Singapore;Han-Chinese;104,21;35,86;98;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1559;Syria, Iraq, Lebanon, West Bank;Arabs;40;33;40;0,11;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1562;Uzbekistan;Uzbeks;64,59;41,38;76;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1565;Belarus;Belarusians;27,95;53,71;100;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1569;Estonia;Estonians;26,4;59,05;628;0;-13915 T>G rs41380347;
+;Lember (2006) World J Gastroentero. 12, 7329.;;;;;;;
+1570;Finland;Finns ;28;65;1876;0;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1579;Germany;Germans;10,45;51,17;60;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL;;;;;;;
+1580;Germany;Sorbs;14,31;51,26;64;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1582;Greece;Greeks;21,83;39,07;120;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL;;;;;;;
+1585;Ireland;Irish;-8;53,33;68;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL;;;;;;;
+1590;Italy;Italians (from rome);12,48;41,9;36;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1594;Italy;S. European*;12,48;41,9;66;0;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1602;Italy;Tyroleans Bozen;11,35;46,5;80;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1603;Italy;Tyroleans Gadertal;11,92;46,72;76;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1604;Italy;Tyroleans Vinschgau;10,77;46,63;102;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1605;Macedonia;Macedonians;21,75;41,61;100;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1606;Mixed;N. European;15;54;110;0;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1607;Netherlands;Dutch;5,86;51,82;92;0;-13915 T>G rs41380347;
+;Hassan et al. (2016) BMC Res Notes. 9, 8 ;;;;;;;
+1608;Netherlands;Frisians;5,8;53,2;58;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1609;Norway;Norwegians;8,47;60,47;88;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1612;Poland;Polish;19,15;51,92;446;0;-13915 T>G rs41380347;
+;Płoszaj et al. (2011) Cent Eur J Biol. 6, 176.;;;;;;;
+1614;Portugal;Portuguese;-8,22;39,4;96;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1619;Romania;Romanians;24,97;45,94;118;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1622;Russia;Erzya;43,58;54,21;42;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1624;Russia;Moksha;44,07;54,24;32;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1626;RUSSIA;Russian (Coriell);37,62;55,75;14;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1627;Russia;Russians (Northwest);40,53;64,53;298;0;-13915 T>G rs41380347;
+;Khabarova et al. (2009) World J Gastroentero. 15, 1849;;;;;;;
+1628;Russia;Russians Perm;56,25;58,01;46;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1632;Spain;Catalans;1,52;41,59;58;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1634;Spain;Spanish;-3,7;40,51;62;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1635;Sweden;Northern European (Coriell);17,63;59,85;74;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1636;Sweden;Sami;20,87;67,87;60;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1638;Sweden;Swedes;15,01;60,03;74;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1639;UK;Northern European ancestry;-0,12;51,51;102;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL;;;;;;;
+1642;Ukraine;Ukrainians;31,17;48,38;74;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1643;Cyprus;Greek-Cypriots;33,02;34,71;120;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1645;Iran;Iranians;53,69;32,43;42;0;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1646;Iran;Iranians;53,69;32,43;154;0,01;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL;;;;;;;
+1649;Israel;Bedouin Arabs;34,77;32,07;302;0,28;-13915 T>G rs41380347;
+;Raz et al. (2013) Gene. 519, 67.;;;;;;;
+1650;Israel;Bedouin Israeli;34,77;32,07;38;0,13;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1651;Israel;Druze;34,77;32,07;28;0,11;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1654;Israel;Urban Arabs;34,77;32,07;162;0,06;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1655;Israel;Urban Arabs;34,77;32,07;84;0,01;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1656;Israel/PAA;Palestinian Arabs;35,2;31,9;36;0;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1657;Israel/PAA;Palestinians;34,47;31,5;44;0,05;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1658;Jordan;Jordanian;35,93;31,95;112;0,05;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1659;Jordan;Jordanian;36,24;30,59;46;0,35;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1660;Kurwait;Ajman;48;28,83;74;0,06;-13915 T>G rs41380347;
+;Hill et al. (2013) Am J Phys Anthr. 152, 140;;;;;;;
+1661;Kuwait;Kuwaiti;47,48;29,31;66;0,25;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1662;Kuwait;Mutran;47,94;29,24;58;0,55;-13915 T>G rs41380347;
+;Hill et al. (2013) Am J Phys Anthr. 152, 140;;;;;;;
+1663;Lebanon;Lebanese;35,49;33,89;48;0;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1664;Oman;Arabs of Northern Oman;57,01;23,88;684;0,14;-13915 T>G rs41380347;
+;Al-Abri et al. (2012) Hum Biol. 84, 271;;;;;;;
+1665;Oman;Dhofaris Arabs of Southern Oman;54,43;18,4;420;0,72;-13915 T>G rs41380347;
+;Al-Abri et al. (2012) Hum Biol. 84, 271;;;;;;;
+1666;Oman;Omani;58,5;23,53;104;0,77;-13915 T>G rs41380347;
+;Al-Abri et al. (2013) Oman Med J. 28, 341;;;;;;;
+1667;Saudi Arabia;Bedouin;45;23;94;0,48;-13915 T>G rs41380347;
+;Ingram et al. (2007) Hum Genet. 120, 779;;;;;;;
+1668;Saudi Arabia;Central ;46,72;24,71;180;0,61;-13915 T>G rs41380347;
+;Imtiaz et al. (2007) J Med Genet. 44, e89;;;;;;;
+1669;Saudi Arabia;Eastern ;50,68;22,3;164;0,62;-13915 T>G rs41380347;
+;Imtiaz et al. (2007) J Med Genet. 44, e89;;;;;;;
+1670;Saudi Arabia;Northern;39,32;29,89;164;0,52;-13915 T>G rs41380347;
+;Imtiaz et al. (2007) J Med Genet. 44, e89;;;;;;;
+1671;Saudi Arabia;Southern;44,13;17,49;184;0,58;-13915 T>G rs41380347;
+;Imtiaz et al. (2007) J Med Genet. 44, e89;;;;;;;
+1672;Saudi Arabia;Western;39,82;21,42;172;0,65;-13915 T>G rs41380347;
+;Imtiaz et al. (2007) J Med Genet. 44, e89;;;;;;;
+1673;Saudi Arabia ;Arabs;45;23;248;0,57;-13915 T>G rs41380347;
+;Enattah et al. (2008) Am J Hum Genet. 82, 57;;;;;;;
+1675;Syria;Syrians;39;34,8;140;0,03;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1677;Turkey;Anatolian-Turks;31,33;38,99;116;0;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1678;Yemen;Yemen (judeo-yemen);44,21;15,35;46;0,15;-13915 T>G rs41380347;
+;Ranciaro et al. (2014) Am J Hum Genet. 94, 496;;;;;;;
+1679;Yemen;Yemeni (Sana'a University);44,21;15,35;478;0,55;-13915 T>G rs41380347;
+;Al-Abri et al. (2012) Hum Biol. 84, 271;;;;;;;
+1680;Yemen;Yemeni_Hadramaut;49,37;16,93;166;0,24;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1681;Yemen;Yemeni_Sena;44,21;15,35;68;0,29;-13915 T>G rs41380347;
+;Liebert et al. (2017) Hum Genet;;;;;;;
+1682;Yemen;Yemenis 1;44,18;13,32;86;0,65;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1683;Yemen;Yemenis 2;43;14,82;132;0,59;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1684;Yemen;Yemenis 3;43,6;15,7;68;0,62;-13915 T>G rs41380347;
+;Priehodová et al, (2014) Hum Biol. 86, 7;;;;;;;
+1685;Yemen;Yemenis 4;48,74;15,93;80;0,26;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1686;Yemen;Yemenis 5;53,85;12,5;130;0,59;-13915 T>G rs41380347;
+;Priehodová et al. (2014) Hum Biol. 86, 7;;;;;;;
+1687;Algeria;Algerian;-1,32;34,88;21;0,33;-13910 C>T rs4988235;Mulcare (2006) PhD thesis, UCL
+1688;Algeria;Berber Mzab;3,68;32,49;66;0,17;-13910 C>T rs4988235;Myles et al.  (2005) Hum Genet. 117, 34
+1689;Algeria;Mozabite;3,68;32,49;60;0,22;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1690;Algeria;Mozabite Berbers;3,67;32,49;44;0,23;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1691;Angola;!Xun;17,7;-14,66;40;0;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1692;Angola;!Xuun;15,99;-16,34;72;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1693;Angola;Himba;12,58;-16,98;138;0,01;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1694;Angola;Kuvale;12,15;-15,2;108;0;-13910 C>T rs4988235;Coelho et al. (2009) BMC Evol Biol. 9, 80
+1695;Angola;Kuvale;12,95;-15,64;162;0,01;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1696;Angola;Kwepe;12,11;-15,78;68;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1697;Angola;Kwisi;12,62;-15,92;40;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1698;Angola;Nyaneka-Nkhumbi;12,15;-15,2;306;0;-13910 C>T rs4988235;Coelho et al. (2009) BMC Evol Biol. 9, 80
+1699;Angola;Ovimbundu;12,15;-15,2;192;0;-13910 C>T rs4988235;Coelho et al. (2009) BMC Evol Biol. 9, 80
+1700;Angola;Tjimba;12,65;-17,06;30;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1701;Angola;Twa;13,44;-16,7;36;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1702;Angola, Namibia Botswana;Khwe;23,57;-17,87;38;0;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1703;Botswana;/Gui and //Ganab;24,05;-23,42;40;0;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1704;Botswana;Buga;22,31;-18,48;18;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1705;Botswana;G|ui;22,69;-22,05;34;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1706;Botswana;Gǁana;22,69;-22,05;20;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1707;Botswana;Ju|'hoan_North;21,24;-20,24;42;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1708;Botswana;Ju|'hoan_South;21,24;-20,24;52;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1709;Botswana;Kgalagadi;23,02;-24,89;40;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1710;Botswana;Naro;21,37;-22,01;38;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1711;Botswana;Shua;24,95;-20,8;54;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1712;Botswana;Taa_East;23,02;-24,89;22;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1713;Botswana;Taa_North;21,41;-22,96;22;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1714;Botswana;Taa_West;20,18;-23,79;40;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1715;Botswana;Tshwa;24,95;-20,8;30;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1716;Botswana;Tswana;25,9;-23,71;36;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1717;Botswana;ǁAni;22,31;-18,48;22;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1718;Botswana;ǂHoan;23,02;-24,89;14;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1719;Cameroon;Arabic Baggara;14,67;11,33;62;0,08;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1720;Cameroon;Bakola;10,42;3,08;56;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1721;Cameroon;Fulani;14,15;11,05;102;0,39;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+1722;Cameroon;Fulani;14,5;10,5;48;0,23;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1723;Cameroon;Fulbe;14,15;11,05;102;0,21;-13910 C>T rs4988235;Coelho et al. (2005) Hum Genet. 117, 329
+1724;Cameroon;Hausa;11,55;6,47;36;0,14;-13910 C>T rs4988235;Mulcare et al. (2004) Am J Hum Genet. 74, 1102
+1725;Cameroon;Mambila;12,5;6;134;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1726;Cameroon;Mandara;14,24;10,98;42;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1727;Cameroon;Nso;10,67;6,2;252;0;-13910 C>T rs4988235;Mulcare et al. (2004) Am J Hum Genet. 74, 1102
+1728;Cameroon;Ouldoume;14,24;10,98;36;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1729;Cameroon;Pygmy;14,75;2,92;36;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1730;Cameroon;Shuwa Arabs;14,5;13;124;0,02;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1731;Cameroon;Yamba;11,55;6,47;42;0;-13910 C>T rs4988235;Mulcare et al. (2004) Am J Hum Genet. 74, 1102
+1732;Chad;Abbala;15,31;14,12;54;0,02;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+1734;Chad;Boulala;17,54;12,89;44;0,02;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1735;Chad;Laka;15,97;7,88;46;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1736;Chad;Ngambay;16,32;8,98;48;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1737;Congo;Brazzaville;15,28;-4,27;104;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1738;Congo;Manyanga;14,16;-4,91;22;0;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1739;Congo;Mbuti;29,97;1,85;30;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1740;Egypt ;Egyptian Arabs;28,66;28,02;68;0;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+1741;Ethiopia;Afar;41,36;11,6;152;0,01;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1742;Ethiopia;Amhara;38,66;9,87;152;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1743;Ethiopia;Amhara (phenotyped);38,66;9,87;108;0;-13910 C>T rs4988235;Jones et al. (2013) Am J Hum Genet. 93, 538
+1744;Ethiopia;Amhara, Tigray and Oromo;32;15;80;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1745;Ethiopia;Anuak;34,41;7,95;138;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1746;Ethiopia;Beta Israel (Ethiopian Jews);37,47;12,6;36;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1747;Ethiopia;Maale;36,64;5,71;132;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1748;Ethiopia;Manjo;36,23;7,27;80;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1749;Ethiopia;Nuer;34,58;8,25;74;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1750;Ethiopia;Oromo;37,31;7,84;152;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1751;Ethiopia;Shabo;35,41;7,56;48;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1752;Ethiopia;Somali;41,87;9,58;74;0;-13910 C>T rs4988235;Ingram (2009) J Mol Evol. 69, 579
+1753;Ethiopia;Somali (phenotyped);41,87;9,58;188;0,02;-13910 C>T rs4988235;Ingram (2009) J Mol Evol. 69, 579, corrected Liebert
+1754;Ethiopia;Suri;35,59;7;100;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1755;Ethiopia ;Oromo (phenotyped);37,31;7,84;150;0;-13910 C>T rs4988235;Jones et al. (2013) Am J Hum Genet. 93, 538
+1756;Ethiopia ;Tigray;39,47;13,5;88;0;-13910 C>T rs4988235;Jones et al. (2013) Am J Hum Genet. 93, 538
+1757;Ethiopia ;Wolayta;37,76;6,84;52;0;-13910 C>T rs4988235;Jones et al. (2013) Am J Hum Genet. 93, 538
+1758;Ghana;Akan;-1,02;7,95;392;0;-13910 C>T rs4988235;Torniainen et al. (2009) BMC Genet. 10, 31
+1759;Ghana;Asante;-0,55;6,17;70;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1760;Ghana;Builsa;-1,29;10,53;42;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1761;Kenya;Bajun;40,12;-3,22;10;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1762;Kenya;Boni;40,49;-2,21;48;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1763;Kenya;Borana;38,02;2,33;34;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1764;Kenya;Burji;37,78;5,6;16;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1765;Kenya;Dikri Maasai;37,16;0,4;2;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1766;Kenya;Elmolo;36,68;2,83;32;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1767;Kenya;Gabra/Gabramigos;37,07;3,32;82;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1768;Kenya;Garreh;39,24;3,47;38;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1769;Kenya;Il'gwesi Maasai;37,14;0,37;22;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1770;Kenya;Ilchamus Maasai;36,08;0,51;20;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1771;Kenya;Kikuyu;37,15;-0,72;14;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1772;Kenya;Konso;37,48;5,25;24;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1773;Kenya;Luo;34,53;-0,11;44;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1774;Kenya;Marakwet;35,26;1,09;14;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1775;Kenya;Mumonyot Maasai;37,14;0,43;14;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1776;Kenya;Nandi;35,18;0,11;8;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1777;Kenya;Ogiek;35,83;-0,37;22;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1778;Kenya;Orma;40,44;-2,39;48;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1779;Kenya;Pare Kenya;37,76;-3,48;36;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1780;Kenya;Pokomo;40,12;-3,22;14;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1781;Kenya;Pokot;36,09;0,68;28;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1782;Kenya;Purko Maasai;36,09;0,68;2;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1783;Kenya;Rendille;37,58;2,51;24;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1784;Kenya;Sabaot;35,26;1,09;12;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1785;Kenya;Samburu;36,7;1,1;18;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1786;Kenya;Sanye;40,5;-2,37;28;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1787;Kenya;Sengwer;35,26;1,09;32;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1788;Kenya;Taita;38,29;-3,4;20;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1789;Kenya;Tugen;35,85;0,52;30;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1790;Kenya;Turkana;35,99;0,48;26;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1791;Kenya;Wata;37,07;3,32;44;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1792;Kenya;Yaaku;37,18;0,45;28;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1793;Kenya (N.E.) ;Bantu;35,49;3,32;24;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1794;Malawi;Bantu;33,78;-13,98;310;0;-13910 C>T rs4988235;Mulcare et al. (2004) Am J Hum Genet. 74, 1102
+1795;Malawi;Chewa;33,78;-13,98;100;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1796;Morocco;Berber;-3,77;34,05;154;0,14;-13910 C>T rs4988235;Mulcare et al. (2004) Am J Hum Genet. 74, 1102
+1797;Morocco;Moroccan;-6,02;34,03;180;0,18;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1798;Morocco;Moroccan;-6,02;34,03;24;0,21;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+1799;Morocco;Saharawi;-6,02;34,03;114;0,26;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1800;Morocco;Saharawi;-6,02;34,03;22;0,23;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+1801;Morocco ;Berber Amizmiz (High-Atlas);-8,23;29;78;0,14;-13910 C>T rs4988235;Myles et al.  (2005) Hum Genet. 117, 34
+1802;Morocco ;Berber Moyen-Atlas (Mid-Atlas);-4,84;33,12;66;0,16;-13910 C>T rs4988235;Myles et al.  (2005) Hum Genet. 117, 34
+1803;Mosambique;Makua;39,36;-15,15;28;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1804;Mosambique;Nyanja;34,1;-14,92;22;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1805;Mosambique;Shangaan;32,89;-24,35;46;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1806;Mosambique;Tswa;34,89;-21,91;36;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1807;Mosambique;Yao;35,75;-12,81;30;0;-13910 C>T rs4988235;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+1808;Mozambique;Mozambique (Maputo, Ronga Bantu);31,58;-25,97;94;0,01;-13910 C>T rs4988235;Coelho et al. (2005) Hum Genet. 117, 329
+1809;Mozambique;Sena;35,05;-17,44;136;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1810;Namibia;!Xuun;18,78;-19,05;38;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1811;Namibia;Damara;16,23;-20,35;68;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1812;Namibia;Haiǁom;16,23;-20,35;80;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1813;Namibia;Herero;17,04;-21,5;42;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1814;Namibia;Herero (southwestern Bantu speakers);17,07;-22,56;28;0;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1815;Namibia;Himba;13,94;-18,84;32;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1816;Namibia;Ju/’hoansi;20,5;-19,6;40;0;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1817;Namibia;Nama;17,07;-22,56;44;0,07;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1818;Namibia;Nama;17,55;-24,69;50;0,02;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1819;Namibia;San;18,19;-25,6;14;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1820;Namibia;San;18,19;-25,6;34;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1821;Namibia;San (CEPH);20;-21;10;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1822;Namibia;Wambo;16,58;-17,63;16;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1823;Namibia;ǁXo;23,39;-17,96;38;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1824;Nigeria;Shuwa Arabs;14,19;12,34;106;0,09;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+1825;Nigeria;Yoruba;3,47;7,23;50;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1826;Nigeria;Yoruba;4;8;52;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1827;São Tomé and Príncipe;Sao Tome ;6,73;0,34;284;0,05;-13910 C>T rs4988235;Coelho et al. (2005) Hum Genet. 117, 329
+1828;Senegal;Mandjak;-15,88;12,99;114;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1829;Senegal;Wolof;-17,45;14,69;138;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1830;Somalia;Somali;45,37;2,07;158;0,03;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1831;South Africa;!Xhosa;29;-31,5;42;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1832;South Africa;!Xun/Khoe;24,03;-28,68;22;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1833;South Africa;Askham Coloured;20,78;-26,98;40;0,05;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1834;South Africa;Bantu;28,08;-26,2;16;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1835;South Africa;Colesberg Coloured;25,07;-30,69;40;0,05;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1836;South Africa;Karretjie;25,07;-30,69;40;0;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1837;South Africa;Khomani;20,78;-26,98;40;0,03;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1838;South Africa;Mixed (for example with Europeans);18,42;-33,92;124;0,22;-13910 C>T rs4988235;Torniainen et al. (2009) BMC Genet. 10, 31
+1839;South Africa;Sotho-Tswana;27,67;-28,55;32;0;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1840;South Africa;South Africans;28,23;-25,71;40;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1841;South Africa;South Bantu (CEPH-HGDP);24,25;-25,63;16;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1842;South Africa;Venda;30,48;-22,95;36;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1843;South Africa;Wellington Coloured ;19,01;-33,64;40;0,18;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1844;South Africa;Xhosa;20,66;-34,16;218;0;-13910 C>T rs4988235;Torniainen et al. (2009) BMC Genet. 10, 31
+1845;South Africa;Zulu;30,96;-27,91;50;0,04;-13910 C>T rs4988235;Breton et al. (2014) Curr Biol. 24, 852
+1846;South Sudan;Nilotes;31;4;96;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1847;Sudan;Ama;30;20;4;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1849;Sudan;Beja Banuamir;36,4;15,46;12;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1850;Sudan;Beja Hadandawa;36,4;15,46;22;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1851;Sudan;Beni Amer;36;18;74;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1852;Sudan;Beni Amer;37,22;19,62;154;0,01;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1853;Sudan;Copts;32;15;78;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1854;Sudan;Darfurians;25;13;98;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1855;Sudan;Dinka;28,5;8,5;18;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1856;Sudan;Dinka;30,22;12,86;68;0;-13910 C>T rs4988235;Mulcare et al. (2004) Am J Hum Genet. 74, 1102
+1857;Sudan;Dunglawi;30;20;12;0;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+1858;Sudan;Fulani;24;11;78;0,27;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1859;Sudan;Fulani;24,96;11,08;88;0,48;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1860;Sudan;Gaali ;32,53;15,59;20;0;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+1861;Sudan;Gaalien-Arabs;33;16;80;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1862;Sudan;Halfawien-Nubians;31;21;78;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1863;Sudan;Jaali;33,43;16,69;172;0,01;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779 , corrected Jones et al. (2015) Hum Genet. 134, 917
+1864;Sudan;Koalib;30;20;2;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1865;Sudan;Liguri/Logorik;30;20;2;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1866;Sudan;Mahas ;32,53;15,59;30;0;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+1867;Sudan;Mahas-Nubians;30;19;78;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1868;Sudan;Masalit;30;20;2;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1869;Sudan;Nuba;29;11;80;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1870;Sudan;Nuer;32;8;10;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1871;Sudan;Nyimang;30,75;12,45;12;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1872;Sudan;Rashaayda;36,3;15,35;104;0;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+1873;Sudan;Shaigi;30;20;18;0;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779,corr Jones et al (2015) Hum Genet. 134, 917
+1874;Sudan;Shillook;31,66;9,54;16;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1875;Sudan;Shokrya-Arabs;35;15;80;0,01;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1876;Sudan;Shwaiga-Arabs;31;18;76;0;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+1877;Sudan;Sudanese Arabs;30,55;19,88;92;0;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+1878;Tanzania;Akie;37,38;-5,29;28;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1879;Tanzania;Burunge;35,92;-5,23;36;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1880;Tanzania;Chagga;38,05;-5,38;92;0;-13910 C>T rs4988235;Jones et al. (2015) Hum Genet. 134, 917
+1881;Tanzania;Datoga;35,17;-3,7;8;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1882;Tanzania;Dorobo;34,89;-6,37;20;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1883;Tanzania;Fiome;35,68;-4,42;22;0;-13910 C>T rs4988235;Tishkoff et al. (2007) Nat Genet. 39, 31
+1884;Tanzania;Hadza;35,17;-3,68;40;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1885;Tanzania;Iraqw;35,38;-3,52;52;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1886;Tanzania;Maasai (Tanzania);34,85;-2,27;38;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1887;Tanzania;Mbugu;38,43;-4,85;60;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1888;Tanzania;Mbugwe;35,85;-3,79;24;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1889;Tanzania;Pare Tanzania;38,27;-8,57;20;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1890;Tanzania;Rangi;35,65;-4,31;70;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1891;Tanzania;Sambaa;38,43;-4,85;6;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1892;Tanzania;Sandawe;35,75;-5;62;0;-13910 C>T rs4988235;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+1893;Uganda;Bantu;32,98;0,43;44;0;-13910 C>T rs4988235;Mulcare et al. (2004) Am J Hum Genet. 74, 1102
+1894;Zambia;Nkoya;24,8;-14,97;32;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1895;Zambia;Tonga;26,49;-17,67;34;0;-13910 C>T rs4988235;Macholdt et al. (2014) Curr Biol. 24, 875
+1896;Afghanistan;Pashtuns/Afghans;68,36;33,56;32;0,06;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1897;Afghanistan;Tadjiks;68,71;36,13;80;0,08;-13910 C>T rs4988235;Mulcare (2006) PhD thesis, UCL
+1898;Afghanistan;Tadjiks;68,71;36,13;28;0,25;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1899;Afghanistan;Uzbeks;67,64;35,5;30;0,03;-13910 C>T rs4988235;Mulcare (2006) PhD thesis, UCL
+1900;Afghanistan;Uzbeks;67,64;35,5;54;0,24;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1901;Armenia;Armenians;45,04;40,07;88;0,01;-13910 C>T rs4988235;Mulcare (2006) PhD thesis, UCL
+1902;Armenia;Armenians;45,04;40,07;102;0,18;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1903;Azerbaijan;Azeri;47,58;40,14;80;0,01;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1904;Cambodia;Cambodian;104,92;11,55;22;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1905;China;Dai;102,83;24,88;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1906;China;Daur;87,62;43,83;20;0,05;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1907;China;Han;104,21;34,86;90;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1908;China;Han;104,21;34,86;200;0;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1909;China;Han;115,52;25,65;20;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1910;China;Han (coord da Floyd. Coriell);115,52;25,65;20;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1911;China;Hezhen;132,5;47,7;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1912;China;Hezhen;132,5;47,7;154;0;-13910 C>T rs4988235;Sun et al. (2007) Asia Pac J Clin Nutr. 16, 598
+1914;China;Kazak;81,3;43,9;188;0,05;-13910 C>T rs4988235;Sun et al. (2007) Asia Pac J Clin Nutr. 16, 598
+1916;China;Lahu;102,83;24,88;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1917;China;Man;123,2;40,2;130;0;-13910 C>T rs4988235;Sun et al. (2007) Asia Pac J Clin Nutr. 16, 598
+1919;China;Miaozu;106,63;26,65;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1920;China;Mongols;119,7;29,2;20;0,1;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1921;China;Mongols;119,7;29,2;164;0,02;-13910 C>T rs4988235;Sun et al. (2007) Asia Pac J Clin Nutr. 16, 598
+1923;China;Naxi;100,23;26,86;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1925;China;Oroqen;131;53,5;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1926;China;Oroqen;131;53,5;90;0,01;-13910 C>T rs4988235;Sun et al. (2007) Asia Pac J Clin Nutr. 16, 598
+1928;China;She;119,65;27,09;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1929;China;Tibetans (Nagqu);92,07;31,48;418;0;-13910 C>T rs4988235;Peng et al. (2012) J Hum Genet. 57, 394
+1930;China;Tibetans (Shigatse);88,88;29,27;572;0;-13910 C>T rs4988235;Peng et al. (2012) J Hum Genet. 57, 394
+1931;China;Tu;101,78;36,62;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1932;China;Tujia;112,94;28,23;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1933;China;Uygur;87,62;43,83;20;0,05;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1934;China;Xibo;123,43;41,81;18;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1935;China;Yizu;103,77;29,55;20;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1936;Georgia;Georgians;43,35;42,32;108;0,08;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1937;India;Andaman and Nicobar Islands;92,8;12,5;68;0,02;-13910 C>T rs4988235;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1938;India;Central;79,45;23,84;358;0,06;-13910 C>T rs4988235;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1939;India;Dawoodi Bohra (Gujarat);71,19;22,26;100;0,11;-13910 C>T rs4988235;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+1940;India;Dawoodi Bohra (Tamil Nadu);78,66;11,13;124;0,14;-13910 C>T rs4988235;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+1941;India;East;85,02;20,8;620;0,02;-13910 C>T rs4988235;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1942;India;Indian Shia;80,1;27,57;142;0,1;-13910 C>T rs4988235;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+1943;India;Indian Sunni;80,1;27,57;164;0,1;-13910 C>T rs4988235;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+1944;India;Iranian Shia;80,1;17,05;98;0,04;-13910 C>T rs4988235;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+1945;India;Mappla;78,66;11,13;124;0,02;-13910 C>T rs4988235;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+1946;India;North;76,78;30,75;580;0,16;-13910 C>T rs4988235;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1947;India;North;77,2;28,6;120;0,2;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+1948;India;North (Lucknow);80,95;26,85;154;0,19;-13910 C>T rs4988235;Babu et al. (2010) Am J Clin Nutr. 91, 140
+1949;India;North East;95;27,48;278;0,01;-13910 C>T rs4988235;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1950;India;South;77,57;12,97;1728;0,09;-13910 C>T rs4988235;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1951;India;South;80,28;13,08;102;0,12;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1952;India;South-Indian (Bangalore);77,59;12,97;152;0,07;-13910 C>T rs4988235;Babu et al. (2010) Am J Clin Nutr. 91, 140
+1953;India;West;73,68;24,58;936;0,21;-13910 C>T rs4988235;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+1954;Japan;Japanese;138,58;35,65;62;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1955;Japan;Japanese from Osaka;138,24;36,21;84;0;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1956;Mongolia;Khalka;99,05;47,38;114;0,03;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1957;Mongolia;Mongols;106,92;47,92;52;0,04;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1958;Nepal;Nepalese;84,12;28,39;38;0,34;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1959;Nepal;Tharu;80,9;28,83;80;0,18;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1960;Pakistan;Balochi;67,02;30,21;50;0,36;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1961;Pakistan;Balti;74,59;35,95;46;0;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1962;Pakistan;Baluch;65,09;28,49;38;0,34;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1963;Pakistan;Brahui;67,02;30,21;50;0,34;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1964;Pakistan;Brahui;67,02;30,21;60;0,27;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1965;Pakistan;Burusho;74,59;35,95;50;0,1;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1966;Pakistan;Burusho;74,59;35,95;60;0,02;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1967;Pakistan;Hazara;65,64;28,48;24;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1968;Pakistan;Hazara;67,02;30,21;50;0,08;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1969;Pakistan;Hazara;67,02;30,21;28;0,04;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1970;Pakistan;Kalash;71,78;35,84;50;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1971;Pakistan;Kalash;71,78;35,84;60;0;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1972;Pakistan;Kalash;71,78;35,78;32;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+1973;Pakistan;Kashmiri;73,94;33,89;40;0,12;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1974;Pakistan;Makrani  ;67,02;30,21;50;0,34;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1975;Pakistan;Makrani Baluch;68,03;26,27;58;0,17;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1976;Pakistan;Mohannes;68;26;58;0,28;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1977;Pakistan;Parsi;68;26;58;0,14;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1978;Pakistan;Pathan;69,86;32,67;50;0,3;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111 
+1979;Pakistan;Pathan;69,86;32,67;56;0,3;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1980;Pakistan;Sindhi;67,03;24,89;50;0,32;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1981;Pakistan;Sindhi;67,03;24,89;56;0,41;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1982;Russia;Daghestans mixed;47,12;42,83;46;0,13;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1983;Russia;Druss;47,12;42,83;34;0,12;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1984;Russia;Nenets;49;66;178;0,07;-13910 C>T rs4988235;Khabarova et al. (2012) Int J Circumpol Heal. 71, 1
+1985;Russia;Nog;47,12;42,83;40;0,07;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1986;Russia;North-Yakuts;146,19;70,77;22;0,14;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1987;Russia;Ob-Ugric;68;65;40;0,03;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1988;Russia;Udmurts;53,18;56,83;60;0,33;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1989;Russia;Yakuts;129,73;62,03;110;0,05;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1990;Russia;Yakuts;129,73;62,03;50;0,06;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1991;Singapore;Han-Chinese;104,21;35,86;98;0,04;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1992;South Korea;South Korean;127;35,57;46;0;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+1993;Syria, Iraq, Lebanon, West Bank;Arabs;40;33;40;0,13;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+1994;Uzbekistan;Kazakh;63,46;40,13;166;0,16;-13910 C>T rs4988235;Heyer et al. (2011) Hum Biol. 83, 379 
+1995;Uzbekistan;Tajiko-Uzbek;64,42;39,77;200;0,1;-13910 C>T rs4988235;Heyer et al. (2011) Hum Biol. 83, 379 
+1996;Uzbekistan;Uzbeks;64,59;41,38;76;0,04;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+1997;Papua New Guinea;Papuan;140,71;-5,09;34;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1998;Solomon Islands;Melanesian (NAN);150;-6,05;44;0;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+1999;Belarus;Belarusians;27,95;53,71;100;0,23;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2000;England (Central);British;-2,76;52,71;1368;0,76;-13910 C>T rs4988235;Davey Smith et al. (2009) Eur J Hum Genet. 17, 357
+2001;England (Northern);British;-1,54;53,99;2336;0,75;-13910 C>T rs4988235;Davey Smith et al. (2009) Eur J Hum Genet. 17, 357
+2002;England (Southeastern);British;-0,57;51,22;1894;0,7;-13910 C>T rs4988235;Davey Smith et al. (2009) Eur J Hum Genet. 17, 357
+2003;Estonia;Estonians;26,4;59,05;628;0,51;-13910 C>T rs4988235;Lember (2006) World J Gastroentero. 12, 7329.
+2004;Finland;Finns ;28;65;1876;0,58;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2005;Finland;Saami;26,19;68,26;60;0,17;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2006;Finland and Sweden;Scandinavians;16;60;360;0,82;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+2007;Finns;Finns, eastern;29;65;154;0,55;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2008;Finns;Finns, western;24;64;308;0,62;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2009;France;Basques;-1,45;43,4;48;0,67;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+2010;France;Basques;-1,45;43,4;170;0,66;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2011;France;French;2,22;46,23;58;0,43;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111 
+2012;France;French;2,22;46,23;34;0,34;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2013;Germany;Germans;10,45;51,17;60;0,55;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2014;Germany;Sorbs;14,31;51,26;64;0,5;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2015;Greece;Greeks;21,83;39,07;200;0,09;-13910 C>T rs4988235;Anagnostou et al. (2009) Am J Hum Biol. 21, 217
+2016;Greece;Greeks;21,83;39,07;120;0,15;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2017;Hungary;Hungarian;20,17;46,25;220;0,62;-13910 C>T rs4988235;Nagy et al. (2009) Eur J Clin Nutr. 63, 909.
+2018;Hungary;Hungarian;20,17;46,25;362;0,36;-13910 C>T rs4988235;Nagy et al. (2011) Am J Phys Anthr. 145, 262.
+2019;Ireland;Irish;-8;53,33;68;0,96;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2020;Italy;Central;12,48;41,9;196;0,11;-13910 C>T rs4988235;Anagnostou et al. (2009) Am J Hum Biol. 21, 217
+2021;Italy;Central ;12,48;41,9;440;0,14;-13910 C>T rs4988235;Zadro et al.  (2017) Minerva Gastrenterol e Dietol. 63, 264
+2022;Italy;Central-North;11,25;43,77;412;0,13;-13910 C>T rs4988235;Anagnostou et al. (2009) Am J Hum Biol. 21, 217
+2023;Italy;Italians;13,91;42,22;134;0,13;-13910 C>T rs4988235;Coelho et al. (2005) Hum Genet. 117, 329
+2024;Italy;Italians (from rome);12,48;41,9;36;0,08;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2025;Italy;North Italian;9,68;45,7;28;0,36;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111 
+2026;Italy;North-Eastern;12,27;45,6;438;0,24;-13910 C>T rs4988235;Anagnostou et al. (2009) Am J Hum Biol. 21, 217
+2027;Italy;Northern;10;45,7;1832;0,23;-13910 C>T rs4988235;Zadro et al.  (2017) Minerva Gastrenterol e Dietol. 63, 264
+2028;Italy;S. European*;12,48;41,9;66;0,09;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+2029;Italy;Sardinian;9,12;39,22;306;0,07;-13910 C>T rs4988235;Anagnostou et al. (2009) Am J Hum Biol. 21, 217
+2030;Italy;Sardinian;9,12;39,22;56;0,07;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111 
+2031;Italy;Sardinian;9,12;39,22;42;0,18;-13910 C>T rs4988235;Zadro et al.  (2017) Minerva Gastrenterol e Dietol. 63, 264
+2032;Italy;South Italians;16,25;39,3;200;0,05;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2033;Italy;Southern;16,25;39,3;378;0,08;-13910 C>T rs4988235;Anagnostou et al. (2009) Am J Hum Biol. 21, 217
+2034;Italy;Southern;16,25;39,3;310;0,18;-13910 C>T rs4988235;Zadro et al.  (2017) Minerva Gastrenterol e Dietol. 63, 264
+2035;Italy;Tuscan;10,98;43,57;16;0,06;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+2036;Italy;Tyroleans Bozen;11,35;46,5;80;0,15;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2037;Italy;Tyroleans Gadertal;11,92;46,72;76;0,42;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2038;Italy;Tyroleans Vinschgau;10,77;46,63;102;0,36;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2039;Macedonia;Macedonians;21,75;41,61;100;0,24;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2040;Mixed;N. European;15;54;110;0,62;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+2041;Netherlands;Dutch;5,86;51,82;92;0,6;-13910 C>T rs4988235;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2042;Netherlands;Frisians;5,8;53,2;58;0,81;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2043;Norway;Norwegians;8,47;60,47;88;0,84;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2044;Poland;Ashkenazi-Jews;21;52,25;96;0,08;-13910 C>T rs4988235;Mulcare (2006) PhD thesis, UCL
+2045;Poland;Polish;19,15;51,92;400;0,46;-13910 C>T rs4988235;Madry et al. (2010) Acta Biochim Pol. 57, 585
+2046;Poland;Polish;19,15;51,92;446;0,3;-13910 C>T rs4988235;Płoszaj et al. (2011) Cent Eur J Biol. 6, 176.
+2047;Portugal;Central_northern Portuguese;-8,41;40,2;894;0,4;-13910 C>T rs4988235;Manco et al. (2017) Eur J Clin Nutr. 71, 21
+2048;Portugal;Portuguese;-8,22;39,4;96;0,44;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2049;Portugal;Portuguese-Centre;-7,5;40,28;140;0,39;-13910 C>T rs4988235;Manco et al. (2012) Ann Hum Biol. 40, 205.
+2050;Portugal;Portuguese-North;-8,42;41,55;180;0,37;-13910 C>T rs4988235;Coelho et al. (2005) Hum Genet. 117, 329
+2051;Portugal;Portuguese-North;-8,42;41,55;128;0,38;-13910 C>T rs4988235;Manco et al. (2012) Ann Hum Biol. 40, 205.
+2052;Portugal;Portuguese-South;-7,83;38,52;130;0,27;-13910 C>T rs4988235;Manco et al. (2012) Ann Hum Biol. 40, 205.
+2053;Romania;Romanians;24,97;45,94;118;0,17;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2054;Romania (Eastern Trasylvania);Seklers;25,79;45,86;130;0,4;-13910 C>T rs4988235;Nagy et al. (2011) Am J Phys Anthr. 145, 262.
+2055;Russia;Erzya;43,58;54,21;60;0,27;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2056;Russia;Erzya;43,58;54,21;42;0,14;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2057;Russia;Moksha;44,07;54,24;60;0,28;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2058;Russia;Moksha;44,07;54,24;32;0,41;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2059;Russia;Russian;37,62;55,75;50;0,24;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111 
+2060;RUSSIA;Russian (Coriell);37,62;55,75;14;0,21;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2061;Russia;Russians (Northwest);40,53;64,53;298;0,39;-13910 C>T rs4988235;Khabarova et al. (2009) World J Gastroentero. 15, 1849
+2062;Russia;Russians Perm;56,25;58,01;46;0,24;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2063;Russia (Komi republic);Komi;54,83;63,86;20;0,15;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2064;Russian (Caucasus);Adygei;40,08;44,6;34;0,12;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+2065;Scotland;British;-3,78;56;1032;0,82;-13910 C>T rs4988235;Davey Smith et al. (2009) Eur J Hum Genet. 17, 357
+2066;Spain;Catalans;1,52;41,59;58;0,26;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2067;Spain;Spanish;-3,7;40,51;1718;0,39;-13910 C>T rs4988235;Agueda et al. (2010) Caclif Tissue Int. 87, 14
+2068;Spain;Spanish;-3,7;40,51;62;0,4;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2069;Sweden;Northern European (Coriell);17,63;59,85;74;0,67;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2070;Sweden;Sami;20,87;67,87;60;0,29;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2071;Sweden;Swedes;15,01;60,03;784;0,74;-13910 C>T rs4988235;Almon et al. (2007) Scand J Gastroenterol. 42, 165
+2072;Sweden;Swedes;15,01;60,03;74;0,78;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2073;UK;Northern European ancestry;-0,12;51,51;102;0,75;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2074;UK;Orcadian (Orkney Islands);-3,15;59,04;32;0,69;-13910 C>T rs4988235;Bersaglieri et al. (2004) Am J Hum Genet. 74, 1111
+2075;Ukraine;Ukrainians;31,17;48,38;92;0,22;-13910 C>T rs4988235;Mulcare (2006) PhD thesis, UCL
+2076;Ukraine;Ukrainians;31,17;48,38;74;0,26;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2077;Cyprus;Greek-Cypriots;33,02;34,71;120;0,01;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2078;Iran;Iranians;53,69;32,43;42;0,1;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2079;Iran;Iranians;53,69;32,43;42;0,1;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2080;Iran;Iranians;53,69;32,43;154;0,03;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2081;Iran;Qashqai;52,53;29,62;20;0,05;-13910 C>T rs4988235;Enattah et al. (2007) Am J Hum Genet. 81, 615
+2082;Israel;Ashkenazi-Jews;34,77;32,07;192;0,09;-13910 C>T rs4988235;Raz et al. (2013) Gene. 519, 67.
+2083;Israel;Bedouin Arabs;34,77;32,07;302;0,02;-13910 C>T rs4988235;Raz et al. (2013) Gene. 519, 67.
+2084;Israel;Bedouin Israeli;34,77;32,07;38;0,03;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+2085;Israel;Druze;34,77;32,07;28;0,04;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+2086;Israel;Iraqi Jews;34,77;32,07;192;0,04;-13910 C>T rs4988235;Raz et al. (2013) Gene. 519, 67.
+2087;Israel;Moroccan;34,77;32,07;192;0,09;-13910 C>T rs4988235;Raz et al. (2013) Gene. 519, 67.
+2088;Israel;Urban Arabs;34,77;32,07;162;0;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+2089;Israel;Urban Arabs;34,77;32,07;84;0,02;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2090;Israel/PAA;Palestinian Arabs;35,2;31,9;36;0;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+2091;Israel/PAA;Palestinians;34,47;31,5;44;0,02;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2092;Jordan;Jordanian;35,93;31,95;112;0,05;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2093;Jordan;Jordanian;36,24;30,59;46;0;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+2094;Kurwait;Ajman;48;28,83;74;0;-13910 C>T rs4988235;Hill et al. (2013) Am J Phys Anthr. 152, 140
+2095;Kuwait;Kuwaiti;47,48;29,31;66;0,03;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2096;Kuwait;Mutran;47,94;29,24;58;0;-13910 C>T rs4988235;Hill et al. (2013) Am J Phys Anthr. 152, 140
+2097;Lebanon;Lebanese;35,49;33,89;48;0,04;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2098;Oman;Arabs of Northern Oman;57,01;23,88;684;0,01;-13910 C>T rs4988235;Al-Abri et al. (2012) Hum Biol. 84, 271
+2099;Oman;Dhofaris Arabs of Southern Oman;54,43;18,4;420;0;-13910 C>T rs4988235;Al-Abri et al. (2012) Hum Biol. 84, 271
+2100;Oman;Omani;58,5;23,53;104;0,03;-13910 C>T rs4988235;Al-Abri et al. (2013) Oman Med J. 28, 341
+2101;Saudi Arabia;Bedouin;45;23;94;0;-13910 C>T rs4988235;Ingram et al. (2007) Hum Genet. 120, 779
+2102;Saudi Arabia;Central ;46,72;24,71;180;0;-13910 C>T rs4988235;Imtiaz et al. (2007) J Med Genet. 44, e89
+2103;Saudi Arabia;Eastern ;50,68;22,3;164;0;-13910 C>T rs4988235;Imtiaz et al. (2007) J Med Genet. 44, e89
+2104;Saudi Arabia;Northern;39,32;29,89;164;0,01;-13910 C>T rs4988235;Imtiaz et al. (2007) J Med Genet. 44, e89
+2105;Saudi Arabia;Southern;44,13;17,49;184;0;-13910 C>T rs4988235;Imtiaz et al. (2007) J Med Genet. 44, e89
+2106;Saudi Arabia;Western;39,82;21,42;172;0,01;-13910 C>T rs4988235;Imtiaz et al. (2007) J Med Genet. 44, e89
+2107;Saudi Arabia ;Arabs;45;23;248;0;-13910 C>T rs4988235;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2108;Syria;Assyrians;36,3;33,5;80;0,04;-13910 C>T rs4988235;Mulcare (2006) PhD thesis, UCL
+2109;Syria;Syrians;39;34,8;140;0,02;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2110;Turkey;Anatolian-Turks;31,33;38,99;98;0,03;-13910 C>T rs4988235;Mulcare (2006) PhD thesis, UCL
+2111;Turkey;Anatolian-Turks;31,33;38,99;116;0,08;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2112;Yemen;Yemen (judeo-yemen);44,21;15,35;46;0;-13910 C>T rs4988235;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2113;Yemen;Yemeni (Sana'a University);44,21;15,35;478;0;-13910 C>T rs4988235;Al-Abri et al. (2012) Hum Biol. 84, 271
+2114;Yemen;Yemeni_Hadramaut;49,37;16,93;166;0,02;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2115;Yemen;Yemeni_Sena;44,21;15,35;68;0,15;-13910 C>T rs4988235;Liebert et al. (2017) Hum Genet
+2116;Yemen;Yemenis 1;44,18;13,32;86;0;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+2117;Yemen;Yemenis 2;43;14,82;132;0;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+2118;Yemen;Yemenis 3;43,6;15,7;68;0;-13910 C>T rs4988235;Priehodová et al, (2014) Hum Biol. 86, 7
+2119;Yemen;Yemenis 4;48,74;15,93;80;0,04;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+2120;Yemen;Yemenis 5;53,85;12,5;130;0,05;-13910 C>T rs4988235;Priehodová et al. (2014) Hum Biol. 86, 7
+2122;Algeria;Berber Mzab;3,68;32,49;66;0;-13907 C>G rs41525747;Myles et al.  (2005) Hum Genet. 117, 34
+2124;Algeria;Mozabite Berbers;3,67;32,49;44;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2125;Angola;!Xun;17,7;-14,66;40;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2126;Angola;!Xuun;15,99;-16,34;72;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2127;Angola;Himba;12,58;-16,98;138;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2128;Angola;Kuvale;12,15;-15,2;108;0;-13907 C>G rs41525747;Coelho et al. (2009) BMC Evol Biol. 9, 80
+2129;Angola;Kuvale;12,95;-15,64;162;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2130;Angola;Kwepe;12,11;-15,78;68;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2131;Angola;Kwisi;12,62;-15,92;40;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2132;Angola;Nyaneka-Nkhumbi;12,15;-15,2;306;0;-13907 C>G rs41525747;Coelho et al. (2009) BMC Evol Biol. 9, 80
+2133;Angola;Ovimbundu;12,15;-15,2;192;0;-13907 C>G rs41525747;Coelho et al. (2009) BMC Evol Biol. 9, 80
+2134;Angola;Tjimba;12,65;-17,06;30;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2135;Angola;Twa;13,44;-16,7;36;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2136;Angola, Namibia Botswana;Khwe;23,57;-17,87;38;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2137;Botswana;/Gui and //Ganab;24,05;-23,42;40;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2138;Botswana;Buga;22,31;-18,48;18;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2139;Botswana;G|ui;22,69;-22,05;34;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2140;Botswana;Gǁana;22,69;-22,05;20;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2141;Botswana;Ju|'hoan_North;21,24;-20,24;42;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2142;Botswana;Ju|'hoan_South;21,24;-20,24;52;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2143;Botswana;Kgalagadi;23,02;-24,89;40;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2144;Botswana;Naro;21,37;-22,01;38;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2145;Botswana;Shua;24,95;-20,8;54;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2146;Botswana;Taa_East;23,02;-24,89;22;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2147;Botswana;Taa_North;21,41;-22,96;22;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2148;Botswana;Taa_West;20,18;-23,79;40;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2149;Botswana;Tshwa;24,95;-20,8;30;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2150;Botswana;Tswana;25,9;-23,71;36;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2151;Botswana;ǁAni;22,31;-18,48;22;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2152;Botswana;ǂHoan;23,02;-24,89;14;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2153;Cameroon;Arabic Baggara;14,67;11,33;62;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2154;Cameroon;Bakola;10,42;3,08;56;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2155;Cameroon;Fulani;14,15;11,05;102;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2156;Cameroon;Fulani;14,5;10,5;48;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2159;Cameroon;Mambila;12,5;6;134;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2160;Cameroon;Mandara;14,24;10,98;42;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2162;Cameroon;Ouldoume;14,24;10,98;36;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2163;Cameroon;Pygmy;14,75;2,92;36;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2164;Cameroon;Shuwa Arabs;14,5;13;124;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2166;Chad;Abbala;15,31;14,12;54;0;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+2168;Chad;Boulala;17,54;12,89;44;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2169;Chad;Laka;15,97;7,88;46;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2170;Chad;Ngambay;16,32;8,98;48;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2171;Congo;Brazzaville;15,28;-4,27;104;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2172;Congo;Manyanga;14,16;-4,91;22;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2173;Congo;Mbuti;29,97;1,85;30;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2174;Egypt ;Egyptian Arabs;28,66;28,02;68;0;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+2175;Ethiopia;Afar;41,36;11,6;152;0,24;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2176;Ethiopia;Amhara;38,66;9,87;152;0,06;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2177;Ethiopia;Amhara (phenotyped);38,66;9,87;108;0,02;-13907 C>G rs41525747;Jones et al. (2013) Am J Hum Genet. 93, 538
+2178;Ethiopia;Amhara, Tigray and Oromo;32;15;80;0,11;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2179;Ethiopia;Anuak;34,41;7,95;138;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2180;Ethiopia;Beta Israel (Ethiopian Jews);37,47;12,6;36;0,08;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2181;Ethiopia;Maale;36,64;5,71;132;0,02;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2182;Ethiopia;Manjo;36,23;7,27;80;0,01;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2183;Ethiopia;Nuer;34,58;8,25;74;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2184;Ethiopia;Oromo;37,31;7,84;152;0,07;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2185;Ethiopia;Shabo;35,41;7,56;48;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2186;Ethiopia;Somali;41,87;9,58;74;0,1;-13907 C>G rs41525747;Ingram (2009) J Mol Evol. 69, 579
+2187;Ethiopia;Somali (phenotyped);41,87;9,58;188;0,07;-13907 C>G rs41525747;Ingram (2009) J Mol Evol. 69, 579, corrected Liebert
+2188;Ethiopia;Suri;35,59;7;100;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2189;Ethiopia ;Oromo (phenotyped);37,31;7,84;150;0,05;-13907 C>G rs41525747;Jones et al. (2013) Am J Hum Genet. 93, 538
+2190;Ethiopia ;Tigray;39,47;13,5;88;0,19;-13907 C>G rs41525747;Jones et al. (2013) Am J Hum Genet. 93, 538
+2191;Ethiopia ;Wolayta;37,76;6,84;52;0,08;-13907 C>G rs41525747;Jones et al. (2013) Am J Hum Genet. 93, 538
+2192;Ghana;Akan;-1,02;7,95;392;0;-13907 C>G rs41525747;Torniainen et al. (2009) BMC Genet. 10, 31
+2193;Ghana;Asante;-0,55;6,17;70;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2194;Ghana;Builsa;-1,29;10,53;42;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2195;Kenya;Bajun;40,12;-3,22;10;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2196;Kenya;Boni;40,49;-2,21;48;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2197;Kenya;Borana;38,02;2,33;34;0,12;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2198;Kenya;Burji;37,78;5,6;16;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2199;Kenya;Dikri Maasai;37,16;0,4;2;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2200;Kenya;Elmolo;36,68;2,83;32;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2201;Kenya;Gabra/Gabramigos;37,07;3,32;82;0,09;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2202;Kenya;Garreh;39,24;3,47;38;0,08;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2203;Kenya;Il'gwesi Maasai;37,14;0,37;22;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2204;Kenya;Ilchamus Maasai;36,08;0,51;20;0,05;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2205;Kenya;Kikuyu;37,15;-0,72;14;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2206;Kenya;Konso;37,48;5,25;24;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2207;Kenya;Luo;34,53;-0,11;44;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2208;Kenya;Marakwet;35,26;1,09;14;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2209;Kenya;Mumonyot Maasai;37,14;0,43;14;0,07;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2210;Kenya;Nandi;35,18;0,11;8;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2211;Kenya;Ogiek;35,83;-0,37;22;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2212;Kenya;Orma;40,44;-2,39;48;0,02;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2213;Kenya;Pare Kenya;37,76;-3,48;36;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2214;Kenya;Pokomo;40,12;-3,22;14;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2215;Kenya;Pokot;36,09;0,68;28;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2216;Kenya;Purko Maasai;36,09;0,68;2;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2217;Kenya;Rendille;37,58;2,51;24;0,04;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2218;Kenya;Sabaot;35,26;1,09;12;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2219;Kenya;Samburu;36,7;1,1;18;0,06;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2220;Kenya;Sanye;40,5;-2,37;28;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2221;Kenya;Sengwer;35,26;1,09;32;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2222;Kenya;Taita;38,29;-3,4;20;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2223;Kenya;Tugen;35,85;0,52;30;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2224;Kenya;Turkana;35,99;0,48;26;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2225;Kenya;Wata;37,07;3,32;44;0,02;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2226;Kenya;Yaaku;37,18;0,45;28;0,04;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2229;Malawi;Chewa;33,78;-13,98;100;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2232;Morocco;Moroccan;-6,02;34,03;24;0;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2234;Morocco;Saharawi;-6,02;34,03;22;0;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2235;Morocco ;Berber Amizmiz (High-Atlas);-8,23;29;78;0;-13907 C>G rs41525747;Myles et al.  (2005) Hum Genet. 117, 34
+2236;Morocco ;Berber Moyen-Atlas (Mid-Atlas);-4,84;33,12;66;0;-13907 C>G rs41525747;Myles et al.  (2005) Hum Genet. 117, 34
+2237;Mosambique;Makua;39,36;-15,15;28;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2238;Mosambique;Nyanja;34,1;-14,92;22;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2239;Mosambique;Shangaan;32,89;-24,35;46;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2240;Mosambique;Tswa;34,89;-21,91;36;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2241;Mosambique;Yao;35,75;-12,81;30;0;-13907 C>G rs41525747;Pinto et al. (2016) Am J Phys Anthropol. 161, 436
+2243;Mozambique;Sena;35,05;-17,44;136;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2244;Namibia;!Xuun;18,78;-19,05;38;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2245;Namibia;Damara;16,23;-20,35;68;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2246;Namibia;Haiǁom;16,23;-20,35;80;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2247;Namibia;Herero;17,04;-21,5;42;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2248;Namibia;Herero (southwestern Bantu speakers);17,07;-22,56;28;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2249;Namibia;Himba;13,94;-18,84;32;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2250;Namibia;Ju/’hoansi;20,5;-19,6;40;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2251;Namibia;Nama;17,07;-22,56;44;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2252;Namibia;Nama;17,55;-24,69;50;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2254;Namibia;San;18,19;-25,6;34;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2255;Namibia;San (CEPH);20;-21;10;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2256;Namibia;Wambo;16,58;-17,63;16;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2257;Namibia;ǁXo;23,39;-17,96;38;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2258;Nigeria;Shuwa Arabs;14,19;12,34;106;0;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+2260;Nigeria;Yoruba;4;8;52;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2262;Senegal;Mandjak;-15,88;12,99;114;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2263;Senegal;Wolof;-17,45;14,69;138;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2265;South Africa;!Xhosa;29;-31,5;42;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2266;South Africa;!Xun/Khoe;24,03;-28,68;22;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2267;South Africa;Askham Coloured;20,78;-26,98;40;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2269;South Africa;Colesberg Coloured;25,07;-30,69;40;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2270;South Africa;Karretjie;25,07;-30,69;40;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2271;South Africa;Khomani;20,78;-26,98;40;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2272;South Africa;Mixed (for example with Europeans);18,42;-33,92;124;0;-13907 C>G rs41525747;Torniainen et al. (2009) BMC Genet. 10, 31
+2273;South Africa;Sotho-Tswana;27,67;-28,55;32;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2274;South Africa;South Africans;28,23;-25,71;40;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2275;South Africa;South Bantu (CEPH-HGDP);24,25;-25,63;16;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2276;South Africa;Venda;30,48;-22,95;36;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2277;South Africa;Wellington Coloured ;19,01;-33,64;40;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2278;South Africa;Xhosa;20,66;-34,16;218;0;-13907 C>G rs41525747;Torniainen et al. (2009) BMC Genet. 10, 31
+2279;South Africa;Zulu;30,96;-27,91;50;0;-13907 C>G rs41525747;Breton et al. (2014) Curr Biol. 24, 852
+2280;South Sudan;Nilotes;31;4;96;0;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2281;Sudan;Ama;30;20;4;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2283;Sudan;Beja Banuamir;36,4;15,46;12;0,25;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2284;Sudan;Beja Hadandawa;36,4;15,46;22;0,18;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2285;Sudan;Beni Amer;36;18;74;0,15;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2286;Sudan;Beni Amer;37,22;19,62;154;0,13;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2287;Sudan;Copts;32;15;78;0;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2288;Sudan;Darfurians;25;13;98;0;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2289;Sudan;Dinka;28,5;8,5;18;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2291;Sudan;Dunglawi;30;20;12;0,08;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2292;Sudan;Fulani;24;11;78;0,01;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2294;Sudan;Gaali ;32,53;15,59;20;0,05;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2295;Sudan;Gaalien-Arabs;33;16;80;0;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2296;Sudan;Halfawien-Nubians;31;21;78;0,01;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2297;Sudan;Jaali;33,43;16,69;172;0,01;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779 , corrected Jones et al. (2015) Hum Genet. 134, 917
+2298;Sudan;Koalib;30;20;2;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2299;Sudan;Liguri/Logorik;30;20;2;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2300;Sudan;Mahas ;32,53;15,59;30;0;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2301;Sudan;Mahas-Nubians;30;19;78;0,01;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2302;Sudan;Masalit;30;20;2;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2303;Sudan;Nuba;29;11;80;0;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2304;Sudan;Nuer;32;8;10;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2305;Sudan;Nyimang;30,75;12,45;12;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2306;Sudan;Rashaayda;36,3;15,35;104;0;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+2307;Sudan;Shaigi;30;20;18;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779,corr Jones et al (2015) Hum Genet. 134, 917
+2308;Sudan;Shillook;31,66;9,54;16;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2309;Sudan;Shokrya-Arabs;35;15;80;0,03;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2310;Sudan;Shwaiga-Arabs;31;18;76;0,03;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2311;Sudan;Sudanese Arabs;30,55;19,88;92;0,02;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+2312;Tanzania;Akie;37,38;-5,29;28;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2313;Tanzania;Burunge;35,92;-5,23;36;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2314;Tanzania;Chagga;38,05;-5,38;92;0;-13907 C>G rs41525747;Jones et al. (2015) Hum Genet. 134, 917
+2315;Tanzania;Datoga;35,17;-3,7;8;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2316;Tanzania;Dorobo;34,89;-6,37;20;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2317;Tanzania;Fiome;35,68;-4,42;22;0;-13907 C>G rs41525747;Tishkoff et al. (2007) Nat Genet. 39, 31
+2318;Tanzania;Hadza;35,17;-3,68;40;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2319;Tanzania;Iraqw;35,38;-3,52;52;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2320;Tanzania;Maasai (Tanzania);34,85;-2,27;38;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2321;Tanzania;Mbugu;38,43;-4,85;60;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2322;Tanzania;Mbugwe;35,85;-3,79;24;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2323;Tanzania;Pare Tanzania;38,27;-8,57;20;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2324;Tanzania;Rangi;35,65;-4,31;70;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2325;Tanzania;Sambaa;38,43;-4,85;6;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2326;Tanzania;Sandawe;35,75;-5;62;0;-13907 C>G rs41525747;Ranciaro et. al. (2014) Am J Hum Genet. 94, 496,  and Tishkoff et al. (2007) Nat Genet. 39, 31
+2328;Zambia;Nkoya;24,8;-14,97;32;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2329;Zambia;Tonga;26,49;-17,67;34;0;-13907 C>G rs41525747;Macholdt et al. (2014) Curr Biol. 24, 875
+2330;Afghanistan;Pashtuns/Afghans;68,36;33,56;32;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2332;Afghanistan;Tadjiks;68,71;36,13;28;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2334;Afghanistan;Uzbeks;67,64;35,5;54;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2336;Armenia;Armenians;45,04;40,07;102;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2337;Azerbaijan;Azeri;47,58;40,14;80;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2343;China;Han;115,52;25,65;20;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2344;China;Han (coord da Floyd. Coriell);115,52;25,65;20;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2347;China;Hezhen;132,5;47,7;196;0;-13907 C>G rs41525747;Xu et al. (2010) Scand J Gastroentero. 45, 168
+2349;China;Kazak;81,3;43,9;194;0;-13907 C>G rs41525747;Xu et al. (2010) Scand J Gastroentero. 45, 168
+2352;China;Man (Manchu);123,2;40,2;216;0;-13907 C>G rs41525747;Xu et al. (2010) Scand J Gastroentero. 45, 168
+2356;China;Mongols;119,7;29,2;212;0;-13907 C>G rs41525747;Xu et al. (2010) Scand J Gastroentero. 45, 168
+2358;China;Northern Han;126,53;45,8;138;0;-13907 C>G rs41525747;Xu et al. (2010) Scand J Gastroentero. 45, 168
+2361;China;Oroqen;131;53,5;136;0;-13907 C>G rs41525747;Xu et al. (2010) Scand J Gastroentero. 45, 168
+2363;China;Tibetans (Nagqu);92,07;31,48;418;0;-13907 C>G rs41525747;Peng et al. (2012) J Hum Genet. 57, 394
+2364;China;Tibetans (Shigatse);88,88;29,27;572;0;-13907 C>G rs41525747;Peng et al. (2012) J Hum Genet. 57, 394
+2370;Georgia;Georgians;43,35;42,32;108;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2371;India;Andaman and Nicobar Islands;92,8;12,5;68;0;-13907 C>G rs41525747;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+2372;India;Central;79,45;23,84;358;0;-13907 C>G rs41525747;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+2373;India;Dawoodi Bohra (Gujarat);71,19;22,26;100;0;-13907 C>G rs41525747;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+2374;India;Dawoodi Bohra (Tamil Nadu);78,66;11,13;124;0;-13907 C>G rs41525747;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+2375;India;East;85,02;20,8;620;0;-13907 C>G rs41525747;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+2376;India;Indian Shia;80,1;27,57;142;0;-13907 C>G rs41525747;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+2377;India;Indian Sunni;80,1;27,57;164;0;-13907 C>G rs41525747;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+2378;India;Iranian Shia;80,1;17,05;98;0;-13907 C>G rs41525747;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+2379;India;Mappla;78,66;11,13;124;0;-13907 C>G rs41525747;Easwaarkanth et al. (2009) Eur J Hum Genet. 18, 354
+2380;India;North;76,78;30,75;580;0;-13907 C>G rs41525747;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+2381;India;North;77,2;28,6;120;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2382;India;North (Lucknow);80,95;26,85;154;0;-13907 C>G rs41525747;Babu et al. (2010) Am J Clin Nutr. 91, 140
+2383;India;North East;95;27,48;278;0;-13907 C>G rs41525747;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+2384;India;South;77,57;12,97;1728;0;-13907 C>G rs41525747;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+2385;India;South;80,28;13,08;102;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2386;India;South-Indian (Bangalore);77,59;12,97;152;0;-13907 C>G rs41525747;Babu et al. (2010) Am J Clin Nutr. 91, 140
+2387;India;West;73,68;24,58;936;0;-13907 C>G rs41525747;Galego Romero et al. (2012) Mol Biol Evol. 29, 249
+2389;Japan;Japanese from Osaka;138,24;36,21;84;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2390;Mongolia;Khalka;99,05;47,38;114;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2391;Mongolia;Mongols;106,92;47,92;52;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2392;Nepal;Nepalese;84,12;28,39;38;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2393;Nepal;Tharu;80,9;28,83;80;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2401;Pakistan;Hazara;65,64;28,48;24;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2406;Pakistan;Kalash;71,78;35,78;32;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2420;Russia;North-Yakuts;146,19;70,77;22;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2423;Russia;Yakuts;129,73;62,03;110;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2425;Singapore;Han-Chinese;104,21;35,86;98;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2427;Syria, Iraq, Lebanon, West Bank;Arabs;40;33;40;0;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2430;Uzbekistan;Uzbeks;64,59;41,38;76;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2433;Belarus;Belarusians;27,95;53,71;100;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2437;Estonia;Estonians;26,4;59,05;628;0;-13907 C>G rs41525747;Lember (2006) World J Gastroentero. 12, 7329.
+2438;Finland;Finns ;28;65;1876;0;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2447;Germany;Germans;10,45;51,17;60;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2448;Germany;Sorbs;14,31;51,26;64;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2450;Greece;Greeks;21,83;39,07;120;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2453;Ireland;Irish;-8;53,33;68;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2458;Italy;Italians (from rome);12,48;41,9;36;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2462;Italy;S. European*;12,48;41,9;66;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2470;Italy;Tyroleans Bozen;11,35;46,5;80;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2471;Italy;Tyroleans Gadertal;11,92;46,72;76;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2472;Italy;Tyroleans Vinschgau;10,77;46,63;102;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2473;Macedonia;Macedonians;21,75;41,61;100;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2474;Mixed;N. European;15;54;110;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2475;Netherlands;Dutch;5,86;51,82;92;0;-13907 C>G rs41525747;Hassan et al. (2016) BMC Res Notes. 9, 8 
+2476;Netherlands;Frisians;5,8;53,2;58;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2477;Norway;Norwegians;8,47;60,47;88;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2480;Poland;Polish;19,15;51,92;446;0;-13907 C>G rs41525747;Płoszaj et al. (2011) Cent Eur J Biol. 6, 176.
+2481;Portugal;Central_northern Portuguese;-8,41;40,2;894;0;-13907 C>G rs41525747;Manco et al. (2017) Eur J Clin Nutr. 71, 21
+2482;Portugal;Portuguese;-8,22;39,4;96;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2487;Romania;Romanians;24,97;45,94;118;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2490;Russia;Erzya;43,58;54,21;42;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2492;Russia;Moksha;44,07;54,24;32;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2494;RUSSIA;Russian (Coriell);37,62;55,75;14;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2495;Russia;Russians (Northwest);40,53;64,53;298;0;-13907 C>G rs41525747;Khabarova et al. (2009) World J Gastroentero. 15, 1849
+2496;Russia;Russians Perm;56,25;58,01;46;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2500;Spain;Catalans;1,52;41,59;58;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2502;Spain;Spanish;-3,7;40,51;62;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2503;Sweden;Northern European (Coriell);17,63;59,85;74;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2504;Sweden;Sami;20,87;67,87;60;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2506;Sweden;Swedes;15,01;60,03;74;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2507;UK;Northern European ancestry;-0,12;51,51;102;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2510;Ukraine;Ukrainians;31,17;48,38;74;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2511;Cyprus;Greek-Cypriots;33,02;34,71;120;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2513;Iran;Iranians;53,69;32,43;42;0;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2514;Iran;Iranians;53,69;32,43;154;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet, Mulcare (2006) PhD thesis, UCL
+2518;Israel;Bedouin Israeli;34,77;32,07;38;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2519;Israel;Druze;34,77;32,07;28;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2522;Israel;Urban Arabs;34,77;32,07;162;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2523;Israel;Urban Arabs;34,77;32,07;84;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2524;Israel/PAA;Palestinian Arabs;35,2;31,9;36;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2525;Israel/PAA;Palestinians;34,47;31,5;44;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2526;Jordan;Jordanian;35,93;31,95;112;0;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2527;Jordan;Jordanian;36,24;30,59;46;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2528;Kurwait;Ajman;48;28,83;74;0;-13907 C>G rs41525747;Hill et al. (2013) Am J Phys Anthr. 152, 140
+2529;Kuwait;Kuwaiti;47,48;29,31;66;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2530;Kuwait;Mutran;47,94;29,24;58;0,03;-13907 C>G rs41525747;Hill et al. (2013) Am J Phys Anthr. 152, 140
+2531;Lebanon;Lebanese;35,49;33,89;48;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2532;Oman;Arabs of Northern Oman;57,01;23,88;684;0;-13907 C>G rs41525747;Al-Abri et al. (2012) Hum Biol. 84, 271
+2533;Oman;Dhofaris Arabs of Southern Oman;54,43;18,4;420;0;-13907 C>G rs41525747;Al-Abri et al. (2012) Hum Biol. 84, 271
+2534;Oman;Omani;58,5;23,53;104;0;-13907 C>G rs41525747;Al-Abri et al. (2013) Oman Med J. 28, 341
+2535;Saudi Arabia;Bedouin;45;23;94;0;-13907 C>G rs41525747;Ingram et al. (2007) Hum Genet. 120, 779
+2536;Saudi Arabia;Central ;46,72;24,71;180;0;-13907 C>G rs41525747;Imtiaz et al. (2007) J Med Genet. 44, e89
+2537;Saudi Arabia;Eastern ;50,68;22,3;164;0;-13907 C>G rs41525747;Imtiaz et al. (2007) J Med Genet. 44, e89
+2538;Saudi Arabia;Northern;39,32;29,89;164;0;-13907 C>G rs41525747;Imtiaz et al. (2007) J Med Genet. 44, e89
+2539;Saudi Arabia;Southern;44,13;17,49;184;0;-13907 C>G rs41525747;Imtiaz et al. (2007) J Med Genet. 44, e89
+2540;Saudi Arabia;Western;39,82;21,42;172;0;-13907 C>G rs41525747;Imtiaz et al. (2007) J Med Genet. 44, e89
+2541;Saudi Arabia ;Arabs;45;23;248;0,01;-13907 C>G rs41525747;Enattah et al. (2008) Am J Hum Genet. 82, 57
+2543;Syria;Syrians;39;34,8;140;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2545;Turkey;Anatolian-Turks;31,33;38,99;116;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2546;Yemen;Yemen (judeo-yemen);44,21;15,35;46;0;-13907 C>G rs41525747;Ranciaro et al. (2014) Am J Hum Genet. 94, 496
+2547;Yemen;Yemeni (Sana'a University);44,21;15,35;478;0;-13907 C>G rs41525747;Al-Abri et al. (2012) Hum Biol. 84, 271
+2548;Yemen;Yemeni_Hadramaut;49,37;16,93;166;0,01;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2549;Yemen;Yemeni_Sena;44,21;15,35;68;0;-13907 C>G rs41525747;Liebert et al. (2017) Hum Genet
+2550;Yemen;Yemenis 1;44,18;13,32;86;0;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+2551;Yemen;Yemenis 2;43;14,82;132;0,02;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+2552;Yemen;Yemenis 3;43,6;15,7;68;0;-13907 C>G rs41525747;Priehodová et al, (2014) Hum Biol. 86, 7
+2553;Yemen;Yemenis 4;48,74;15,93;80;0;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+2554;Yemen;Yemenis 5;53,85;12,5;130;0;-13907 C>G rs41525747;Priehodová et al. (2014) Hum Biol. 86, 7
+;Chile;Communities of the Coquimbo Region in Chile;-71,542969;-35,675147;451;0,22;-13910 C>T rs4988235;Montalva N et al. (2019). Ann Hum Genet.
+;Yemen;Yemenis 1;44,18;13,32;43;0,638;-13915 T>G rs41380347;Priehodová E et al (2017). Am J Hum Biol. 
+;Yemen;Yemenis 2;43;14,82;66;0,638;-13915 T>G rs41380347;Priehodová E et al (2017). Am J Hum Biol. 
+;Yemen;Yemenis 3;43,6;15,7;34;0,638;-13915 T>G rs41380347;Priehodová E et al (2017). Am J Hum Biol. 
+;Sudan;Rashaayda;36,3;15,35;51;0,765;-13915 T>G rs41380347;Priehodová E et al (2017). Am J Hum Biol. 
+;Chad;Abbala;15,31;14,12;26;0,271;-13915 T>G rs41380347;Priehodová E et al (2017). Am J Hum Biol. 
+;Sudan;Baggara 1;28,35;11,53;53;0,271;-13915 T>G rs41380347;Priehodová E et al (2017). Am J Hum Biol. 
+;Chad;Baggara 2;17,95;13,18;50;0,271;-13915 T>G rs41380347;Priehodová E et al (2017). Am J Hum Biol. 
+;Mexico;Rural area in South-Central Mexico;-102,552784;23,634501;158;0,202;-13910 C>T rs4988235;Valencia L et al. (2017). Scand J Clin Lab Invest.
+;United States;African American;-95,712891;37,09024;13;0,3;-13910 C>T rs4988235;Chin EL et al. (2019). Nutrients
+;United States;Asian;-95,712891;37,09024;29;0,0344;-13910 C>T rs4988235;Chin EL et al. (2019). Nutrients
+;United States;Caucasian;-95,712891;37,09024;128;0,82;-13910 C>T rs4988235;Chin EL et al. (2019). Nutrients
+;United States;Hispanic;-95,712891;37,09024;32;0,21875;-13910 C>T rs4988235;Chin EL et al. (2019). Nutrients
+;United States;Other;-95,712891;37,09024;13;0,3076;-13910 C>T rs4988235;Chin EL et al. (2019). Nutrients
+;United States;Multi;-95,712891;37,09024;12;0,5833;-13910 C>T rs4988235;Chin EL et al. (2019). Nutrients
+;Denmark;Danes;12,58;55,73;82964;0,76;-13910 C>T rs4988235;Bergholdt et al. (2018). Eur J Epidemiol.
+;Iran;Kurd;53,688046;32,427908;138;0;-13915 T>G rs41380347;Charati H et al. (2019). Hum Genomics.
+;Iran;Mazani;53,688046;32,427908;110;0;-13915 T>G rs41380347;Charati H et al. (2019). Hum Genomics.
+;Iran;Persian;53,688046;32,427908;78;0,0128;-13915 T>G rs41380347;Charati H et al. (2019). Hum Genomics.
+;Iran;Arab;53,688046;32,427908;26;0,0384;-13915 T>G rs41380347;Charati H et al. (2019). Hum Genomics.
+;Iran;Lur;53,688046;32,427908;24;0;-13915 T>G rs41380347;Charati H et al. (2019). Hum Genomics.
+;Iran;Azeri;53,688046;32,427908;15;0;-13915 T>G rs41380347;Charati H et al. (2019). Hum Genomics.
+;Iran;Gilak;53,688046;32,427908;9;0;-13915 T>G rs41380347;Charati H et al. (2019). Hum Genomics.
+;Iran;Kurd;53,688046;32,427908;138;0,0724;-13910 C>T rs4988235;Charati H et al. (2019). Hum Genomics.
+;Iran;Mazani;53,688046;32,427908;110;0,0363;-13910 C>T rs4988235;Charati H et al. (2019). Hum Genomics.
+;Iran;Persian;53,688046;32,427908;78;0,0769;-13910 C>T rs4988235;Charati H et al. (2019). Hum Genomics.
+;Iran;Arab;53,688046;32,427908;26;0,0769;-13910 C>T rs4988235;Charati H et al. (2019). Hum Genomics.
+;Iran;Lur;53,688046;32,427908;24;0,0416;-13910 C>T rs4988235;Charati H et al. (2019). Hum Genomics.
+;Iran;Azeri;53,688046;32,427908;15;0,066;-13910 C>T rs4988235;Charati H et al. (2019). Hum Genomics.
+;Iran;Gilak;53,688046;32,427908;9;0;-13910 C>T rs4988235;Charati H et al. (2019). Hum Genomics.
+;Tunisia;Northern Tunisia;10,16;36,818;61;0,1192;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Italy;North Western and Central Western Italy;12,48;41,9;105;0,2761;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Italy;North Eastern Italy;12,48;41,9;139;0,2446;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Italy;Central Eastern and Southern Italy;12,48;41,9;159;0,1006;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Italy;Sardinia;12,48;41,9;47;0,0543;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;United States;Utah residents (CEPH) with Northern and Western European ancestry;-95,712891;37,09024;99;0,7373;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Nigeria;Esan in Nigeria;14,19;12,34;99;0;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Finland;Finnish in Finland;25,748151;61,92411;99;0,5909;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;United Kingdom;British in England and Scotland;-3,435973;55,378051;91;0,7197;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Gambia;Gambian in Western Division, The Gambia;-15,3101;13,4431;113;0,088;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Spain;Iberian populations in Spain;1,52;41,59;107;0,4579;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Kenya;Luhya in Webuye, Kenya;40,12;-3,22;99;0;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Sierra Leona;Mende in Sierra Leone;-11,779;8,460555;85;0;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Italy;Toscani in Italy;12,48;41,9;107;0,0887;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Nigeria;Yoruba in Ibadan, Nigeria;14,19;12,34;108;0;-13910 C>T rs4988235;Ben Halima Y et al. (2017). Genes Nutr.
+;Italy;North;12,48;41,9;1312;0,414;-13910 C>T rs4988235;Zadro C et al. (2017). Minerva Gastroenterol Dietol
+;Italy;Center;12,48;41,9;1312;0,259;-13910 C>T rs4988235;Zadro C et al. (2017). Minerva Gastroenterol Dietol
+;Italy;South;12,48;41,9;1312;0,329;-13910 C>T rs4988235;Zadro C et al. (2017). Minerva Gastroenterol Dietol
+;Czech Republic;Caucasian;15,47;49,8038;288;0,51;-13910 C>T rs4988235;Hubácek JA et al. (2017). Genet Mol Biol.
+;Czech Republic;Romani people;15,47;49,8038;300;0,143;-13910 C>T rs4988235;Hubácek JA et al. (2017). Genet Mol Biol.
