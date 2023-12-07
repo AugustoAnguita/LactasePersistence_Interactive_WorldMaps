@@ -1,0 +1,12 @@
+name: lactasepersistence
+title: lactasepersistence
+username: coblabugr
+account: coblabugr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10742764
+bundleId: 8019986
+url: https://coblabugr.shinyapps.io/lactasepersistence/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

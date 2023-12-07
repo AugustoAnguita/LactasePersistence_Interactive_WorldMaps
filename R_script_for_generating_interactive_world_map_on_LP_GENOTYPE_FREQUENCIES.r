@@ -1,6 +1,8 @@
 ###### OPTION 1
 
-Bd <- read.csv2("/home/augusto/Descargas/MAP_LACTOSE/DATABASES/FINAL_TO_MAP/FINAL_FINAL/DB_ALLELES_WHOLE.csv", header=TRUE, sep=";", stringsAsFactors=F, dec=",", na.strings=c(""," ","NaN","NA"))
+# Bd <- read.csv2("/home/augusto/Descargas/MAP_LACTOSE/DATABASES/FINAL_TO_MAP/FINAL_FINAL/DB_ALLELES_WHOLE.csv", header=TRUE, sep=";", stringsAsFactors=F, dec=",", na.strings=c(""," ","NaN","NA"))
+Bd = read.csv2("./www/INPUT_DATABASE_for_generating_interactive_world_map_on_LP_GENOTYPE_FREQUENCIES.csv", 
+               header=TRUE, sep=";", stringsAsFactors=F, dec=",", na.strings=c(""," ","NaN","NA"))
 #Datos input en formato wide
 Bd <- Bd[,2:9]
 Bd
@@ -82,9 +84,9 @@ m <- leaflet(quakes) %>%
   addLegend( pal=mypalette, values=~SNP, opacity=0.9, title = "LP-associated SNP", position = "bottomright" )
 
 m 
-library(htmlwidgets)
-
-saveWidget(m, file=paste0( "/home/augusto/Descargas/MAP_LACTOSE/OUTPUT_MAPS/MAP2.html"))
+# library(htmlwidgets)
+# 
+# saveWidget(m, file=paste0( "/home/augusto/Descargas/MAP_LACTOSE/OUTPUT_MAPS/MAP2.html"))
 
 #########ELEGIDO
 
@@ -126,12 +128,11 @@ m <- leaflet(quakes) %>%
   addLegend( pal=mypalette, values=~SNP, opacity=0.9, title = "LP-associated SNP", position = "bottomright" )
 
 m 
-library(htmlwidgets)
+# library(htmlwidgets)
+# 
+# saveWidget(m, file=paste0( "/home/augusto/Descargas/MAP_LACTOSE/OUTPUT_MAPS/backgroundMap_Five_Alleles_Option2.html"))
 
-saveWidget(m, file=paste0( "/home/augusto/Descargas/MAP_LACTOSE/OUTPUT_MAPS/backgroundMap_Five_Alleles_Option2.html"))
-
-
-
+# saveRDS(m, "./www/genotype_frequencies.RDS")
 
 
 
